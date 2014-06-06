@@ -44,14 +44,20 @@ describe "When looking at a single motion" do
   describe "when dealing with a bloc" do
 
     before do
-      @stance = Stance.new(bloc:'voter', filter: 'party.id:sdlp', issue: Issue.new('PW-1049'))
+      @stance = Stance.new(bloc:'voter.id', filter: 'party.id:sdlp', issue: Issue.new('PW-1049'))
     end
 
     it "should have one bloc" do
       @stance.blocs.size.must_equal 1
-      @stance.blocs.first.must_equal 'voter'
+      @stance.blocs.first.must_equal 'voter.id'
     end
 
+    it "should have a bloc_aggregate for each MP" do
+      ba = @stance.bloc_aggregates
+      ba.keys.size.must_equal 3
+      ba['john_hume'].size.must_equal 6
+      # JSON.pretty_generate(ba).must_equal "foo"
+    end
   end
 
 end

@@ -28,7 +28,8 @@ end
 
 class Stance
 
-  require 'open-uri'
+  require 'open-uri/cached'
+  OpenURI::Cache.cache_path = '/tmp/cache'
 
   @@SERVER = 'http://localhost:5000'
   @@API    = '/api/1'
@@ -58,10 +59,20 @@ class Stance
     }
   end
 
+  def weighted_aggregates
+    @wa ||= aggregates.map { |ai| weighted_aggregate(ai) }
+  end
+
+  def bloc_aggregates
+    bloc_keys = blocs
+    abort "Can't handle multi-blocs yet" if bloc_keys.size > 1
+    aggregates.group_by { |ai| ai['bloc'][bloc_keys.first] }
+  end
+
   # TODO group by bloc
   def score
     # Sum the nested hash values by reducing the merge
-    aggregates.map { |ai| weighted_aggregate(ai) }.inject { |a, b|
+    weighted_aggregates.inject { |a, b|
       a.merge(b) { |k, aval, bval| aval + bval }
     }
   end
