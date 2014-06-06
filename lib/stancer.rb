@@ -42,10 +42,12 @@ class Stance
   end
 
   def score
+    # Sum the nested hash values by reducing the merge
     @issue.motion_ids.map { |mid| motion_score(mid) }.inject { |a, b|
       a.merge(b) { |k, aval, bval| aval + bval }
     }
   end
+
 
   def motion_score(motionid)
     aspect = @issue.aspect_for(motionid) or raise "No votes on #{motionid}" 
@@ -70,7 +72,7 @@ class Stance
 
   private
   def aggregate
-    aggregate_json['aggregate']
+    @__agg ||= aggregate_json['aggregate']
   end
 
   def aggregate_url
@@ -78,11 +80,11 @@ class Stance
   end
 
   def aggregate_txt
-    open(aggregate_url).read
+    @__txt ||= open(aggregate_url).read
   end
 
   def aggregate_json
-    JSON.parse(aggregate_txt)
+    @__json ||= JSON.parse(aggregate_txt)
   end
 
 end
