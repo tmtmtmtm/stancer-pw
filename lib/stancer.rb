@@ -33,9 +33,12 @@ class Stance
   @@SERVER = 'http://localhost:5000'
   @@API    = '/api/1'
 
-  def initialize(filter, issue)
-    @filter = filter
-    @issue = issue
+  # TODO: restrict to issue / filter / bloc
+  def initialize args
+    raise "Need an issue" unless args[:issue]
+    args.each do |k,v|
+      instance_variable_set("@#{k}", v) unless v.nil?
+    end
   end
 
   def score
@@ -71,7 +74,7 @@ class Stance
   end
 
   def aggregate_url
-    @@SERVER + @@API + "/aggregate?" + URI.encode_www_form(motion: @issue.motion_ids, filter: @filter)
+    @@SERVER + @@API + "/aggregate?" + URI.encode_www_form(motion: @issue.motion_ids, filter: @filter, bloc: @bloc)
   end
 
   def aggregate_txt

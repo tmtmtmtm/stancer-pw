@@ -8,7 +8,7 @@ describe "When looking at a single motion" do
   describe "when dealing with a single MP" do
 
     before do
-      @stance = Stance.new( 'voter.id:david_cameron', Issue.new('PW-1049'))
+      @stance = Stance.new(filter: 'voter.id:david_cameron', issue: Issue.new('PW-1049'))
     end
 
     it "can't handle missing motions" do
@@ -26,7 +26,7 @@ describe "When looking at a single motion" do
   describe "when dealing with a party" do
 
     before do
-      @stance = Stance.new( 'party.id:sdlp', Issue.new('PW-1049'))
+      @stance = Stance.new(filter: 'party.id:sdlp', issue: Issue.new('PW-1049'))
     end
 
     it "should get correct score/max" do
@@ -45,7 +45,7 @@ describe "When looking at a whole issue " do
 
     before do
       @issue =  Issue.new('PW-1049')
-      @stance = Stance.new( 'voter.id:david_cameron', @issue )
+      @stance = Stance.new(filter: 'voter.id:david_cameron', issue: @issue )
     end
 
     it "count should sum" do
@@ -90,7 +90,7 @@ describe "When looking at a whole issue " do
   describe "when dealing with a party" do
 
     before do
-      @stance = Stance.new( 'party.id:sdlp', Issue.new('PW-1049'))
+      @stance = Stance.new(filter: 'party.id:sdlp', issue: Issue.new('PW-1049'))
     end
 
     it "should get correct score/max" do
