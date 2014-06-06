@@ -106,8 +106,6 @@ describe "For an Aspect" do
   end
 end
 
-#----------------
-
 describe "When looking at an entire issue" do
 
   describe "when dealing with a single MP" do
@@ -140,6 +138,29 @@ describe "When looking at an entire issue" do
       sb[:num_votes].must_equal 3*6
       sb[:score].must_equal 106
       sb[:max].must_equal 3*140
+    end
+
+  end
+
+  describe "when dealing with a party who has never voted on the issue" do
+
+    before do
+      @aspect = Aspect.new(filter: 'party.id:ukip', issue: Issue.new('PW-1027'))
+    end
+
+    it "should have no weighted blocs as no MPs voted" do
+      @aspect.weighted_blocs.count.must_equal 0
+    end
+
+    it "should have no scored blocs as no MPs voted" do
+      @aspect.weighted_blocs.count.must_equal 0
+    end
+
+    it "should score 0" do
+      # sb = @aspect.scored_blocs[...?] # How does this work, then?
+      # sb[:num_votes].must_equal 0
+      # sb[:score].must_equal 0
+      # sb[:max].must_equal 0
     end
 
   end

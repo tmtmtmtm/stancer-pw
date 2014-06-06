@@ -109,9 +109,7 @@ class Aggregate
 
   private
   def aggregates
-    @__agg ||= aggregate_json['aggregate']
-    raise "No results for #{aggregate_url}" if @__agg.count.zero?
-    @__agg
+    @__agg ||= aggregate_json['aggregate'] 
   end
 
   def aggregate_url
