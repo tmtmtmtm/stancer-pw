@@ -58,6 +58,7 @@ class Stance
     }
   end
 
+  # TODO group by bloc
   def score
     # Sum the nested hash values by reducing the merge
     aggregates.map { |ai| weighted_aggregate(ai) }.inject { |a, b|
@@ -69,6 +70,10 @@ class Stance
     ai = aggregates.detect { |a| a['motion_id'] == motionid }
     raise "No such motion #{motionid}" if ai.nil?
     weighted_aggregate(ai)
+  end
+
+  def blocs
+    aggregate_json['request']['blocs'].reject(&:empty?)
   end
 
   private

@@ -21,6 +21,10 @@ describe "When looking at a single motion" do
       score[:max].must_equal 10
     end
 
+    it "should have no blocs" do
+      @stance.blocs.must_equal []
+    end
+
   end
 
   describe "when dealing with a party" do
@@ -33,6 +37,19 @@ describe "When looking at a single motion" do
       score = @stance.motion_score('pw-2003-03-18-117')
       score[:score].must_equal 50
       score[:max].must_equal 150
+    end
+
+  end
+
+  describe "when dealing with a bloc" do
+
+    before do
+      @stance = Stance.new(bloc:'voter', filter: 'party.id:sdlp', issue: Issue.new('PW-1049'))
+    end
+
+    it "should have one bloc" do
+      @stance.blocs.size.must_equal 1
+      @stance.blocs.first.must_equal 'voter'
     end
 
   end
