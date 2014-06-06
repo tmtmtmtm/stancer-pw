@@ -58,7 +58,7 @@ describe "For an Aspect" do
     end
 
     it "should score Margaret Ritchie OK" do
-      sb = @aspect.scored_blocs['margaret_ritchie']
+      sb = @aspect.score('margaret_ritchie')
       sb[:num_votes].must_equal 1
       sb[:score].must_equal 25
       sb[:max].must_equal 50
@@ -97,7 +97,7 @@ describe "For an Aspect" do
     end
 
     it "should score Margaret Ritchie OK" do
-      sb = @aspect.scored_blocs['margaret_ritchie']
+      sb = @aspect.score('margaret_ritchie')
       sb[:num_votes].must_equal 2
       sb[:score].must_equal 25
       sb[:max].must_equal 60
@@ -116,7 +116,7 @@ describe "When looking at an entire issue" do
 
     it "should get correct score/max" do
       # http://www.publicwhip.org.uk/mp.php?mpid=40665&dmp=1049
-      sb = @aspect.scored_blocs[nil] # TODO change how this works. Ugly!
+      sb = @aspect.score # TODO change how this works. Ugly!
       sb[:num_votes].must_equal 6
       sb[:score].must_equal 131
       sb[:max].must_equal 140
@@ -134,7 +134,7 @@ describe "When looking at an entire issue" do
       # http://www.publicwhip.org.uk/mp.php?mpid=1552&dmp=1049 (2)
       # http://www.publicwhip.org.uk/mp.php?mpid=984&dmp=1049 (52)
       # http://www.publicwhip.org.uk/mp.php?mpid=1091&dmp=1049 (52)
-      sb = @aspect.scored_blocs[nil] # TODO change how this works. Ugly!
+      sb = @aspect.score # TODO change how this works. Ugly!
       sb[:num_votes].must_equal 3*6
       sb[:score].must_equal 106
       sb[:max].must_equal 3*140

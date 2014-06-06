@@ -44,7 +44,7 @@ class Aspect
   end
 
   def weighted_blocs
-    Hash[ 
+    @__wb ||= Hash[ 
       aggregate.bloc_aggregates.map { |bloc, aggs|
         [ bloc,  aggs.map { |ai| weighted_aggregate(ai) } ]
       }
@@ -53,12 +53,17 @@ class Aspect
 
   def scored_blocs
     # Sum the nested hash values by reducing the merge
-    sb = Hash[
+    @__sb ||= Hash[
       weighted_blocs.map { |bloc,waggs|
         [ bloc, waggs.each.inject { |a, b| a.merge(b) { |k, aval, bval| aval + bval } } ]
       }
     ]
   end
+
+  def score(bloc=nil)
+    scored_blocs[bloc]
+  end
+
 
   private
   # score a given aggregate by looking up the weights for that motion in
