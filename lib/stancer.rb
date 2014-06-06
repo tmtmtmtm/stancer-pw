@@ -8,7 +8,7 @@ class Issue
 
   def initialize(id)
     @id = id
-    @data = @@issues.find { |i| i['id'] == id }
+    @data = @@issues.detect { |i| i['id'] == id }
     raise "No such issue (#{id})" if @data.nil?
   end
 
@@ -21,27 +21,48 @@ class Issue
   end
 
   def aspect_for(motionid)
-    aspects.find { |a| a['motion_id'] == motionid }
+    aspects.detect { |a| a['motion_id'] == motionid }
   end
 
 end
 
-class Stance
 
-  require 'open-uri/cached'
-  OpenURI::Cache.cache_path = '/tmp/cache'
+class Aspect
+  # weightable aggregate
 
-  @@SERVER = 'http://localhost:5000'
-  @@API    = '/api/1'
-
-  # TODO: restrict to issue / filter / bloc
+  # TODO: issue / motion / filter / bloc
   def initialize args
-    raise "Need an issue" unless args[:issue]
     args.each do |k,v|
       instance_variable_set("@#{k}", v) unless v.nil?
     end
+    raise "Need an issue" if @issue.nil?
+    @motion = @issue.motion_ids if @motion.nil?
   end
 
+  def aggregate
+    @__agg ||= Aggregate.new(bloc: @bloc, filter: @filter, motion: @motion)
+  end
+
+  def weighted_blocs
+    Hash[ 
+      aggregate.bloc_aggregates.map { |bloc, aggs|
+        [ bloc,  aggs.map { |ai| weighted_aggregate(ai) } ]
+      }
+    ]
+  end
+
+  def scored_blocs
+    # Sum the nested hash values by reducing the merge
+    sb = Hash[
+      weighted_blocs.map { |bloc,waggs|
+        [ bloc, waggs.each.inject { |a, b| a.merge(b) { |k, aval, bval| aval + bval } } ]
+      }
+    ]
+  end
+
+  private
+  # score a given aggregate by looking up the weights for that motion in
+  # the given Issue
   def weighted_aggregate (ai)
     motionid = ai['motion_id']
     aspect = @issue.aspect_for(motionid) or raise "No votes on #{motionid}" 
@@ -59,28 +80,27 @@ class Stance
     }
   end
 
-  def weighted_aggregates
-    @wa ||= aggregates.map { |ai| weighted_aggregate(ai) }
+end
+
+class Aggregate
+
+  require 'open-uri/cached'
+  OpenURI::Cache.cache_path = '/tmp/cache'
+
+  @@SERVER = 'http://localhost:5000'
+  @@API    = '/api/1'
+
+  # TODO: restrict to motion / filter / bloc
+  def initialize args
+    args.each do |k,v|
+      instance_variable_set("@#{k}", v) unless v.nil?
+    end
   end
 
   def bloc_aggregates
     bloc_keys = blocs
     abort "Can't handle multi-blocs yet" if bloc_keys.size > 1
     aggregates.group_by { |ai| ai['bloc'][bloc_keys.first] }
-  end
-
-  # TODO group by bloc
-  def score
-    # Sum the nested hash values by reducing the merge
-    weighted_aggregates.inject { |a, b|
-      a.merge(b) { |k, aval, bval| aval + bval }
-    }
-  end
-
-  def motion_score(motionid)
-    ai = aggregates.detect { |a| a['motion_id'] == motionid }
-    raise "No such motion #{motionid}" if ai.nil?
-    weighted_aggregate(ai)
   end
 
   def blocs
@@ -90,10 +110,12 @@ class Stance
   private
   def aggregates
     @__agg ||= aggregate_json['aggregate']
+    raise "No results for #{aggregate_url}" if @__agg.count.zero?
+    @__agg
   end
 
   def aggregate_url
-    @@SERVER + @@API + "/aggregate?" + URI.encode_www_form(motion: @issue.motion_ids, filter: @filter, bloc: @bloc)
+    @@SERVER + @@API + "/aggregate?" + URI.encode_www_form(motion: @motion, filter: @filter, bloc: @bloc)
   end
 
   def aggregate_txt
