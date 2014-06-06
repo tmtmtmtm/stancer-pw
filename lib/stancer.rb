@@ -41,37 +41,38 @@ class Stance
     end
   end
 
-  def score
-    # Sum the nested hash values by reducing the merge
-    @issue.motion_ids.map { |mid| motion_score(mid) }.inject { |a, b|
-      a.merge(b) { |k, aval, bval| aval + bval }
-    }
-  end
-
-
-  def motion_score(motionid)
+  def weighted_aggregate (ai)
+    motionid = ai['motion_id']
     aspect = @issue.aspect_for(motionid) or raise "No votes on #{motionid}" 
     weights = aspect['weights']
 
-    agg_match = aggregate.detect { |a| a['motion_id'] == motionid }
-    votes     = agg_match['counts']
-
-    # TODO test if this matches the results
+    votes     = ai['counts']
     num_votes = votes.values.map(&:to_i).reduce(:+)
     max_score = weights.values.max * num_votes
     score = votes.map { |option, count| weights[option] * count }.reduce(:+)
 
     return { 
-      # weights: weights,
-      # votes: votes,
       num_votes: num_votes,
       score: score,
       max: max_score,
     }
   end
 
+  def score
+    # Sum the nested hash values by reducing the merge
+    aggregates.map { |ai| weighted_aggregate(ai) }.inject { |a, b|
+      a.merge(b) { |k, aval, bval| aval + bval }
+    }
+  end
+
+  def motion_score(motionid)
+    ai = aggregates.detect { |a| a['motion_id'] == motionid }
+    raise "No such motion #{motionid}" if ai.nil?
+    weighted_aggregate(ai)
+  end
+
   private
-  def aggregate
+  def aggregates
     @__agg ||= aggregate_json['aggregate']
   end
 
