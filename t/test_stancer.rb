@@ -157,10 +157,10 @@ describe "When looking at an entire issue" do
     end
 
     it "should score 0" do
-      # sb = @aspect.scored_blocs[...?] # How does this work, then?
-      # sb[:num_votes].must_equal 0
-      # sb[:score].must_equal 0
-      # sb[:max].must_equal 0
+      sb = @aspect.score
+      sb[:num_votes].must_equal 0
+      sb[:score].must_equal 0
+      sb[:max].must_equal 0
     end
 
   end

@@ -61,7 +61,15 @@ class Aspect
   end
 
   def score(bloc=nil)
-    scored_blocs[bloc]
+    sb = scored_blocs
+    return sb[bloc] unless sb.empty?
+    # TODO I don't like hard-coding this here. It should just sum as
+    # normal, but to zero
+    return {
+      num_votes: 0,
+      score: 0,
+      max: 0,
+    }
   end
 
 
