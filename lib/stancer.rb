@@ -25,7 +25,9 @@ class Issue
   end
 
   def aspects
-    @data['aspects']
+    aspects = @data['aspects']
+    raise "No aspects in #{@data}" if aspects.nil?
+    return aspects
   end
 
   def motion_ids
@@ -123,6 +125,7 @@ class Aggregate
   require 'open-uri/cached'
   OpenURI::Cache.cache_path = '/tmp/cache'
 
+  # FIXME make this more easily configurable
   @@SERVER = 'http://localhost:5000'
   @@API    = '/api/1'
 

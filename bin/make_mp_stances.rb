@@ -1,26 +1,40 @@
 #!/usr/bin/ruby
 
+# Usage: ruby -Ilib bin/make_mp_stances.rb > mpstances.json
+
 require 'json'
 require 'stancer'
 require 'parallel'
+require 'colorize'
 
-issues = JSON.parse(File.read('data.json'))
+issues = JSON.parse(File.read('issues.json'))
 parties = JSON.parse(File.read('parties.json'))
 
-issues.each do |i|
+allstances = []
+errors = []
+
+Parallel.each(issues, :in_threads => 10) do |i|
   begin
     stances = parties.map { |p|
       warn "Calculating #{i['text']} (#{i['id']}) for #{p['name']}"
-      # Parallel.each(..., :in_threads => 10) do |i|
       Aspect.new(
         bloc:'voter.id',
         filter: "party.id:#{p['id']}",
-        issue: Issue.new(i['id']),
+        issue: Issue.new(i),
       ).scored_blocs
     }.reduce(:merge)
+    
     i['stances'] = stances
-    puts JSON.pretty_generate(i)
-  rescue
-    warn "PROBLEM with #{i['text']} (#{i['id']})"
+    allstances << i
+  rescue => e
+    msg = "PROBLEM with #{i['text']} (#{i['id']}) = #{e}"
+    errors << msg
+    warn "#{msg}.red"
   end
+end
+
+puts JSON.pretty_generate(allstances.sort_by { |s| s['id'].sub(/^PW-/, '').to_i } )
+
+errors.each do |msg| 
+  warn "#{msg}".yellow
 end

@@ -1,16 +1,21 @@
 #!/usr/bin/ruby
 
+# Usage: ruby -Ilib bin/make_party_stances.rb > partystances.yaml
+
 require 'json'
 require 'stancer'
+require 'parallel'
 
-issues = JSON.parse(File.read('data.json'))
+issues = JSON.parse(File.read('issues.json'))
 
-issues.each do |i|
-  warn "Calculating #{i['text']}"
-  aspect = Aspect.new(
+allstances = Parallel.map(issues, :in_threads => 5) do |i|
+  warn "Generating stance on #{i['id']}"
+  i['stances'] = Aspect.new(
     bloc:'party.id',
-    issue: Issue.new(i['id']),
-  )
-  i['stances'] = aspect.scored_blocs
-  puts JSON.pretty_generate(i)
+    issue: Issue.new(i),
+  ).scored_blocs
+  i
 end
+
+puts JSON.pretty_generate(allstances.sort_by { |s| s['id'].sub(/^PW-/, '').to_i } )
+
