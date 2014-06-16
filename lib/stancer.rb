@@ -21,7 +21,7 @@ class Issue
   end
 
   def aggregate_on (hash)
-    (@__a ||= {})[hash] = WeightedAggregate.new( { issue: self }.merge hash)
+    (@__a ||= {})[hash] = WeightedAggregate.new( { aspects: aspects }.merge hash)
   end
 
   def aspects
@@ -36,20 +36,14 @@ end
 class WeightedAggregate
   # weightable aggregate
 
-  # TODO: issue / motion / filter / bloc
+  # Required: aspects 
+  # May take: motions / filter / bloc
   def initialize args
     args.each do |k,v|
       instance_variable_set("@#{k}", v) unless v.nil?
     end
-
-    if @aspects.nil?
-      raise "Need an issue" if @issue.nil?
-      @aspects = @issue.aspects
-    end
-
-    if @motion.nil?
-      @motion = @aspects.map { |a| a['motion_id'] } 
-    end
+    raise "Need aspects" if @aspects.nil?
+    @motion ||= @aspects.map { |a| a['motion_id'] } 
   end
 
   def aggregate
