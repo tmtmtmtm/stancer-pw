@@ -30,11 +30,6 @@ class Issue
     return aspects
   end
 
-  # TODO remove this. Seems inside out.
-  def aspect_for(motionid)
-    aspects.detect { |a| a['motion_id'] == motionid }
-  end
-
 end
 
 
@@ -47,9 +42,12 @@ class WeightedAggregate
       instance_variable_set("@#{k}", v) unless v.nil?
     end
 
-    if @motion.nil?
+    if @aspects.nil?
       raise "Need an issue" if @issue.nil?
       @aspects = @issue.aspects
+    end
+
+    if @motion.nil?
       @motion = @aspects.map { |a| a['motion_id'] } 
     end
   end
@@ -91,8 +89,10 @@ class WeightedAggregate
 
   private
 
+  # FIXME This seems back to front. We should always know what aspect
+  # we're working with.
   def aspect_for(motionid)
-    @issue.aspect_for(motionid)
+    @aspects.detect { |a| a['motion_id'] == motionid }
   end
 
   # score a given aggregate by looking up the weights for that motion in
