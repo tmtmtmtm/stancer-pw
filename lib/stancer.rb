@@ -31,6 +31,35 @@ class Issue
 
 end
 
+class Score
+  # num_votes / score / max 
+  def initialize args
+    args.each do |k,v|
+      instance_variable_set("@#{k}", v) unless v.nil?
+    end
+    @weight = weight
+  end
+
+  # TODO this only works when vote ranges are 0..max
+  # FIXME for negatives, or other ranges, by calculating min_score too
+  def weight
+    @num_votes.zero? ? 0.5 : @score / @max
+  end
+
+  def +(other)
+    Score.new(
+      num_votes: @num_votes + other[:num_votes],
+      score:     @score + other[:score],
+      max:       @max + other[:max],
+    )
+  end
+
+  def [](arg)
+    instance_variable_get("@#{arg}")
+  end
+
+end
+
 
 class WeightedAggregate
 
@@ -57,13 +86,7 @@ class WeightedAggregate
   end
 
   def scored_blocs
-    # combined_blocs + weight (must add at end, as can't be summed)
-    sb = __combined_blocs
-    # TODO this only works when vote ranges are 0..max
-    # FIXME for negatives, or other ranges, by calculating min_score too
-    return Hash[ sb.map { |k, v|
-      [k, v.merge({ weight: v[:num_votes].zero? ? 0.5 : v[:score] / v[:max] })]
-    }]
+    return __combined_blocs
   end
 
   def score(bloc=nil)
@@ -71,11 +94,11 @@ class WeightedAggregate
     return sb[bloc] unless sb.empty?
     # TODO I don't like hard-coding this here. It should just sum as
     # normal, but to zero
-    return {
+    return Score.new(
       num_votes: 0,
       score: 0,
       max: 0,
-    }
+    )
   end
 
 
@@ -99,20 +122,16 @@ class WeightedAggregate
     max_score = weights.values.max * num_votes
     score = votes.map { |option, count| weights[option] * count }.reduce(:+)
 
-    return { 
+    return Score.new( 
       num_votes: num_votes,
       score: score,
       max: max_score,
-    }
+    )
   end
 
-  # { num:1, score:10, max:20 } + {num:2, score:4, max:30} 
-  #   = {num:3, score:14, max:50}
   def __combined_blocs
     @__cb ||= Hash[
-      weighted_blocs.map { |bloc,waggs|
-        [ bloc, waggs.each.inject { |a, b| a.merge(b) { |k, aval, bval| aval + bval } } ]
-      }
+      weighted_blocs.map { |bloc,waggs| [ bloc, waggs.reduce(:+) ] }
     ]
   end
 
