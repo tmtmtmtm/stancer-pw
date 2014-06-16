@@ -7,7 +7,10 @@ require 'stancer'
 require 'parallel'
 require 'colorize'
 
-issues = JSON.parse(File.read('issues.json'))
+issues  = JSON.parse(File.read('issues.json'))
+
+# TODO remove the need for this file. It seems odd that party stances
+# need it, but 
 parties = JSON.parse(File.read('parties.json'))
 
 allstances = []
@@ -17,10 +20,9 @@ Parallel.each(issues, :in_threads => 10) do |i|
   begin
     stances = parties.map { |p|
       warn "Calculating #{i['text']} (#{i['id']}) for #{p['name']}"
-      Aspect.new(
+      Issue.new(i).aggregate_on(
         bloc:'voter.id',
         filter: "party.id:#{p['id']}",
-        issue: Issue.new(i),
       ).scored_blocs
     }.reduce(:merge)
     

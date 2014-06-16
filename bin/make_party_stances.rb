@@ -10,9 +10,8 @@ issues = JSON.parse(File.read('issues.json'))
 
 allstances = Parallel.map(issues, :in_threads => 5) do |i|
   warn "Generating stance on #{i['id']}"
-  i['stances'] = Aspect.new(
+  i['stances'] = Issue.new(i).aggregate_on(
     bloc:'party.id',
-    issue: Issue.new(i),
   ).scored_blocs
   i
 end
