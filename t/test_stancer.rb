@@ -36,7 +36,7 @@ describe "For an Aspect" do
         bloc:'voter.id',
         filter: 'party.id:sdlp', 
         motion: 'pw-2010-07-06-14',
-        issue: Issues.new('data.json').issue('PW-1110'),
+        issue: Issues.new('issues.json').issue('PW-1110'),
       )
     end
 
@@ -73,7 +73,7 @@ describe "For an Aspect" do
         bloc:'voter.id',
         filter: 'party.id:sdlp', 
         motion: [ 'pw-2010-07-06-14', 'pw-2010-07-13-18' ],
-        issue: Issues.new('data.json').issue('PW-1110'),
+        issue: Issues.new('issues.json').issue('PW-1110'),
       )
     end
 
@@ -111,7 +111,7 @@ describe "When looking at an entire issue" do
   describe "when dealing with a single MP" do
 
     before do
-      @aspect = Aspect.new(filter: 'voter.id:david_cameron', issue: Issues.new('data.json').issue('PW-1049'))
+      @aspect = Aspect.new(filter: 'voter.id:david_cameron', issue: Issues.new('issues.json').issue('PW-1049'))
     end
 
     it "should get correct score/max" do
@@ -127,7 +127,7 @@ describe "When looking at an entire issue" do
   describe "when dealing with a party" do
 
     before do
-      @aspect = Aspect.new(filter: 'party.id:sdlp', issue: Issues.new('data.json').issue('PW-1049'))
+      @aspect = Aspect.new(filter: 'party.id:sdlp', issue: Issues.new('issues.json').issue('PW-1049'))
     end
 
     it "should get correct score/max" do
@@ -145,7 +145,7 @@ describe "When looking at an entire issue" do
   describe "when dealing with a party who has never voted on the issue" do
 
     before do
-      @aspect = Aspect.new(filter: 'party.id:ukip', issue: Issues.new('data.json').issue('PW-1027'))
+      @aspect = Aspect.new(filter: 'party.id:ukip', issue: Issues.new('issues.json').issue('PW-1027'))
     end
 
     it "should have no weighted blocs as no MPs voted" do
