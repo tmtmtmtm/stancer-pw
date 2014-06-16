@@ -14,7 +14,6 @@ class Issues
 end
 
 class Issue
-  require 'json'
 
   def initialize(data)
     @data = data
@@ -34,7 +33,6 @@ end
 
 
 class WeightedAggregate
-  # weightable aggregate
 
   # Required: aspects 
   # May take: motions / filter / bloc
@@ -121,9 +119,10 @@ class WeightedAggregate
 end
 
 class Aggregate
-
   # Look up the relevant motion(s) on the voteit-api server
   # Knows nothing about Issues/Aspects etc.
+ 
+  require 'json'
 
   require 'open-uri/cached'
   OpenURI::Cache.cache_path = '/tmp/cache'
