@@ -21,7 +21,7 @@ class Issue
   end
 
   def aggregate_on (hash)
-    (@__a ||= {})[hash] = Aspect.new( { issue: self }.merge hash)
+    (@__a ||= {})[hash] = WeightedAggregate.new( { issue: self }.merge hash)
   end
 
   def aspects
@@ -41,7 +41,7 @@ class Issue
 end
 
 
-class Aspect
+class WeightedAggregate
   # weightable aggregate
 
   # TODO: issue / motion / filter / bloc
@@ -121,6 +121,9 @@ class Aspect
 end
 
 class Aggregate
+
+  # Look up the relevant motion(s) on the voteit-api server
+  # Knows nothing about Issues/Aspects etc.
 
   require 'open-uri/cached'
   OpenURI::Cache.cache_path = '/tmp/cache'
