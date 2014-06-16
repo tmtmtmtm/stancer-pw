@@ -30,10 +30,7 @@ class Issue
     return aspects
   end
 
-  def motion_ids
-    aspects.map { |a| a['motion_id'] }
-  end
-
+  # TODO remove this. Seems inside out.
   def aspect_for(motionid)
     aspects.detect { |a| a['motion_id'] == motionid }
   end
@@ -49,8 +46,12 @@ class WeightedAggregate
     args.each do |k,v|
       instance_variable_set("@#{k}", v) unless v.nil?
     end
-    raise "Need an issue" if @issue.nil?
-    @motion = @issue.motion_ids if @motion.nil?
+
+    if @motion.nil?
+      raise "Need an issue" if @issue.nil?
+      @aspects = @issue.aspects
+      @motion = @aspects.map { |a| a['motion_id'] } 
+    end
   end
 
   def aggregate
@@ -89,11 +90,16 @@ class WeightedAggregate
 
 
   private
+
+  def aspect_for(motionid)
+    @issue.aspect_for(motionid)
+  end
+
   # score a given aggregate by looking up the weights for that motion in
-  # the given Issue
+  # the given Aspect(s)
   def weighted_aggregate (ai)
     motionid = ai['motion_id']
-    aspect = @issue.aspect_for(motionid) or raise "No votes on #{motionid}" 
+    aspect = aspect_for(motionid) or raise "No votes on #{motionid}" 
     weights = aspect['weights']
 
     votes     = ai['counts']
