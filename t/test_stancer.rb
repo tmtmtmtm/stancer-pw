@@ -32,11 +32,10 @@ describe "For a Weighted Aggregate" do
   describe "when dealing with a single motion" do
 
     before do
-      @wa = WeightedAggregate.new(
+      @wa = Issues.new('issues.json').issue('PW-1110').aggregate_on(
         bloc:'voter.id',
         filter: 'party.id:sdlp', 
         motion: 'pw-2010-07-06-14',
-        issue: Issues.new('issues.json').issue('PW-1110'),
       )
     end
 
@@ -69,11 +68,10 @@ describe "For a Weighted Aggregate" do
   describe "when dealing with multiple motions" do
 
     before do
-      @wa = WeightedAggregate.new(
+      @wa = Issues.new('issues.json').issue('PW-1110').aggregate_on(
         bloc:'voter.id',
         filter: 'party.id:sdlp', 
         motion: [ 'pw-2010-07-06-14', 'pw-2010-07-13-18' ],
-        issue: Issues.new('issues.json').issue('PW-1110'),
       )
     end
 
@@ -111,7 +109,7 @@ describe "When looking at an entire issue" do
   describe "when dealing with a single MP" do
 
     before do
-      @wa = WeightedAggregate.new(filter: 'voter.id:david_cameron', issue: Issues.new('issues.json').issue('PW-1049'))
+      @wa = Issues.new('issues.json').issue('PW-1049').aggregate_on(filter: 'voter.id:david_cameron')
     end
 
     it "should get correct score/max" do
@@ -127,7 +125,7 @@ describe "When looking at an entire issue" do
   describe "when dealing with a party" do
 
     before do
-      @wa = WeightedAggregate.new(filter: 'party.id:sdlp', issue: Issues.new('issues.json').issue('PW-1049'))
+      @wa = Issues.new('issues.json').issue('PW-1049').aggregate_on(filter: 'party.id:sdlp')
     end
 
     it "should get correct score/max" do
@@ -145,7 +143,7 @@ describe "When looking at an entire issue" do
   describe "when dealing with a party who has never voted on the issue" do
 
     before do
-      @wa = WeightedAggregate.new(filter: 'party.id:ukip', issue: Issues.new('issues.json').issue('PW-1027'))
+      @wa = Issues.new('issues.json').issue('PW-1027').aggregate_on(filter: 'party.id:ukip')
     end
 
     it "should have no weighted blocs as no MPs voted" do
