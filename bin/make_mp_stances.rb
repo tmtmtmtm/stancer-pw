@@ -14,17 +14,17 @@ errors = []
 
 Parallel.each(issues, :in_threads => 10) do |i|
   begin
-    # Do in blocks of 10
     issue = Issue.new(i)
-    stances = issue.aspects.each_slice(10).map { |as|
+    # Do in blocks of 20 to avoid MongoDB problems
+    stances = issue.aspects.each_slice(20).map { |as|
       warn "Calculating #{i['text']} (#{i['id']}) for #{as.count} aspects"
       issue.aggregate_on(
         bloc:    'voter.id',
-        motions: as.map { |a| a['motion_id'] },
+        motion: as.map { |a| a['motion_id'] },
       ).scored_blocs
-    }.reduce(:merge)
+    }.inject { |combo, hash| combo.merge(hash) { |k, old, new| old+new }}
     
-    i['stances'] = Hash[stances.sort]
+    i['stances'] = Hash[stances.sort.map { |mp, score| [mp, score.to_hash ] }]
     allstances << i
   rescue => e
     msg = "PROBLEM with #{i['text']} (#{i['id']}) = #{e}"
