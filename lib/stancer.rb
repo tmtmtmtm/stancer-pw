@@ -58,6 +58,10 @@ class Score
     instance_variable_get("@#{arg}")
   end
 
+  def to_hash
+    Hash[instance_variables.map { |var| [var[1..-1].to_sym, instance_variable_get(var)] }]
+  end
+
 end
 
 
