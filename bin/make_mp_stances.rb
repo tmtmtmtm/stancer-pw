@@ -9,20 +9,18 @@ require 'colorize'
 
 issues  = JSON.parse(File.read('issues.json'))
 
-# TODO remove the need for this file. It seems odd that party stances
-# need it, but 
-parties = JSON.parse(File.read('parties.json'))
-
 allstances = []
 errors = []
 
 Parallel.each(issues, :in_threads => 10) do |i|
   begin
-    stances = parties.map { |p|
-      warn "Calculating #{i['text']} (#{i['id']}) for #{p['name']}"
-      Issue.new(i).aggregate_on(
-        bloc:'voter.id',
-        filter: "party.id:#{p['id']}",
+    # Do in blocks of 10
+    issue = Issue.new(i)
+    stances = issue.aspects.each_slice(10).map { |as|
+      warn "Calculating #{i['text']} (#{i['id']}) for #{as.count} aspects"
+      issue.aggregate_on(
+        bloc:    'voter.id',
+        motions: as.map { |a| a['motion_id'] },
       ).scored_blocs
     }.reduce(:merge)
     
