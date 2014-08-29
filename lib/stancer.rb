@@ -69,13 +69,7 @@ module Stancer
     end
 
     def to_h
-      Hash[ 
-        scored_votes.map do |bloc, as| 
-          # Yick. TODO have a better way to declare what value to key on
-          key = bloc.is_a?(Hash) ? bloc['id'] : bloc
-          [ key, Score.new(as).to_h ]  
-        end
-      ]
+      Hash[ scored_votes.map { |bloc, as| [ bloc, Score.new(as).to_h ] } ]
     end
 
     private 
@@ -88,10 +82,13 @@ module Stancer
       scored_votes = {}
       @aspects.each do |a|
         a['motion']['vote_events'].each do |ve|
-          wanted_votes = @filter ? ve['votes'].find_all(&@filter) : ve['votes'].find_all
+          wanted_votes = @filter.nil? ? ve['votes'] : ve['votes'].find_all(&@filter) 
           wanted_votes.each do |v|
             bloc = v[@group] or raise "No #{@group} in #{v}"
-            (scored_votes[bloc] ||= []) << { 
+            # Need to collapse to ID as PW person hashes will have lots
+            # of variations of the MP's name, for example
+            key = bloc.is_a?(Hash) ? bloc['id'] : bloc
+            (scored_votes[key] ||= []) << { 
               vote_event: ve['start_date'],
               voter: v['voter']['name'],
               option: v['option'],
