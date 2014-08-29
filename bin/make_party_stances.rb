@@ -1,19 +1,26 @@
 #!/usr/bin/ruby
 
-# Usage: ruby -Ilib bin/make_party_stances.rb > partystances.yaml
+# Usage: ruby -Ilib bin/make_party_stances.rb > partystances.json
 
 require 'json'
 require 'stancer'
-require 'parallel'
+require 'colorize'
 
-issues = JSON.parse(File.read('issues.json'))
+warn "Loading issues".yellow
+issues  = JSON.parse(File.read('issues.json'))
+warn "Loading motions".yellow
+Stancer::Motion.configure(motion_file: 'motions.json')
+warn "done".yellow
 
-allstances = Parallel.map(issues, :in_threads => 5) do |i|
-  warn "Generating stance on #{i['id']}"
-  stances = Issue.new(i).aggregate_on(
-    bloc:'party.id',
-  ).scored_blocs
-  i['stances'] = Hash[stances.map { |p, score| [p, score.to_hash ] }]
+allstances = issues.map do |i|
+  as = i['aspects'].map do |a| 
+    a['motion'] = Stancer::Motion.find(a['motion_id']) or raise "No such motion"
+    a
+  end
+
+  # i['stances'] = Stancer::Stance.new(as, 'party_id', lambda { |v| v['party_id'] == 'con' }).to_h
+  i['stances'] = Stancer::Stance.new(as, 'party_id').to_h
+  i.delete('aspects')
   i
 end
 

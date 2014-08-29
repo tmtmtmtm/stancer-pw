@@ -4,37 +4,25 @@
 
 require 'json'
 require 'stancer'
-require 'parallel'
 require 'colorize'
 
+warn "Loading issues".yellow
 issues  = JSON.parse(File.read('issues.json'))
+warn "Loading motions".yellow
+Stancer::Motion.configure(motion_file: 'motions.json')
+warn "done".yellow
 
-allstances = []
-errors = []
-
-Parallel.each(issues, :in_threads => 10) do |i|
-  begin
-    issue = Issue.new(i)
-    # Do in blocks of 20 to avoid MongoDB problems
-    stances = issue.aspects.each_slice(20).map { |as|
-      warn "Calculating #{i['text']} (#{i['id']}) for #{as.count} aspects"
-      issue.aggregate_on(
-        bloc:    'voter.id',
-        motion: as.map { |a| a['motion_id'] },
-      ).scored_blocs
-    }.inject { |combo, hash| combo.merge(hash) { |k, old, new| old+new }}
-    
-    i['stances'] = Hash[stances.sort.map { |mp, score| [mp, score.to_hash ] }]
-    allstances << i
-  rescue => e
-    msg = "PROBLEM with #{i['text']} (#{i['id']}) = #{e}"
-    errors << msg
-    warn "#{msg}.red"
+allstances = issues.map do |i|
+  warn "Processing issue #{i['id']}: #{i['text']}".green
+  as = i['aspects'].map do |a| 
+    a['motion'] = Stancer::Motion.find(a['motion_id']) or raise "No such motion"
+    a
   end
+
+  i['stances'] = Stancer::Stance.new(as, 'voter').to_h
+  i.delete('aspects')
+  i
 end
 
 puts JSON.pretty_generate(allstances.sort_by { |s| s['id'].sub(/^PW-/, '').to_i } )
 
-errors.each do |msg| 
-  warn "#{msg}".yellow
-end

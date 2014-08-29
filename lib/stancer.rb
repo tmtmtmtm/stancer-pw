@@ -1,191 +1,110 @@
-class Issues
-  
-  def initialize(filename)
-    @filename = filename
-    @issues = JSON.parse(File.read(@filename))
-  end
-
-  def issue(id)
-    found = @issues.detect { |i| i['id'] == id }
-    raise "No such issue (#{id})" if found.nil?
-    Issue.new(found)
-  end
-  
-end
-
-class Issue
-
-  def initialize(data)
-    @data = data
-  end
-
-  def aggregate_on (hash)
-    (@__a ||= {})[hash] = WeightedAggregate.new( { aspects: aspects }.merge hash)
-  end
-
-  def aspects
-    aspects = @data['aspects']
-    raise "No aspects in #{@data}" if aspects.nil?
-    return aspects
-  end
-
-end
-
-class Score
-  # num_votes / score / max 
-  def initialize args
-    args.each do |k,v|
-      instance_variable_set("@#{k}", v) unless v.nil?
-    end
-    @weight = weight
-  end
-
-  # TODO this only works when vote ranges are 0..max
-  # FIXME for negatives, or other ranges, by calculating min_score too
-  def weight
-    @num_votes.zero? ? 0.5 : @score / @max
-  end
-
-  def +(other)
-    Score.new(
-      num_votes: @num_votes + other[:num_votes],
-      score:     @score + other[:score],
-      max:       @max + other[:max],
-    )
-  end
-
-  def [](arg)
-    instance_variable_get("@#{arg}")
-  end
-
-  def to_hash
-    Hash[instance_variables.map { |var| [var[1..-1].to_sym, instance_variable_get(var)] }]
-  end
-
-end
-
-
-class WeightedAggregate
-
-  # Required: aspects 
-  # May take: motions / filter / bloc
-  def initialize args
-    args.each do |k,v|
-      instance_variable_set("@#{k}", v) unless v.nil?
-    end
-    raise "Need aspects" if @aspects.nil?
-    @motion ||= @aspects.map { |a| a['motion_id'] } 
-  end
-
-  def aggregate
-    @__agg ||= Aggregate.new(bloc: @bloc, filter: @filter, motion: @motion)
-  end
-
-  def weighted_blocs
-    @__wb ||= Hash[ 
-      aggregate.bloc_aggregates.map { |bloc, aggs|
-        [ bloc,  aggs.map { |ai| weighted_aggregate(ai) } ]
-      }
-    ]
-  end
-
-  def scored_blocs
-    return __combined_blocs
-  end
-
-  def score(bloc=nil)
-    sb = scored_blocs
-    return sb[bloc] unless sb.empty?
-    # TODO I don't like hard-coding this here. It should just sum as
-    # normal, but to zero
-    return Score.new(
-      num_votes: 0,
-      score: 0,
-      max: 0,
-    )
-  end
-
-
-  private
-
-  # FIXME This seems back to front. We should always know what aspect
-  # we're working with.
-  def aspect_for(motionid)
-    @aspects.detect { |a| a['motion_id'] == motionid }
-  end
-
-  # score a given aggregate by looking up the weights for that motion in
-  # the given Aspect(s)
-  def weighted_aggregate (ai)
-    motionid = ai['motion_id']
-    aspect = aspect_for(motionid) or raise "No votes on #{motionid}" 
-    weights = aspect['weights']
-
-    votes     = ai['counts']
-    num_votes = votes.values.map(&:to_i).reduce(:+)
-    max_score = weights.values.max * num_votes
-    score = votes.map { |option, count| weights[option] * count }.reduce(:+)
-
-    return Score.new( 
-      num_votes: num_votes,
-      score: score,
-      max: max_score,
-    )
-  end
-
-  def __combined_blocs
-    @__cb ||= Hash[
-      weighted_blocs.map { |bloc,waggs| [ bloc, waggs.reduce(:+) ] }
-    ]
-  end
-
-end
-
-class Aggregate
-  # Look up the relevant motion(s) on the voteit-api server
-  # Knows nothing about Issues/Aspects etc.
- 
+module Stancer
   require 'json'
 
-  require 'open-uri/cached'
-  OpenURI::Cache.cache_path = '/tmp/cache'
+  class Motion
 
-  # FIXME make this more easily configurable
-  @@SERVER = 'http://localhost:5000'
-  @@API    = '/api/1'
+    # TODO different ways of loading: flatfiles, db, API, ...
+    def self.configure(opt)
+      fn = opt[:motion_file] or raise "Need a motion_file"
+      @@motions = JSON.parse(File.read(fn))
+    end
 
-  # TODO: restrict to motion / filter / bloc
-  def initialize args
-    args.each do |k,v|
-      instance_variable_set("@#{k}", v) unless v.nil?
+    def self.find(id)
+      @@motions.find { |m| m['id'] == id }
     end
   end
 
-  def bloc_aggregates
-    bloc_keys = blocs
-    abort "Can't handle multi-blocs yet" if bloc_keys.size > 1
-    aggregates.group_by { |ai| ai['bloc'][bloc_keys.first] }
+  class Score
+
+    def initialize(scores)
+      @scores = scores
+    end
+
+    def to_h
+      return { 
+        weight: weight,
+        score: total_score,
+        num_votes: num_votes,
+        min: min_score,
+        max: max_score,
+        counts: counts,
+      }
+    end
+
+    def total_score 
+      @scores.map { |a| a[:score] }.inject(:+) 
+    end
+
+    def num_votes 
+      @scores.count 
+    end
+
+    def min_score
+      @scores.map { |a| a[:min] }.inject(:+) 
+    end
+
+    def max_score
+      @scores.map { |a| a[:max] }.inject(:+) 
+    end
+
+    def counts 
+      @scores.group_by { |a| a[:option] }.map { |o,ss| { option: o, value: ss.count } } 
+    end
+
+    # TODO this only works when vote ranges are 0..max
+    # FIXME for negatives, or other ranges, by calculating with min_score too
+    def weight
+      num_votes.zero? ? 0.5 : total_score.fdiv(max_score)
+    end
+      
   end
 
-  def blocs
-    aggregate_json['request']['blocs'].reject(&:empty?)
-  end
 
-  private
-  def aggregates
-    @__agg ||= aggregate_json['aggregate'] 
-  end
+  class Stance
 
-  def aggregate_url
-    @@SERVER + @@API + "/aggregate?" + URI.encode_www_form(motion: @motion, filter: @filter, bloc: @bloc)
-  end
+    def initialize(aspects, group, filter=nil)
+      @aspects = aspects
+      @group   = group  
+      @filter  = filter # TODO make sure this is a Proc/lambda
+    end
 
-  def aggregate_txt
-    @__txt ||= open(aggregate_url).read
-  end
+    def to_h
+      Hash[ 
+        scored_votes.map do |bloc, as| 
+          # Yick. TODO have a better way to declare what value to key on
+          key = bloc.is_a?(Hash) ? bloc['id'] : bloc
+          [ key, Score.new(as).to_h ]  
+        end
+      ]
+    end
 
-  def aggregate_json
-    @__json ||= JSON.parse(aggregate_txt)
+    private 
+
+    def scored_votes
+      @__scored_votes ||= score_votes!
+    end
+
+    def score_votes!
+      scored_votes = {}
+      @aspects.each do |a|
+        a['motion']['vote_events'].each do |ve|
+          wanted_votes = @filter ? ve['votes'].find_all(&@filter) : ve['votes'].find_all
+          wanted_votes.each do |v|
+            bloc = v[@group] or raise "No #{@group} in #{v}"
+            (scored_votes[bloc] ||= []) << { 
+              vote_event: ve['start_date'],
+              voter: v['voter']['name'],
+              option: v['option'],
+              score: a['weights'][v['option']],
+              min: a['weights'].values.min,
+              max: a['weights'].values.max,
+            }
+          end
+        end
+      end
+      return scored_votes
+    end
+
   end
 
 end
