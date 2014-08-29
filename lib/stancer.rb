@@ -25,6 +25,7 @@ module Stancer
         weight: weight,
         score: total_score,
         num_votes: num_votes,
+        num_motions: num_motions,
         min: min_score,
         max: max_score,
         counts: counts,
@@ -35,8 +36,16 @@ module Stancer
       @scores.map { |a| a[:score] }.inject(:+) 
     end
 
-    def num_votes 
+    def num_motions 
       @scores.count 
+    end
+
+    # Number of votes actually cast: 
+    #   if this is zero = "Never voted on X" rather than
+    #   "Always abstained on X"
+    # TODO: this version is UK specific, and should be configurable
+    def num_votes 
+      @scores.reject { |a| a[:option] == 'absent' }.count
     end
 
     def min_score
@@ -54,7 +63,7 @@ module Stancer
     # TODO this only works when vote ranges are 0..max
     # FIXME for negatives, or other ranges, by calculating with min_score too
     def weight
-      num_votes.zero? ? 0.5 : total_score.fdiv(max_score)
+      num_motions.zero? ? 0.5 : total_score.fdiv(max_score)
     end
       
   end

@@ -10,7 +10,8 @@
       "con": {
         "weight": 0.1411042944785276,
         "score": 5750,
-        "num_votes": 815,
+        "num_votes": 587,
+        "num_motions": 815,
         "min": 0,
         "max": 40750,
         "counts": [
@@ -31,7 +32,8 @@
       "deputy speaker": {
         "weight": 0.5,
         "score": 375,
-        "num_votes": 15,
+        "num_votes": 0,
+        "num_motions": 15,
         "min": 0,
         "max": 750,
         "counts": [
@@ -44,7 +46,8 @@
       "dup": {
         "weight": 0.12,
         "score": 150,
-        "num_votes": 25,
+        "num_votes": 19,
+        "num_motions": 25,
         "min": 0,
         "max": 1250,
         "counts": [
@@ -65,7 +68,8 @@
       "ind": {
         "weight": 0.2619047619047619,
         "score": 275,
-        "num_votes": 21,
+        "num_votes": 10,
+        "num_motions": 21,
         "min": 0,
         "max": 1050,
         "counts": [
@@ -86,7 +90,8 @@
       "lab": {
         "weight": 0.7985330073349634,
         "score": 81650,
-        "num_votes": 2045,
+        "num_votes": 1729,
+        "num_motions": 2045,
         "min": 0,
         "max": 102250,
         "counts": [
@@ -111,7 +116,8 @@
       "ldem": {
         "weight": 0.06179775280898876,
         "score": 825,
-        "num_votes": 267,
+        "num_votes": 234,
+        "num_motions": 267,
         "min": 0,
         "max": 13350,
         "counts": [
@@ -133,6 +139,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 20,
+        "num_motions": 20,
         "min": 0,
         "max": 1000,
         "counts": [
@@ -149,7 +156,8 @@
       "sdlp": {
         "weight": 0.5,
         "score": 375,
-        "num_votes": 15,
+        "num_votes": 0,
+        "num_motions": 15,
         "min": 0,
         "max": 750,
         "counts": [
@@ -162,7 +170,8 @@
       "sf": {
         "weight": 0.5,
         "score": 500,
-        "num_votes": 20,
+        "num_votes": 0,
+        "num_motions": 20,
         "min": 0,
         "max": 1000,
         "counts": [
@@ -175,7 +184,8 @@
       "snp": {
         "weight": 0.2,
         "score": 250,
-        "num_votes": 25,
+        "num_votes": 15,
+        "num_motions": 25,
         "min": 0,
         "max": 1250,
         "counts": [
@@ -196,7 +206,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 125,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -209,7 +220,8 @@
       "uup": {
         "weight": 0.7142857142857143,
         "score": 750,
-        "num_votes": 21,
+        "num_votes": 15,
+        "num_motions": 21,
         "min": 0,
         "max": 1050,
         "counts": [
@@ -241,7 +253,8 @@
       "con": {
         "weight": 0.4108691983122363,
         "score": 24344,
-        "num_votes": 2045,
+        "num_votes": 1072,
+        "num_motions": 2045,
         "min": 0,
         "max": 59250,
         "counts": [
@@ -266,7 +279,8 @@
       "deputy speaker": {
         "weight": 0.35,
         "score": 168,
-        "num_votes": 24,
+        "num_votes": 0,
+        "num_motions": 24,
         "min": 0,
         "max": 480,
         "counts": [
@@ -279,7 +293,8 @@
       "dup": {
         "weight": 0.6277486910994764,
         "score": 1199,
-        "num_votes": 71,
+        "num_votes": 44,
+        "num_motions": 71,
         "min": 0,
         "max": 1910,
         "counts": [
@@ -300,7 +315,8 @@
       "ind": {
         "weight": 0.5767441860465117,
         "score": 248,
-        "num_votes": 19,
+        "num_votes": 9,
+        "num_motions": 19,
         "min": 0,
         "max": 430,
         "counts": [
@@ -321,7 +337,8 @@
       "lab": {
         "weight": 0.6969135091558217,
         "score": 60513,
-        "num_votes": 3571,
+        "num_votes": 2278,
+        "num_motions": 3571,
         "min": 0,
         "max": 86830,
         "counts": [
@@ -342,7 +359,8 @@
       "ldem": {
         "weight": 0.6874748827863363,
         "score": 10264,
-        "num_votes": 573,
+        "num_votes": 336,
+        "num_motions": 573,
         "min": 0,
         "max": 14930,
         "counts": [
@@ -367,7 +385,8 @@
       "pc": {
         "weight": 0.6604651162790698,
         "score": 568,
-        "num_votes": 34,
+        "num_votes": 20,
+        "num_motions": 34,
         "min": 0,
         "max": 860,
         "counts": [
@@ -388,7 +407,8 @@
       "sdlp": {
         "weight": 0.6692307692307692,
         "score": 522,
-        "num_votes": 30,
+        "num_votes": 12,
+        "num_motions": 30,
         "min": 0,
         "max": 780,
         "counts": [
@@ -409,7 +429,8 @@
       "sf": {
         "weight": 0.4166666666666667,
         "score": 500,
-        "num_votes": 44,
+        "num_votes": 0,
+        "num_motions": 44,
         "min": 0,
         "max": 1200,
         "counts": [
@@ -422,7 +443,8 @@
       "snp": {
         "weight": 0.4389261744966443,
         "score": 654,
-        "num_votes": 57,
+        "num_votes": 5,
+        "num_motions": 57,
         "min": 0,
         "max": 1490,
         "counts": [
@@ -439,7 +461,8 @@
       "speaker": {
         "weight": 0.4076923076923077,
         "score": 106,
-        "num_votes": 10,
+        "num_votes": 0,
+        "num_motions": 10,
         "min": 0,
         "max": 260,
         "counts": [
@@ -452,7 +475,8 @@
       "ukup": {
         "weight": 0.1,
         "score": 1,
-        "num_votes": 1,
+        "num_votes": 0,
+        "num_motions": 1,
         "min": 0,
         "max": 10,
         "counts": [
@@ -465,7 +489,8 @@
       "uup": {
         "weight": 0.49491525423728816,
         "score": 292,
-        "num_votes": 31,
+        "num_votes": 13,
+        "num_motions": 31,
         "min": 0,
         "max": 590,
         "counts": [
@@ -486,7 +511,8 @@
       "res": {
         "weight": 0.4076923076923077,
         "score": 53,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 130,
         "counts": [
@@ -499,7 +525,8 @@
       "alliance": {
         "weight": 0.75,
         "score": 75,
-        "num_votes": 2,
+        "num_votes": 1,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -517,6 +544,7 @@
         "weight": 1.0,
         "score": 100,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -543,7 +571,8 @@
       "con": {
         "weight": 0.4007139702635065,
         "score": 54441,
-        "num_votes": 5318,
+        "num_votes": 3716,
+        "num_motions": 5318,
         "min": 0,
         "max": 135860,
         "counts": [
@@ -568,7 +597,8 @@
       "deputy speaker": {
         "weight": 0.3564102564102564,
         "score": 417,
-        "num_votes": 57,
+        "num_votes": 0,
+        "num_motions": 57,
         "min": 0,
         "max": 1170,
         "counts": [
@@ -581,7 +611,8 @@
       "dup": {
         "weight": 0.1265625,
         "score": 486,
-        "num_votes": 148,
+        "num_votes": 94,
+        "num_motions": 148,
         "min": 0,
         "max": 3840,
         "counts": [
@@ -602,7 +633,8 @@
       "ind": {
         "weight": 0.23304347826086957,
         "score": 268,
-        "num_votes": 55,
+        "num_votes": 40,
+        "num_motions": 55,
         "min": 0,
         "max": 1150,
         "counts": [
@@ -627,7 +659,8 @@
       "lab": {
         "weight": 0.8022717789420001,
         "score": 173042,
-        "num_votes": 9453,
+        "num_votes": 6821,
+        "num_motions": 9453,
         "min": 0,
         "max": 215690,
         "counts": [
@@ -652,7 +685,8 @@
       "ldem": {
         "weight": 0.8034869976359338,
         "score": 27190,
-        "num_votes": 1396,
+        "num_votes": 998,
+        "num_motions": 1396,
         "min": 0,
         "max": 33840,
         "counts": [
@@ -673,7 +707,8 @@
       "pc": {
         "weight": 0.8142201834862385,
         "score": 1775,
-        "num_votes": 94,
+        "num_votes": 67,
+        "num_motions": 94,
         "min": 0,
         "max": 2180,
         "counts": [
@@ -694,7 +729,8 @@
       "sdlp": {
         "weight": 0.4639784946236559,
         "score": 863,
-        "num_votes": 78,
+        "num_votes": 13,
+        "num_motions": 78,
         "min": 0,
         "max": 1860,
         "counts": [
@@ -711,7 +747,8 @@
       "sf": {
         "weight": 0.40278884462151393,
         "score": 1011,
-        "num_votes": 99,
+        "num_votes": 0,
+        "num_motions": 99,
         "min": 0,
         "max": 2510,
         "counts": [
@@ -724,7 +761,8 @@
       "snp": {
         "weight": 0.5465714285714286,
         "score": 1913,
-        "num_votes": 146,
+        "num_votes": 45,
+        "num_motions": 146,
         "min": 0,
         "max": 3500,
         "counts": [
@@ -745,7 +783,8 @@
       "speaker": {
         "weight": 0.3903225806451613,
         "score": 242,
-        "num_votes": 26,
+        "num_votes": 0,
+        "num_motions": 26,
         "min": 0,
         "max": 620,
         "counts": [
@@ -758,7 +797,8 @@
       "ukup": {
         "weight": 0.3,
         "score": 30,
-        "num_votes": 6,
+        "num_votes": 0,
+        "num_motions": 6,
         "min": 0,
         "max": 100,
         "counts": [
@@ -771,7 +811,8 @@
       "uup": {
         "weight": 0.2649350649350649,
         "score": 612,
-        "num_votes": 119,
+        "num_votes": 47,
+        "num_motions": 119,
         "min": 0,
         "max": 2310,
         "counts": [
@@ -792,7 +833,8 @@
       "res": {
         "weight": 0.5166666666666667,
         "score": 155,
-        "num_votes": 10,
+        "num_votes": 1,
+        "num_motions": 10,
         "min": 0,
         "max": 300,
         "counts": [
@@ -809,7 +851,8 @@
       "ukip": {
         "weight": 0.1,
         "score": 2,
-        "num_votes": 2,
+        "num_votes": 0,
+        "num_motions": 2,
         "min": 0,
         "max": 20,
         "counts": [
@@ -822,7 +865,8 @@
       "alliance": {
         "weight": 0.8913043478260869,
         "score": 205,
-        "num_votes": 7,
+        "num_votes": 6,
+        "num_motions": 7,
         "min": 0,
         "max": 230,
         "counts": [
@@ -840,6 +884,7 @@
         "weight": 1.0,
         "score": 230,
         "num_votes": 7,
+        "num_motions": 7,
         "min": 0,
         "max": 230,
         "counts": [
@@ -863,7 +908,8 @@
       "con": {
         "weight": 0.500518999073216,
         "score": 27003,
-        "num_votes": 2603,
+        "num_votes": 2219,
+        "num_motions": 2603,
         "min": 0,
         "max": 53950,
         "counts": [
@@ -888,7 +934,8 @@
       "deputy speaker": {
         "weight": 0.3105263157894737,
         "score": 177,
-        "num_votes": 33,
+        "num_votes": 0,
+        "num_motions": 33,
         "min": 0,
         "max": 570,
         "counts": [
@@ -901,7 +948,8 @@
       "dup": {
         "weight": 0.30301507537688444,
         "score": 603,
-        "num_votes": 95,
+        "num_votes": 34,
+        "num_motions": 95,
         "min": 0,
         "max": 1990,
         "counts": [
@@ -922,7 +970,8 @@
       "ind": {
         "weight": 0.5017241379310344,
         "score": 291,
-        "num_votes": 30,
+        "num_votes": 29,
+        "num_motions": 30,
         "min": 0,
         "max": 580,
         "counts": [
@@ -943,7 +992,8 @@
       "lab": {
         "weight": 0.5458802816901408,
         "score": 46509,
-        "num_votes": 4676,
+        "num_votes": 3910,
+        "num_motions": 4676,
         "min": 0,
         "max": 85200,
         "counts": [
@@ -968,7 +1018,8 @@
       "ldem": {
         "weight": 0.8528542646071189,
         "score": 12699,
-        "num_votes": 757,
+        "num_votes": 691,
+        "num_motions": 757,
         "min": 0,
         "max": 14890,
         "counts": [
@@ -993,7 +1044,8 @@
       "pc": {
         "weight": 0.75875,
         "score": 607,
-        "num_votes": 44,
+        "num_votes": 41,
+        "num_motions": 44,
         "min": 0,
         "max": 800,
         "counts": [
@@ -1014,7 +1066,8 @@
       "sdlp": {
         "weight": 0.43866666666666665,
         "score": 329,
-        "num_votes": 39,
+        "num_votes": 4,
+        "num_motions": 39,
         "min": 0,
         "max": 750,
         "counts": [
@@ -1035,7 +1088,8 @@
       "sf": {
         "weight": 0.35,
         "score": 420,
-        "num_votes": 60,
+        "num_votes": 0,
+        "num_motions": 60,
         "min": 0,
         "max": 1200,
         "counts": [
@@ -1048,7 +1102,8 @@
       "snp": {
         "weight": 0.596551724137931,
         "score": 865,
-        "num_votes": 73,
+        "num_votes": 68,
+        "num_motions": 73,
         "min": 0,
         "max": 1450,
         "counts": [
@@ -1069,7 +1124,8 @@
       "speaker": {
         "weight": 0.34,
         "score": 85,
-        "num_votes": 13,
+        "num_votes": 0,
+        "num_motions": 13,
         "min": 0,
         "max": 250,
         "counts": [
@@ -1082,7 +1138,8 @@
       "uup": {
         "weight": 0.28863636363636364,
         "score": 127,
-        "num_votes": 36,
+        "num_votes": 27,
+        "num_motions": 36,
         "min": 0,
         "max": 440,
         "counts": [
@@ -1103,7 +1160,8 @@
       "res": {
         "weight": 0.8105263157894737,
         "score": 154,
-        "num_votes": 7,
+        "num_votes": 3,
+        "num_motions": 7,
         "min": 0,
         "max": 190,
         "counts": [
@@ -1120,7 +1178,8 @@
       "alliance": {
         "weight": 0.85,
         "score": 51,
-        "num_votes": 2,
+        "num_votes": 1,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -1138,6 +1197,7 @@
         "weight": 0.8333333333333334,
         "score": 50,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -1164,7 +1224,8 @@
       "con": {
         "weight": 0.8004550227511376,
         "score": 22869,
-        "num_votes": 2857,
+        "num_votes": 2358,
+        "num_motions": 2857,
         "min": 0,
         "max": 28570,
         "counts": [
@@ -1185,7 +1246,8 @@
       "deputy speaker": {
         "weight": 0.1,
         "score": 48,
-        "num_votes": 48,
+        "num_votes": 0,
+        "num_motions": 48,
         "min": 0,
         "max": 480,
         "counts": [
@@ -1198,7 +1260,8 @@
       "dup": {
         "weight": 0.3226086956521739,
         "score": 371,
-        "num_votes": 115,
+        "num_votes": 44,
+        "num_motions": 115,
         "min": 0,
         "max": 1150,
         "counts": [
@@ -1219,7 +1282,8 @@
       "ind": {
         "weight": 0.6416666666666667,
         "score": 462,
-        "num_votes": 72,
+        "num_votes": 50,
+        "num_motions": 72,
         "min": 0,
         "max": 720,
         "counts": [
@@ -1240,7 +1304,8 @@
       "lab": {
         "weight": 0.03870437356132851,
         "score": 2354,
-        "num_votes": 6082,
+        "num_votes": 4825,
+        "num_motions": 6082,
         "min": 0,
         "max": 60820,
         "counts": [
@@ -1265,7 +1330,8 @@
       "ldem": {
         "weight": 0.8909967845659164,
         "score": 8313,
-        "num_votes": 933,
+        "num_votes": 820,
+        "num_motions": 933,
         "min": 0,
         "max": 9330,
         "counts": [
@@ -1286,7 +1352,8 @@
       "pc": {
         "weight": 0.8392857142857143,
         "score": 470,
-        "num_votes": 56,
+        "num_votes": 46,
+        "num_motions": 56,
         "min": 0,
         "max": 560,
         "counts": [
@@ -1307,7 +1374,8 @@
       "sdlp": {
         "weight": 0.26875,
         "score": 129,
-        "num_votes": 48,
+        "num_votes": 9,
+        "num_motions": 48,
         "min": 0,
         "max": 480,
         "counts": [
@@ -1328,7 +1396,8 @@
       "sf": {
         "weight": 0.1,
         "score": 72,
-        "num_votes": 72,
+        "num_votes": 0,
+        "num_motions": 72,
         "min": 0,
         "max": 720,
         "counts": [
@@ -1341,7 +1410,8 @@
       "snp": {
         "weight": 0.91,
         "score": 819,
-        "num_votes": 90,
+        "num_votes": 81,
+        "num_motions": 90,
         "min": 0,
         "max": 900,
         "counts": [
@@ -1362,7 +1432,8 @@
       "speaker": {
         "weight": 0.1,
         "score": 16,
-        "num_votes": 16,
+        "num_votes": 0,
+        "num_motions": 16,
         "min": 0,
         "max": 160,
         "counts": [
@@ -1375,7 +1446,8 @@
       "uup": {
         "weight": 0.14634146341463414,
         "score": 60,
-        "num_votes": 41,
+        "num_votes": 21,
+        "num_motions": 41,
         "min": 0,
         "max": 410,
         "counts": [
@@ -1396,7 +1468,8 @@
       "res": {
         "weight": 0.4375,
         "score": 35,
-        "num_votes": 8,
+        "num_votes": 3,
+        "num_motions": 8,
         "min": 0,
         "max": 80,
         "counts": [
@@ -1428,7 +1501,8 @@
       "con": {
         "weight": 0.9375,
         "score": 18375,
-        "num_votes": 392,
+        "num_votes": 347,
+        "num_motions": 392,
         "min": 0,
         "max": 19600,
         "counts": [
@@ -1449,7 +1523,8 @@
       "deputy speaker": {
         "weight": 0.5,
         "score": 150,
-        "num_votes": 6,
+        "num_votes": 0,
+        "num_motions": 6,
         "min": 0,
         "max": 300,
         "counts": [
@@ -1462,7 +1537,8 @@
       "dup": {
         "weight": 0.8055555555555556,
         "score": 725,
-        "num_votes": 18,
+        "num_votes": 11,
+        "num_motions": 18,
         "min": 0,
         "max": 900,
         "counts": [
@@ -1484,6 +1560,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 6,
+        "num_motions": 6,
         "min": 0,
         "max": 300,
         "counts": [
@@ -1500,7 +1577,8 @@
       "lab": {
         "weight": 0.7024147727272727,
         "score": 24725,
-        "num_votes": 704,
+        "num_votes": 654,
+        "num_motions": 704,
         "min": 0,
         "max": 35200,
         "counts": [
@@ -1525,7 +1603,8 @@
       "ldem": {
         "weight": 0.047619047619047616,
         "score": 300,
-        "num_votes": 126,
+        "num_votes": 114,
+        "num_motions": 126,
         "min": 0,
         "max": 6300,
         "counts": [
@@ -1547,6 +1626,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 6,
+        "num_motions": 6,
         "min": 0,
         "max": 300,
         "counts": [
@@ -1564,6 +1644,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -1580,7 +1661,8 @@
       "sdlp": {
         "weight": 0.25,
         "score": 75,
-        "num_votes": 6,
+        "num_votes": 3,
+        "num_motions": 6,
         "min": 0,
         "max": 300,
         "counts": [
@@ -1601,7 +1683,8 @@
       "sf": {
         "weight": 0.5,
         "score": 250,
-        "num_votes": 10,
+        "num_votes": 0,
+        "num_motions": 10,
         "min": 0,
         "max": 500,
         "counts": [
@@ -1615,6 +1698,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 12,
+        "num_motions": 12,
         "min": 0,
         "max": 600,
         "counts": [
@@ -1631,7 +1715,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 50,
-        "num_votes": 2,
+        "num_votes": 0,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -1645,6 +1730,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -1671,7 +1757,8 @@
       "con": {
         "weight": 0.3265207504263786,
         "score": 11487,
-        "num_votes": 1950,
+        "num_votes": 335,
+        "num_motions": 1950,
         "min": 0,
         "max": 35180,
         "counts": [
@@ -1692,7 +1779,8 @@
       "deputy speaker": {
         "weight": 0.32222222222222224,
         "score": 174,
-        "num_votes": 30,
+        "num_votes": 0,
+        "num_motions": 30,
         "min": 0,
         "max": 540,
         "counts": [
@@ -1705,7 +1793,8 @@
       "dup": {
         "weight": 0.36666666666666664,
         "score": 594,
-        "num_votes": 90,
+        "num_votes": 8,
+        "num_motions": 90,
         "min": 0,
         "max": 1620,
         "counts": [
@@ -1722,7 +1811,8 @@
       "ind": {
         "weight": 0.37384615384615383,
         "score": 243,
-        "num_votes": 41,
+        "num_votes": 12,
+        "num_motions": 41,
         "min": 0,
         "max": 650,
         "counts": [
@@ -1743,7 +1833,8 @@
       "lab": {
         "weight": 0.3492733017377567,
         "score": 22109,
-        "num_votes": 3514,
+        "num_votes": 1227,
+        "num_motions": 3514,
         "min": 0,
         "max": 63300,
         "counts": [
@@ -1768,7 +1859,8 @@
       "ldem": {
         "weight": 0.508994708994709,
         "score": 5772,
-        "num_votes": 630,
+        "num_votes": 216,
+        "num_motions": 630,
         "min": 0,
         "max": 11340,
         "counts": [
@@ -1789,7 +1881,8 @@
       "pc": {
         "weight": 0.4685185185185185,
         "score": 253,
-        "num_votes": 30,
+        "num_votes": 7,
+        "num_motions": 30,
         "min": 0,
         "max": 540,
         "counts": [
@@ -1810,7 +1903,8 @@
       "res": {
         "weight": 0.6111111111111112,
         "score": 110,
-        "num_votes": 10,
+        "num_votes": 4,
+        "num_motions": 10,
         "min": 0,
         "max": 180,
         "counts": [
@@ -1831,7 +1925,8 @@
       "sdlp": {
         "weight": 0.32222222222222224,
         "score": 174,
-        "num_votes": 30,
+        "num_votes": 0,
+        "num_motions": 30,
         "min": 0,
         "max": 540,
         "counts": [
@@ -1844,7 +1939,8 @@
       "sf": {
         "weight": 0.32222222222222224,
         "score": 290,
-        "num_votes": 50,
+        "num_votes": 0,
+        "num_motions": 50,
         "min": 0,
         "max": 900,
         "counts": [
@@ -1857,7 +1953,8 @@
       "snp": {
         "weight": 0.4163636363636364,
         "score": 458,
-        "num_votes": 62,
+        "num_votes": 12,
+        "num_motions": 62,
         "min": 0,
         "max": 1100,
         "counts": [
@@ -1878,7 +1975,8 @@
       "speaker": {
         "weight": 0.32222222222222224,
         "score": 58,
-        "num_votes": 10,
+        "num_votes": 0,
+        "num_motions": 10,
         "min": 0,
         "max": 180,
         "counts": [
@@ -1891,7 +1989,8 @@
       "uup": {
         "weight": 0.4222222222222222,
         "score": 76,
-        "num_votes": 10,
+        "num_votes": 2,
+        "num_motions": 10,
         "min": 0,
         "max": 180,
         "counts": [
@@ -1909,6 +2008,7 @@
         "weight": 0.1,
         "score": 1,
         "num_votes": 1,
+        "num_motions": 1,
         "min": 0,
         "max": 10,
         "counts": [
@@ -1932,7 +2032,8 @@
       "con": {
         "weight": 0.46004502944232767,
         "score": 26563,
-        "num_votes": 2106,
+        "num_votes": 1794,
+        "num_motions": 2106,
         "min": 0,
         "max": 57740,
         "counts": [
@@ -1957,7 +2058,8 @@
       "deputy speaker": {
         "weight": 0.1,
         "score": 9,
-        "num_votes": 9,
+        "num_votes": 0,
+        "num_motions": 9,
         "min": 0,
         "max": 90,
         "counts": [
@@ -1970,7 +2072,8 @@
       "dup": {
         "weight": 0.749079754601227,
         "score": 1221,
-        "num_votes": 67,
+        "num_votes": 34,
+        "num_motions": 67,
         "min": 0,
         "max": 1630,
         "counts": [
@@ -1987,7 +2090,8 @@
       "ind": {
         "weight": 0.5457142857142857,
         "score": 191,
-        "num_votes": 23,
+        "num_votes": 10,
+        "num_motions": 23,
         "min": 0,
         "max": 350,
         "counts": [
@@ -2008,7 +2112,8 @@
       "lab": {
         "weight": 0.29105108416023523,
         "score": 15839,
-        "num_votes": 2346,
+        "num_votes": 1463,
+        "num_motions": 2346,
         "min": 0,
         "max": 54420,
         "counts": [
@@ -2029,7 +2134,8 @@
       "ldem": {
         "weight": 0.2553540587219344,
         "score": 2957,
-        "num_votes": 474,
+        "num_votes": 225,
+        "num_motions": 474,
         "min": 0,
         "max": 11580,
         "counts": [
@@ -2050,7 +2156,8 @@
       "pc": {
         "weight": 0.3566666666666667,
         "score": 214,
-        "num_votes": 24,
+        "num_votes": 14,
+        "num_motions": 24,
         "min": 0,
         "max": 600,
         "counts": [
@@ -2071,7 +2178,8 @@
       "res": {
         "weight": 0.57,
         "score": 57,
-        "num_votes": 6,
+        "num_votes": 3,
+        "num_motions": 6,
         "min": 0,
         "max": 100,
         "counts": [
@@ -2088,7 +2196,8 @@
       "sdlp": {
         "weight": 0.22833333333333333,
         "score": 137,
-        "num_votes": 24,
+        "num_votes": 7,
+        "num_motions": 24,
         "min": 0,
         "max": 600,
         "counts": [
@@ -2105,7 +2214,8 @@
       "sf": {
         "weight": 0.39473684210526316,
         "score": 375,
-        "num_votes": 39,
+        "num_votes": 0,
+        "num_motions": 39,
         "min": 0,
         "max": 950,
         "counts": [
@@ -2118,7 +2228,8 @@
       "snp": {
         "weight": 0.4825,
         "score": 579,
-        "num_votes": 48,
+        "num_votes": 21,
+        "num_motions": 48,
         "min": 0,
         "max": 1200,
         "counts": [
@@ -2139,7 +2250,8 @@
       "speaker": {
         "weight": 0.4,
         "score": 80,
-        "num_votes": 8,
+        "num_votes": 0,
+        "num_motions": 8,
         "min": 0,
         "max": 200,
         "counts": [
@@ -2152,7 +2264,8 @@
       "uup": {
         "weight": 0.7,
         "score": 21,
-        "num_votes": 3,
+        "num_votes": 2,
+        "num_motions": 3,
         "min": 0,
         "max": 30,
         "counts": [
@@ -2169,7 +2282,8 @@
       "alliance": {
         "weight": 0.15294117647058825,
         "score": 26,
-        "num_votes": 5,
+        "num_votes": 3,
+        "num_motions": 5,
         "min": 0,
         "max": 170,
         "counts": [
@@ -2186,7 +2300,8 @@
       "green": {
         "weight": 0.6,
         "score": 102,
-        "num_votes": 5,
+        "num_votes": 1,
+        "num_motions": 5,
         "min": 0,
         "max": 170,
         "counts": [
@@ -2213,7 +2328,8 @@
       "con": {
         "weight": 0.5032514930325149,
         "score": 83424,
-        "num_votes": 5273,
+        "num_votes": 3689,
+        "num_motions": 5273,
         "min": 0,
         "max": 165770,
         "counts": [
@@ -2234,7 +2350,8 @@
       "deputy speaker": {
         "weight": 0.3,
         "score": 180,
-        "num_votes": 36,
+        "num_votes": 0,
+        "num_motions": 36,
         "min": 0,
         "max": 600,
         "counts": [
@@ -2247,7 +2364,8 @@
       "dup": {
         "weight": 0.46212424849699396,
         "score": 2306,
-        "num_votes": 171,
+        "num_votes": 75,
+        "num_motions": 171,
         "min": 0,
         "max": 4990,
         "counts": [
@@ -2268,7 +2386,8 @@
       "ind": {
         "weight": 0.6496732026143791,
         "score": 994,
-        "num_votes": 73,
+        "num_votes": 37,
+        "num_motions": 73,
         "min": 0,
         "max": 1530,
         "counts": [
@@ -2289,7 +2408,8 @@
       "lab": {
         "weight": 0.576236798221234,
         "score": 103665,
-        "num_votes": 6962,
+        "num_votes": 5299,
+        "num_motions": 6962,
         "min": 0,
         "max": 179900,
         "counts": [
@@ -2310,7 +2430,8 @@
       "ldem": {
         "weight": 0.6129568106312292,
         "score": 22140,
-        "num_votes": 1284,
+        "num_votes": 984,
+        "num_motions": 1284,
         "min": 0,
         "max": 36120,
         "counts": [
@@ -2331,7 +2452,8 @@
       "pc": {
         "weight": 0.6687830687830688,
         "score": 1264,
-        "num_votes": 69,
+        "num_votes": 41,
+        "num_motions": 69,
         "min": 0,
         "max": 1890,
         "counts": [
@@ -2352,7 +2474,8 @@
       "sdlp": {
         "weight": 0.48655913978494625,
         "score": 905,
-        "num_votes": 66,
+        "num_votes": 17,
+        "num_motions": 66,
         "min": 0,
         "max": 1860,
         "counts": [
@@ -2373,7 +2496,8 @@
       "sf": {
         "weight": 0.43003300330033,
         "score": 1303,
-        "num_votes": 103,
+        "num_votes": 0,
+        "num_motions": 103,
         "min": 0,
         "max": 3030,
         "counts": [
@@ -2386,7 +2510,8 @@
       "snp": {
         "weight": 0.6592105263157895,
         "score": 2505,
-        "num_votes": 136,
+        "num_votes": 83,
+        "num_motions": 136,
         "min": 0,
         "max": 3800,
         "counts": [
@@ -2407,7 +2532,8 @@
       "speaker": {
         "weight": 0.42258064516129035,
         "score": 262,
-        "num_votes": 22,
+        "num_votes": 0,
+        "num_motions": 22,
         "min": 0,
         "max": 620,
         "counts": [
@@ -2420,7 +2546,8 @@
       "ukup": {
         "weight": 0.1,
         "score": 2,
-        "num_votes": 2,
+        "num_votes": 0,
+        "num_motions": 2,
         "min": 0,
         "max": 20,
         "counts": [
@@ -2433,7 +2560,8 @@
       "uup": {
         "weight": 0.26666666666666666,
         "score": 112,
-        "num_votes": 34,
+        "num_votes": 10,
+        "num_motions": 34,
         "min": 0,
         "max": 420,
         "counts": [
@@ -2454,7 +2582,8 @@
       "res": {
         "weight": 0.5189655172413793,
         "score": 301,
-        "num_votes": 18,
+        "num_votes": 3,
+        "num_motions": 18,
         "min": 0,
         "max": 580,
         "counts": [
@@ -2472,6 +2601,7 @@
         "weight": 0.9333333333333333,
         "score": 140,
         "num_votes": 7,
+        "num_motions": 7,
         "min": 0,
         "max": 150,
         "counts": [
@@ -2488,7 +2618,8 @@
       "alliance": {
         "weight": 0.48095238095238096,
         "score": 202,
-        "num_votes": 10,
+        "num_votes": 2,
+        "num_motions": 10,
         "min": 0,
         "max": 420,
         "counts": [
@@ -2509,7 +2640,8 @@
       "green": {
         "weight": 0.6428571428571429,
         "score": 270,
-        "num_votes": 10,
+        "num_votes": 8,
+        "num_motions": 10,
         "min": 0,
         "max": 420,
         "counts": [
@@ -2540,7 +2672,8 @@
       "con": {
         "weight": 0.8390275952693824,
         "score": 19155,
-        "num_votes": 979,
+        "num_votes": 732,
+        "num_motions": 979,
         "min": 0,
         "max": 22830,
         "counts": [
@@ -2561,7 +2694,8 @@
       "deputy speaker": {
         "weight": 0.38571428571428573,
         "score": 162,
-        "num_votes": 18,
+        "num_votes": 0,
+        "num_motions": 18,
         "min": 0,
         "max": 420,
         "counts": [
@@ -2574,7 +2708,8 @@
       "dup": {
         "weight": 0.8714285714285714,
         "score": 610,
-        "num_votes": 30,
+        "num_votes": 20,
+        "num_motions": 30,
         "min": 0,
         "max": 700,
         "counts": [
@@ -2595,7 +2730,8 @@
       "ind": {
         "weight": 0.48518518518518516,
         "score": 131,
-        "num_votes": 11,
+        "num_votes": 10,
+        "num_motions": 11,
         "min": 0,
         "max": 270,
         "counts": [
@@ -2616,7 +2752,8 @@
       "lab": {
         "weight": 0.6350871080139373,
         "score": 36454,
-        "num_votes": 2460,
+        "num_votes": 1840,
+        "num_motions": 2460,
         "min": 0,
         "max": 57400,
         "counts": [
@@ -2641,7 +2778,8 @@
       "ldem": {
         "weight": 0.012803234501347708,
         "score": 95,
-        "num_votes": 318,
+        "num_votes": 257,
+        "num_motions": 318,
         "min": 0,
         "max": 7420,
         "counts": [
@@ -2663,6 +2801,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 24,
+        "num_motions": 24,
         "min": 0,
         "max": 560,
         "counts": [
@@ -2679,7 +2818,8 @@
       "sdlp": {
         "weight": 0.2523809523809524,
         "score": 106,
-        "num_votes": 18,
+        "num_votes": 8,
+        "num_motions": 18,
         "min": 0,
         "max": 420,
         "counts": [
@@ -2700,7 +2840,8 @@
       "sf": {
         "weight": 0.38571428571428573,
         "score": 216,
-        "num_votes": 24,
+        "num_votes": 0,
+        "num_motions": 24,
         "min": 0,
         "max": 560,
         "counts": [
@@ -2714,6 +2855,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 30,
+        "num_motions": 30,
         "min": 0,
         "max": 700,
         "counts": [
@@ -2730,7 +2872,8 @@
       "speaker": {
         "weight": 0.38571428571428573,
         "score": 54,
-        "num_votes": 6,
+        "num_votes": 0,
+        "num_motions": 6,
         "min": 0,
         "max": 140,
         "counts": [
@@ -2743,7 +2886,8 @@
       "uup": {
         "weight": 0.9464285714285714,
         "score": 795,
-        "num_votes": 36,
+        "num_votes": 31,
+        "num_motions": 36,
         "min": 0,
         "max": 840,
         "counts": [
@@ -2774,7 +2918,8 @@
       "con": {
         "weight": 0.09623067010309279,
         "score": 2987,
-        "num_votes": 1144,
+        "num_votes": 983,
+        "num_motions": 1144,
         "min": 0,
         "max": 31040,
         "counts": [
@@ -2795,7 +2940,8 @@
       "deputy speaker": {
         "weight": 0.41578947368421054,
         "score": 237,
-        "num_votes": 21,
+        "num_votes": 0,
+        "num_motions": 21,
         "min": 0,
         "max": 570,
         "counts": [
@@ -2808,7 +2954,8 @@
       "dup": {
         "weight": 0.34,
         "score": 340,
-        "num_votes": 36,
+        "num_votes": 8,
+        "num_motions": 36,
         "min": 0,
         "max": 1000,
         "counts": [
@@ -2829,7 +2976,8 @@
       "ind": {
         "weight": 0.20175438596491227,
         "score": 115,
-        "num_votes": 21,
+        "num_votes": 12,
+        "num_motions": 21,
         "min": 0,
         "max": 570,
         "counts": [
@@ -2850,7 +2998,8 @@
       "lab": {
         "weight": 0.8883292541543217,
         "score": 68961,
-        "num_votes": 2863,
+        "num_votes": 2400,
+        "num_motions": 2863,
         "min": 0,
         "max": 77630,
         "counts": [
@@ -2871,7 +3020,8 @@
       "ldem": {
         "weight": 0.6060963618485742,
         "score": 6164,
-        "num_votes": 373,
+        "num_votes": 311,
+        "num_motions": 373,
         "min": 0,
         "max": 10170,
         "counts": [
@@ -2893,6 +3043,7 @@
         "weight": 0.039473684210526314,
         "score": 30,
         "num_votes": 28,
+        "num_motions": 28,
         "min": 0,
         "max": 760,
         "counts": [
@@ -2909,7 +3060,8 @@
       "sdlp": {
         "weight": 0.41578947368421054,
         "score": 237,
-        "num_votes": 21,
+        "num_votes": 0,
+        "num_motions": 21,
         "min": 0,
         "max": 570,
         "counts": [
@@ -2922,7 +3074,8 @@
       "sf": {
         "weight": 0.41578947368421054,
         "score": 316,
-        "num_votes": 28,
+        "num_votes": 0,
+        "num_motions": 28,
         "min": 0,
         "max": 760,
         "counts": [
@@ -2935,7 +3088,8 @@
       "snp": {
         "weight": 0.41578947368421054,
         "score": 395,
-        "num_votes": 35,
+        "num_votes": 0,
+        "num_motions": 35,
         "min": 0,
         "max": 950,
         "counts": [
@@ -2948,7 +3102,8 @@
       "speaker": {
         "weight": 0.41578947368421054,
         "score": 79,
-        "num_votes": 7,
+        "num_votes": 0,
+        "num_motions": 7,
         "min": 0,
         "max": 190,
         "counts": [
@@ -2961,7 +3116,8 @@
       "uup": {
         "weight": 0.18522727272727274,
         "score": 163,
-        "num_votes": 32,
+        "num_votes": 19,
+        "num_motions": 32,
         "min": 0,
         "max": 880,
         "counts": [
@@ -2992,7 +3148,8 @@
       "con": {
         "weight": 0.12413586712554242,
         "score": 16592,
-        "num_votes": 4362,
+        "num_votes": 3070,
+        "num_motions": 4362,
         "min": 0,
         "max": 133660,
         "counts": [
@@ -3013,7 +3170,8 @@
       "deputy speaker": {
         "weight": 0.43333333333333335,
         "score": 936,
-        "num_votes": 72,
+        "num_votes": 0,
+        "num_motions": 72,
         "min": 0,
         "max": 2160,
         "counts": [
@@ -3026,7 +3184,8 @@
       "dup": {
         "weight": 0.17433774834437085,
         "score": 1053,
-        "num_votes": 196,
+        "num_votes": 103,
+        "num_motions": 196,
         "min": 0,
         "max": 6040,
         "counts": [
@@ -3047,7 +3206,8 @@
       "ind": {
         "weight": 0.09155844155844156,
         "score": 141,
-        "num_votes": 54,
+        "num_votes": 33,
+        "num_motions": 54,
         "min": 0,
         "max": 1540,
         "counts": [
@@ -3068,7 +3228,8 @@
       "lab": {
         "weight": 0.8698824589732997,
         "score": 231641,
-        "num_votes": 9025,
+        "num_votes": 7187,
+        "num_motions": 9025,
         "min": 0,
         "max": 266290,
         "counts": [
@@ -3093,7 +3254,8 @@
       "ldem": {
         "weight": 0.0297029702970297,
         "score": 1290,
-        "num_votes": 1423,
+        "num_votes": 1238,
+        "num_motions": 1423,
         "min": 0,
         "max": 43430,
         "counts": [
@@ -3118,7 +3280,8 @@
       "pc": {
         "weight": 0.08151260504201681,
         "score": 194,
-        "num_votes": 82,
+        "num_votes": 56,
+        "num_motions": 82,
         "min": 0,
         "max": 2380,
         "counts": [
@@ -3139,7 +3302,8 @@
       "sdlp": {
         "weight": 0.3726851851851852,
         "score": 805,
-        "num_votes": 72,
+        "num_votes": 19,
+        "num_motions": 72,
         "min": 0,
         "max": 2160,
         "counts": [
@@ -3160,7 +3324,8 @@
       "sf": {
         "weight": 0.4372781065088757,
         "score": 1478,
-        "num_votes": 110,
+        "num_votes": 0,
+        "num_motions": 110,
         "min": 0,
         "max": 3380,
         "counts": [
@@ -3173,7 +3338,8 @@
       "snp": {
         "weight": 0.045121951219512194,
         "score": 185,
-        "num_votes": 134,
+        "num_votes": 117,
+        "num_motions": 134,
         "min": 0,
         "max": 4100,
         "counts": [
@@ -3194,7 +3360,8 @@
       "speaker": {
         "weight": 0.43333333333333335,
         "score": 312,
-        "num_votes": 24,
+        "num_votes": 0,
+        "num_motions": 24,
         "min": 0,
         "max": 720,
         "counts": [
@@ -3207,7 +3374,8 @@
       "uup": {
         "weight": 0.586875,
         "score": 939,
-        "num_votes": 64,
+        "num_votes": 37,
+        "num_motions": 64,
         "min": 0,
         "max": 1600,
         "counts": [
@@ -3228,7 +3396,8 @@
       "res": {
         "weight": 0.004,
         "score": 2,
-        "num_votes": 14,
+        "num_votes": 12,
+        "num_motions": 14,
         "min": 0,
         "max": 500,
         "counts": [
@@ -3260,7 +3429,8 @@
       "con": {
         "weight": 0.5145433864153396,
         "score": 31665,
-        "num_votes": 2402,
+        "num_votes": 2111,
+        "num_motions": 2402,
         "min": 0,
         "max": 61540,
         "counts": [
@@ -3281,7 +3451,8 @@
       "deputy speaker": {
         "weight": 0.3105263157894737,
         "score": 177,
-        "num_votes": 33,
+        "num_votes": 0,
+        "num_motions": 33,
         "min": 0,
         "max": 570,
         "counts": [
@@ -3294,7 +3465,8 @@
       "dup": {
         "weight": 0.04010989010989011,
         "score": 73,
-        "num_votes": 70,
+        "num_votes": 45,
+        "num_motions": 70,
         "min": 0,
         "max": 1820,
         "counts": [
@@ -3315,7 +3487,8 @@
       "ind": {
         "weight": 0.05573770491803279,
         "score": 34,
-        "num_votes": 29,
+        "num_votes": 19,
+        "num_motions": 29,
         "min": 0,
         "max": 610,
         "counts": [
@@ -3336,7 +3509,8 @@
       "lab": {
         "weight": 0.6017306390795707,
         "score": 62237,
-        "num_votes": 5023,
+        "num_votes": 4029,
+        "num_motions": 5023,
         "min": 0,
         "max": 103430,
         "counts": [
@@ -3361,7 +3535,8 @@
       "ldem": {
         "weight": 0.2065438373570521,
         "score": 3251,
-        "num_votes": 686,
+        "num_votes": 619,
+        "num_motions": 686,
         "min": 0,
         "max": 15740,
         "counts": [
@@ -3382,7 +3557,8 @@
       "pc": {
         "weight": 0.010377358490566037,
         "score": 11,
-        "num_votes": 50,
+        "num_votes": 39,
+        "num_motions": 50,
         "min": 0,
         "max": 1060,
         "counts": [
@@ -3403,7 +3579,8 @@
       "sdlp": {
         "weight": 0.08735632183908046,
         "score": 76,
-        "num_votes": 39,
+        "num_votes": 11,
+        "num_motions": 39,
         "min": 0,
         "max": 870,
         "counts": [
@@ -3424,7 +3601,8 @@
       "sf": {
         "weight": 0.4,
         "score": 480,
-        "num_votes": 48,
+        "num_votes": 0,
+        "num_motions": 48,
         "min": 0,
         "max": 1200,
         "counts": [
@@ -3437,7 +3615,8 @@
       "snp": {
         "weight": 0.010759493670886076,
         "score": 17,
-        "num_votes": 70,
+        "num_votes": 53,
+        "num_motions": 70,
         "min": 0,
         "max": 1580,
         "counts": [
@@ -3458,7 +3637,8 @@
       "speaker": {
         "weight": 0.3758620689655172,
         "score": 109,
-        "num_votes": 13,
+        "num_votes": 0,
+        "num_motions": 13,
         "min": 0,
         "max": 290,
         "counts": [
@@ -3471,7 +3651,8 @@
       "ukup": {
         "weight": 0.1,
         "score": 3,
-        "num_votes": 3,
+        "num_votes": 0,
+        "num_motions": 3,
         "min": 0,
         "max": 30,
         "counts": [
@@ -3484,7 +3665,8 @@
       "uup": {
         "weight": 0.04818181818181818,
         "score": 53,
-        "num_votes": 70,
+        "num_votes": 37,
+        "num_motions": 70,
         "min": 0,
         "max": 1100,
         "counts": [
@@ -3506,6 +3688,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -3519,6 +3702,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -3541,7 +3725,8 @@
       "con": {
         "weight": 0.177374390502438,
         "score": 33467,
-        "num_votes": 12260,
+        "num_votes": 8530,
+        "num_motions": 12260,
         "min": 0,
         "max": 188680,
         "counts": [
@@ -3566,7 +3751,8 @@
       "deputy speaker": {
         "weight": 0.2834862385321101,
         "score": 927,
-        "num_votes": 207,
+        "num_votes": 0,
+        "num_motions": 207,
         "min": 0,
         "max": 3270,
         "counts": [
@@ -3579,7 +3765,8 @@
       "dup": {
         "weight": 0.32562417871222077,
         "score": 2478,
-        "num_votes": 493,
+        "num_votes": 285,
+        "num_motions": 493,
         "min": 0,
         "max": 7610,
         "counts": [
@@ -3600,7 +3787,8 @@
       "ind": {
         "weight": 0.20176678445229682,
         "score": 571,
-        "num_votes": 179,
+        "num_votes": 76,
+        "num_motions": 179,
         "min": 0,
         "max": 2830,
         "counts": [
@@ -3621,7 +3809,8 @@
       "lab": {
         "weight": 0.8300344134697554,
         "score": 359380,
-        "num_votes": 27173,
+        "num_votes": 22397,
+        "num_motions": 27173,
         "min": 0,
         "max": 432970,
         "counts": [
@@ -3646,7 +3835,8 @@
       "ldem": {
         "weight": 0.048987198185059144,
         "score": 3023,
-        "num_votes": 3971,
+        "num_votes": 3515,
+        "num_motions": 3971,
         "min": 0,
         "max": 61710,
         "counts": [
@@ -3671,7 +3861,8 @@
       "pc": {
         "weight": 0.07354368932038835,
         "score": 303,
-        "num_votes": 256,
+        "num_votes": 189,
+        "num_motions": 256,
         "min": 0,
         "max": 4120,
         "counts": [
@@ -3692,7 +3883,8 @@
       "sdlp": {
         "weight": 0.2906060606060606,
         "score": 959,
-        "num_votes": 210,
+        "num_votes": 17,
+        "num_motions": 210,
         "min": 0,
         "max": 3300,
         "counts": [
@@ -3713,7 +3905,8 @@
       "sf": {
         "weight": 0.27521367521367524,
         "score": 1288,
-        "num_votes": 304,
+        "num_votes": 0,
+        "num_motions": 304,
         "min": 0,
         "max": 4680,
         "counts": [
@@ -3726,7 +3919,8 @@
       "snp": {
         "weight": 0.09193825042881647,
         "score": 536,
-        "num_votes": 379,
+        "num_votes": 247,
+        "num_motions": 379,
         "min": 0,
         "max": 5830,
         "counts": [
@@ -3747,7 +3941,8 @@
       "speaker": {
         "weight": 0.2818181818181818,
         "score": 310,
-        "num_votes": 70,
+        "num_votes": 0,
+        "num_motions": 70,
         "min": 0,
         "max": 1100,
         "counts": [
@@ -3760,7 +3955,8 @@
       "uup": {
         "weight": 0.28814655172413794,
         "score": 1337,
-        "num_votes": 272,
+        "num_votes": 133,
+        "num_motions": 272,
         "min": 0,
         "max": 4640,
         "counts": [
@@ -3781,7 +3977,8 @@
       "res": {
         "weight": 0.14074074074074075,
         "score": 38,
-        "num_votes": 23,
+        "num_votes": 9,
+        "num_motions": 23,
         "min": 0,
         "max": 270,
         "counts": [
@@ -3802,7 +3999,8 @@
       "alliance": {
         "weight": 0.1,
         "score": 1,
-        "num_votes": 1,
+        "num_votes": 0,
+        "num_motions": 1,
         "min": 0,
         "max": 10,
         "counts": [
@@ -3816,6 +4014,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 1,
+        "num_motions": 1,
         "min": 0,
         "max": 10,
         "counts": [
@@ -3839,7 +4038,8 @@
       "con": {
         "weight": 0.40597740250273356,
         "score": 167080,
-        "num_votes": 14647,
+        "num_votes": 11812,
+        "num_motions": 14647,
         "min": 0,
         "max": 411550,
         "counts": [
@@ -3864,7 +4064,8 @@
       "deputy speaker": {
         "weight": 0.33376623376623377,
         "score": 771,
-        "num_votes": 123,
+        "num_votes": 0,
+        "num_motions": 123,
         "min": 0,
         "max": 2310,
         "counts": [
@@ -3877,7 +4078,8 @@
       "dup": {
         "weight": 0.2495293265749457,
         "score": 3446,
-        "num_votes": 545,
+        "num_votes": 247,
+        "num_motions": 545,
         "min": 0,
         "max": 13810,
         "counts": [
@@ -3898,7 +4100,8 @@
       "ind": {
         "weight": 0.36318785578747625,
         "score": 1914,
-        "num_votes": 251,
+        "num_votes": 105,
+        "num_motions": 251,
         "min": 0,
         "max": 5270,
         "counts": [
@@ -3919,7 +4122,8 @@
       "lab": {
         "weight": 0.7523421629966686,
         "score": 370363,
-        "num_votes": 20088,
+        "num_votes": 14382,
+        "num_motions": 20088,
         "min": 0,
         "max": 492280,
         "counts": [
@@ -3944,7 +4148,8 @@
       "ldem": {
         "weight": 0.6297036809186917,
         "score": 61415,
-        "num_votes": 3837,
+        "num_votes": 2716,
+        "num_motions": 3837,
         "min": 0,
         "max": 97530,
         "counts": [
@@ -3969,7 +4174,8 @@
       "pc": {
         "weight": 0.6114519427402862,
         "score": 2990,
-        "num_votes": 189,
+        "num_votes": 149,
+        "num_motions": 189,
         "min": 0,
         "max": 4890,
         "counts": [
@@ -3990,7 +4196,8 @@
       "res": {
         "weight": 0.38412698412698415,
         "score": 484,
-        "num_votes": 54,
+        "num_votes": 2,
+        "num_motions": 54,
         "min": 0,
         "max": 1260,
         "counts": [
@@ -4011,7 +4218,8 @@
       "sdlp": {
         "weight": 0.5568507157464213,
         "score": 2723,
-        "num_votes": 189,
+        "num_votes": 50,
+        "num_motions": 189,
         "min": 0,
         "max": 4890,
         "counts": [
@@ -4032,7 +4240,8 @@
       "sf": {
         "weight": 0.4059701492537313,
         "score": 3264,
-        "num_votes": 312,
+        "num_votes": 0,
+        "num_motions": 312,
         "min": 0,
         "max": 8040,
         "counts": [
@@ -4045,7 +4254,8 @@
       "snp": {
         "weight": 0.5122967479674797,
         "score": 5041,
-        "num_votes": 380,
+        "num_votes": 239,
+        "num_motions": 380,
         "min": 0,
         "max": 9840,
         "counts": [
@@ -4066,7 +4276,8 @@
       "speaker": {
         "weight": 0.4067484662576687,
         "score": 663,
-        "num_votes": 63,
+        "num_votes": 0,
+        "num_motions": 63,
         "min": 0,
         "max": 1630,
         "counts": [
@@ -4079,7 +4290,8 @@
       "uup": {
         "weight": 0.2909090909090909,
         "score": 224,
-        "num_votes": 41,
+        "num_votes": 9,
+        "num_motions": 41,
         "min": 0,
         "max": 770,
         "counts": [
@@ -4100,7 +4312,8 @@
       "alliance": {
         "weight": 0.6662790697674419,
         "score": 573,
-        "num_votes": 22,
+        "num_votes": 11,
+        "num_motions": 22,
         "min": 0,
         "max": 860,
         "counts": [
@@ -4121,7 +4334,8 @@
       "green": {
         "weight": 0.5069767441860465,
         "score": 436,
-        "num_votes": 22,
+        "num_votes": 14,
+        "num_motions": 22,
         "min": 0,
         "max": 860,
         "counts": [
@@ -4152,7 +4366,8 @@
       "con": {
         "weight": 0.06619847328244274,
         "score": 2168,
-        "num_votes": 963,
+        "num_votes": 688,
+        "num_motions": 963,
         "min": 0,
         "max": 32750,
         "counts": [
@@ -4177,7 +4392,8 @@
       "deputy speaker": {
         "weight": 0.45294117647058824,
         "score": 231,
-        "num_votes": 15,
+        "num_votes": 0,
+        "num_motions": 15,
         "min": 0,
         "max": 510,
         "counts": [
@@ -4190,7 +4406,8 @@
       "dup": {
         "weight": 0.3183006535947712,
         "score": 487,
-        "num_votes": 45,
+        "num_votes": 14,
+        "num_motions": 45,
         "min": 0,
         "max": 1530,
         "counts": [
@@ -4207,7 +4424,8 @@
       "ind": {
         "weight": 0.19911504424778761,
         "score": 225,
-        "num_votes": 33,
+        "num_votes": 22,
+        "num_motions": 33,
         "min": 0,
         "max": 1130,
         "counts": [
@@ -4228,7 +4446,8 @@
       "lab": {
         "weight": 0.8675748402287252,
         "score": 51586,
-        "num_votes": 1750,
+        "num_votes": 1498,
+        "num_motions": 1750,
         "min": 0,
         "max": 59460,
         "counts": [
@@ -4249,7 +4468,8 @@
       "ldem": {
         "weight": 0.11213818860877685,
         "score": 1201,
-        "num_votes": 315,
+        "num_votes": 243,
+        "num_motions": 315,
         "min": 0,
         "max": 10710,
         "counts": [
@@ -4270,7 +4490,8 @@
       "pc": {
         "weight": 0.00196078431372549,
         "score": 1,
-        "num_votes": 15,
+        "num_votes": 14,
+        "num_motions": 15,
         "min": 0,
         "max": 510,
         "counts": [
@@ -4287,7 +4508,8 @@
       "res": {
         "weight": 0.45294117647058824,
         "score": 77,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 170,
         "counts": [
@@ -4300,7 +4522,8 @@
       "sdlp": {
         "weight": 0.25098039215686274,
         "score": 128,
-        "num_votes": 15,
+        "num_votes": 7,
+        "num_motions": 15,
         "min": 0,
         "max": 510,
         "counts": [
@@ -4317,7 +4540,8 @@
       "sf": {
         "weight": 0.45294117647058824,
         "score": 385,
-        "num_votes": 25,
+        "num_votes": 0,
+        "num_motions": 25,
         "min": 0,
         "max": 850,
         "counts": [
@@ -4330,7 +4554,8 @@
       "snp": {
         "weight": 0.29557522123893804,
         "score": 334,
-        "num_votes": 33,
+        "num_votes": 11,
+        "num_motions": 33,
         "min": 0,
         "max": 1130,
         "counts": [
@@ -4347,7 +4572,8 @@
       "speaker": {
         "weight": 0.45294117647058824,
         "score": 77,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 170,
         "counts": [
@@ -4361,6 +4587,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -4373,7 +4600,8 @@
       "uup": {
         "weight": 0.3,
         "score": 51,
-        "num_votes": 5,
+        "num_votes": 2,
+        "num_motions": 5,
         "min": 0,
         "max": 170,
         "counts": [
@@ -4400,7 +4628,8 @@
       "con": {
         "weight": 0.9057519027206719,
         "score": 207073,
-        "num_votes": 6974,
+        "num_votes": 5661,
+        "num_motions": 6974,
         "min": 0,
         "max": 228620,
         "counts": [
@@ -4421,7 +4650,8 @@
       "deputy speaker": {
         "weight": 0.37027027027027026,
         "score": 411,
-        "num_votes": 51,
+        "num_votes": 0,
+        "num_motions": 51,
         "min": 0,
         "max": 1110,
         "counts": [
@@ -4434,7 +4664,8 @@
       "dup": {
         "weight": 0.6551671732522797,
         "score": 4311,
-        "num_votes": 202,
+        "num_votes": 109,
+        "num_motions": 202,
         "min": 0,
         "max": 6580,
         "counts": [
@@ -4455,7 +4686,8 @@
       "ind": {
         "weight": 0.37403846153846154,
         "score": 389,
-        "num_votes": 36,
+        "num_votes": 7,
+        "num_motions": 36,
         "min": 0,
         "max": 1040,
         "counts": [
@@ -4476,7 +4708,8 @@
       "lab": {
         "weight": 0.23572173662817883,
         "score": 65533,
-        "num_votes": 9953,
+        "num_votes": 7803,
+        "num_motions": 9953,
         "min": 0,
         "max": 278010,
         "counts": [
@@ -4501,7 +4734,8 @@
       "ldem": {
         "weight": 0.5893912703073009,
         "score": 30112,
-        "num_votes": 1677,
+        "num_votes": 1345,
+        "num_motions": 1677,
         "min": 0,
         "max": 51090,
         "counts": [
@@ -4522,7 +4756,8 @@
       "pc": {
         "weight": 0.3489583333333333,
         "score": 1005,
-        "num_votes": 100,
+        "num_votes": 31,
+        "num_motions": 100,
         "min": 0,
         "max": 2880,
         "counts": [
@@ -4543,7 +4778,8 @@
       "sdlp": {
         "weight": 0.39296296296296296,
         "score": 1061,
-        "num_votes": 90,
+        "num_votes": 13,
+        "num_motions": 90,
         "min": 0,
         "max": 2700,
         "counts": [
@@ -4564,7 +4800,8 @@
       "sf": {
         "weight": 0.44085213032581455,
         "score": 1759,
-        "num_votes": 127,
+        "num_votes": 0,
+        "num_motions": 127,
         "min": 0,
         "max": 3990,
         "counts": [
@@ -4577,7 +4814,8 @@
       "snp": {
         "weight": 0.4352165725047081,
         "score": 2311,
-        "num_votes": 175,
+        "num_votes": 0,
+        "num_motions": 175,
         "min": 0,
         "max": 5310,
         "counts": [
@@ -4590,7 +4828,8 @@
       "speaker": {
         "weight": 0.43333333333333335,
         "score": 390,
-        "num_votes": 30,
+        "num_votes": 0,
+        "num_motions": 30,
         "min": 0,
         "max": 900,
         "counts": [
@@ -4603,7 +4842,8 @@
       "ukup": {
         "weight": 0.32222222222222224,
         "score": 29,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 90,
         "counts": [
@@ -4616,7 +4856,8 @@
       "uup": {
         "weight": 0.3539877300613497,
         "score": 577,
-        "num_votes": 87,
+        "num_votes": 18,
+        "num_motions": 87,
         "min": 0,
         "max": 1630,
         "counts": [
@@ -4637,7 +4878,8 @@
       "res": {
         "weight": 0.28421052631578947,
         "score": 54,
-        "num_votes": 7,
+        "num_votes": 1,
+        "num_motions": 7,
         "min": 0,
         "max": 190,
         "counts": [
@@ -4654,7 +4896,8 @@
       "alliance": {
         "weight": 0.2849056603773585,
         "score": 151,
-        "num_votes": 13,
+        "num_votes": 6,
+        "num_motions": 13,
         "min": 0,
         "max": 530,
         "counts": [
@@ -4675,7 +4918,8 @@
       "green": {
         "weight": 0.09433962264150944,
         "score": 50,
-        "num_votes": 13,
+        "num_votes": 11,
+        "num_motions": 13,
         "min": 0,
         "max": 530,
         "counts": [
@@ -4707,7 +4951,8 @@
       "con": {
         "weight": 0.3109867751780265,
         "score": 18342,
-        "num_votes": 1942,
+        "num_votes": 1386,
+        "num_motions": 1942,
         "min": 0,
         "max": 58980,
         "counts": [
@@ -4728,7 +4973,8 @@
       "deputy speaker": {
         "weight": 0.43333333333333335,
         "score": 312,
-        "num_votes": 24,
+        "num_votes": 0,
+        "num_motions": 24,
         "min": 0,
         "max": 720,
         "counts": [
@@ -4741,7 +4987,8 @@
       "dup": {
         "weight": 0.2910958904109589,
         "score": 425,
-        "num_votes": 42,
+        "num_votes": 11,
+        "num_motions": 42,
         "min": 0,
         "max": 1460,
         "counts": [
@@ -4762,7 +5009,8 @@
       "ind": {
         "weight": 0.392,
         "score": 294,
-        "num_votes": 23,
+        "num_votes": 7,
+        "num_motions": 23,
         "min": 0,
         "max": 750,
         "counts": [
@@ -4783,7 +5031,8 @@
       "lab": {
         "weight": 0.794134477825465,
         "score": 88816,
-        "num_votes": 3776,
+        "num_votes": 2630,
+        "num_motions": 3776,
         "min": 0,
         "max": 111840,
         "counts": [
@@ -4804,7 +5053,8 @@
       "ldem": {
         "weight": 0.7931673052362708,
         "score": 12421,
-        "num_votes": 506,
+        "num_votes": 301,
+        "num_motions": 506,
         "min": 0,
         "max": 15660,
         "counts": [
@@ -4825,7 +5075,8 @@
       "pc": {
         "weight": 0.7229357798165138,
         "score": 788,
-        "num_votes": 37,
+        "num_votes": 17,
+        "num_motions": 37,
         "min": 0,
         "max": 1090,
         "counts": [
@@ -4846,7 +5097,8 @@
       "sdlp": {
         "weight": 0.5155555555555555,
         "score": 464,
-        "num_votes": 30,
+        "num_votes": 4,
+        "num_motions": 30,
         "min": 0,
         "max": 900,
         "counts": [
@@ -4867,7 +5119,8 @@
       "sf": {
         "weight": 0.4495145631067961,
         "score": 463,
-        "num_votes": 31,
+        "num_votes": 0,
+        "num_motions": 31,
         "min": 0,
         "max": 1030,
         "counts": [
@@ -4880,7 +5133,8 @@
       "snp": {
         "weight": 0.728,
         "score": 1274,
-        "num_votes": 59,
+        "num_votes": 25,
+        "num_motions": 59,
         "min": 0,
         "max": 1750,
         "counts": [
@@ -4901,7 +5155,8 @@
       "speaker": {
         "weight": 0.43333333333333335,
         "score": 130,
-        "num_votes": 10,
+        "num_votes": 0,
+        "num_motions": 10,
         "min": 0,
         "max": 300,
         "counts": [
@@ -4914,7 +5169,8 @@
       "ukup": {
         "weight": 0.38571428571428573,
         "score": 54,
-        "num_votes": 6,
+        "num_votes": 0,
+        "num_motions": 6,
         "min": 0,
         "max": 140,
         "counts": [
@@ -4927,7 +5183,8 @@
       "uup": {
         "weight": 0.276875,
         "score": 443,
-        "num_votes": 64,
+        "num_votes": 17,
+        "num_motions": 64,
         "min": 0,
         "max": 1600,
         "counts": [
@@ -4948,7 +5205,8 @@
       "res": {
         "weight": 0.75,
         "score": 75,
-        "num_votes": 2,
+        "num_votes": 1,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -4965,7 +5223,8 @@
       "alliance": {
         "weight": 0.85,
         "score": 51,
-        "num_votes": 2,
+        "num_votes": 1,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -4983,6 +5242,7 @@
         "weight": 0.8333333333333334,
         "score": 50,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -5010,7 +5270,8 @@
       "con": {
         "weight": 0.14792979297929792,
         "score": 3287,
-        "num_votes": 998,
+        "num_votes": 925,
+        "num_motions": 998,
         "min": 0,
         "max": 22220,
         "counts": [
@@ -5035,7 +5296,8 @@
       "deputy speaker": {
         "weight": 0.1,
         "score": 6,
-        "num_votes": 6,
+        "num_votes": 0,
+        "num_motions": 6,
         "min": 0,
         "max": 60,
         "counts": [
@@ -5048,7 +5310,8 @@
       "dup": {
         "weight": 0.0953125,
         "score": 61,
-        "num_votes": 32,
+        "num_votes": 19,
+        "num_motions": 32,
         "min": 0,
         "max": 640,
         "counts": [
@@ -5069,7 +5332,8 @@
       "ind": {
         "weight": 0.355,
         "score": 71,
-        "num_votes": 16,
+        "num_votes": 9,
+        "num_motions": 16,
         "min": 0,
         "max": 200,
         "counts": [
@@ -5090,7 +5354,8 @@
       "lab": {
         "weight": 0.5230186999109528,
         "score": 11747,
-        "num_votes": 1214,
+        "num_votes": 819,
+        "num_motions": 1214,
         "min": 0,
         "max": 22460,
         "counts": [
@@ -5111,7 +5376,8 @@
       "ldem": {
         "weight": 0.3747863247863248,
         "score": 1754,
-        "num_votes": 240,
+        "num_votes": 224,
+        "num_motions": 240,
         "min": 0,
         "max": 4680,
         "counts": [
@@ -5132,7 +5398,8 @@
       "pc": {
         "weight": 0.8208333333333333,
         "score": 197,
-        "num_votes": 12,
+        "num_votes": 9,
+        "num_motions": 12,
         "min": 0,
         "max": 240,
         "counts": [
@@ -5153,7 +5420,8 @@
       "res": {
         "weight": 0.55,
         "score": 11,
-        "num_votes": 2,
+        "num_votes": 1,
+        "num_motions": 2,
         "min": 0,
         "max": 20,
         "counts": [
@@ -5170,7 +5438,8 @@
       "sdlp": {
         "weight": 0.8125,
         "score": 195,
-        "num_votes": 12,
+        "num_votes": 7,
+        "num_motions": 12,
         "min": 0,
         "max": 240,
         "counts": [
@@ -5191,7 +5460,8 @@
       "sf": {
         "weight": 0.35,
         "score": 140,
-        "num_votes": 20,
+        "num_votes": 0,
+        "num_motions": 20,
         "min": 0,
         "max": 400,
         "counts": [
@@ -5204,7 +5474,8 @@
       "snp": {
         "weight": 0.928,
         "score": 464,
-        "num_votes": 26,
+        "num_votes": 22,
+        "num_motions": 26,
         "min": 0,
         "max": 500,
         "counts": [
@@ -5225,7 +5496,8 @@
       "speaker": {
         "weight": 0.35,
         "score": 28,
-        "num_votes": 4,
+        "num_votes": 0,
+        "num_motions": 4,
         "min": 0,
         "max": 80,
         "counts": [
@@ -5239,6 +5511,7 @@
         "weight": 0.5,
         "score": 10,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 20,
         "counts": [
@@ -5255,7 +5528,8 @@
       "alliance": {
         "weight": 0.85,
         "score": 51,
-        "num_votes": 2,
+        "num_votes": 1,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -5273,6 +5547,7 @@
         "weight": 1.0,
         "score": 60,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -5299,7 +5574,8 @@
       "con": {
         "weight": 0.49883532360312544,
         "score": 33836,
-        "num_votes": 3391,
+        "num_votes": 721,
+        "num_motions": 3391,
         "min": 0,
         "max": 67830,
         "counts": [
@@ -5320,7 +5596,8 @@
       "deputy speaker": {
         "weight": 0.35,
         "score": 420,
-        "num_votes": 60,
+        "num_votes": 0,
+        "num_motions": 60,
         "min": 0,
         "max": 1200,
         "counts": [
@@ -5333,7 +5610,8 @@
       "dup": {
         "weight": 0.5477178423236515,
         "score": 1320,
-        "num_votes": 121,
+        "num_votes": 49,
+        "num_motions": 121,
         "min": 0,
         "max": 2410,
         "counts": [
@@ -5354,7 +5632,8 @@
       "ind": {
         "weight": 0.3518796992481203,
         "score": 468,
-        "num_votes": 57,
+        "num_votes": 25,
+        "num_motions": 57,
         "min": 0,
         "max": 1330,
         "counts": [
@@ -5375,7 +5654,8 @@
       "lab": {
         "weight": 0.8191062786751304,
         "score": 130328,
-        "num_votes": 7959,
+        "num_votes": 6202,
+        "num_motions": 7959,
         "min": 0,
         "max": 159110,
         "counts": [
@@ -5400,7 +5680,8 @@
       "ldem": {
         "weight": 0.04966109353818346,
         "score": 1099,
-        "num_votes": 1105,
+        "num_votes": 944,
+        "num_motions": 1105,
         "min": 0,
         "max": 22130,
         "counts": [
@@ -5421,7 +5702,8 @@
       "pc": {
         "weight": 0.05855263157894737,
         "score": 89,
-        "num_votes": 76,
+        "num_votes": 59,
+        "num_motions": 76,
         "min": 0,
         "max": 1520,
         "counts": [
@@ -5442,7 +5724,8 @@
       "sdlp": {
         "weight": 0.3775,
         "score": 453,
-        "num_votes": 60,
+        "num_votes": 3,
+        "num_motions": 60,
         "min": 0,
         "max": 1200,
         "counts": [
@@ -5463,7 +5746,8 @@
       "sf": {
         "weight": 0.35,
         "score": 588,
-        "num_votes": 84,
+        "num_votes": 0,
+        "num_motions": 84,
         "min": 0,
         "max": 1680,
         "counts": [
@@ -5476,7 +5760,8 @@
       "snp": {
         "weight": 0.0798076923076923,
         "score": 166,
-        "num_votes": 104,
+        "num_votes": 82,
+        "num_motions": 104,
         "min": 0,
         "max": 2080,
         "counts": [
@@ -5497,7 +5782,8 @@
       "speaker": {
         "weight": 0.35,
         "score": 140,
-        "num_votes": 20,
+        "num_votes": 0,
+        "num_motions": 20,
         "min": 0,
         "max": 400,
         "counts": [
@@ -5510,7 +5796,8 @@
       "uup": {
         "weight": 0.43670886075949367,
         "score": 690,
-        "num_votes": 86,
+        "num_votes": 38,
+        "num_motions": 86,
         "min": 0,
         "max": 1580,
         "counts": [
@@ -5531,7 +5818,8 @@
       "res": {
         "weight": 0.0125,
         "score": 1,
-        "num_votes": 4,
+        "num_votes": 3,
+        "num_motions": 4,
         "min": 0,
         "max": 80,
         "counts": [
@@ -5562,7 +5850,8 @@
       "con": {
         "weight": 0.9267462422634837,
         "score": 41926,
-        "num_votes": 1304,
+        "num_votes": 1130,
+        "num_motions": 1304,
         "min": 0,
         "max": 45240,
         "counts": [
@@ -5583,7 +5872,8 @@
       "deputy speaker": {
         "weight": 0.43333333333333335,
         "score": 78,
-        "num_votes": 6,
+        "num_votes": 0,
+        "num_motions": 6,
         "min": 0,
         "max": 180,
         "counts": [
@@ -5596,7 +5886,8 @@
       "dup": {
         "weight": 0.27323943661971833,
         "score": 388,
-        "num_votes": 42,
+        "num_votes": 20,
+        "num_motions": 42,
         "min": 0,
         "max": 1420,
         "counts": [
@@ -5617,7 +5908,8 @@
       "ind": {
         "weight": 0.2962264150943396,
         "score": 157,
-        "num_votes": 17,
+        "num_votes": 12,
+        "num_motions": 17,
         "min": 0,
         "max": 530,
         "counts": [
@@ -5638,7 +5930,8 @@
       "lab": {
         "weight": 0.052108678021086784,
         "score": 2570,
-        "num_votes": 1472,
+        "num_votes": 1302,
+        "num_motions": 1472,
         "min": 0,
         "max": 49320,
         "counts": [
@@ -5659,7 +5952,8 @@
       "ldem": {
         "weight": 0.6493532338308458,
         "score": 6526,
-        "num_votes": 297,
+        "num_votes": 227,
+        "num_motions": 297,
         "min": 0,
         "max": 10050,
         "counts": [
@@ -5680,7 +5974,8 @@
       "pc": {
         "weight": 0.1392156862745098,
         "score": 71,
-        "num_votes": 15,
+        "num_votes": 12,
+        "num_motions": 15,
         "min": 0,
         "max": 510,
         "counts": [
@@ -5701,7 +5996,8 @@
       "res": {
         "weight": 0.016666666666666666,
         "score": 1,
-        "num_votes": 2,
+        "num_votes": 1,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -5718,7 +6014,8 @@
       "sdlp": {
         "weight": 0.3509803921568627,
         "score": 179,
-        "num_votes": 15,
+        "num_votes": 4,
+        "num_motions": 15,
         "min": 0,
         "max": 510,
         "counts": [
@@ -5739,7 +6036,8 @@
       "sf": {
         "weight": 0.45294117647058824,
         "score": 385,
-        "num_votes": 25,
+        "num_votes": 0,
+        "num_motions": 25,
         "min": 0,
         "max": 850,
         "counts": [
@@ -5752,7 +6050,8 @@
       "snp": {
         "weight": 0.1175925925925926,
         "score": 127,
-        "num_votes": 32,
+        "num_votes": 27,
+        "num_motions": 32,
         "min": 0,
         "max": 1080,
         "counts": [
@@ -5773,7 +6072,8 @@
       "speaker": {
         "weight": 0.45294117647058824,
         "score": 77,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 170,
         "counts": [
@@ -5786,7 +6086,8 @@
       "uup": {
         "weight": 0.43333333333333335,
         "score": 26,
-        "num_votes": 2,
+        "num_votes": 0,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -5799,7 +6100,8 @@
       "alliance": {
         "weight": 0.23636363636363636,
         "score": 26,
-        "num_votes": 3,
+        "num_votes": 1,
+        "num_motions": 3,
         "min": 0,
         "max": 110,
         "counts": [
@@ -5817,6 +6119,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 3,
+        "num_motions": 3,
         "min": 0,
         "max": 110,
         "counts": [
@@ -5844,7 +6147,8 @@
       "con": {
         "weight": 0.7043536955788052,
         "score": 20870,
-        "num_votes": 967,
+        "num_votes": 773,
+        "num_motions": 967,
         "min": 0,
         "max": 29630,
         "counts": [
@@ -5865,7 +6169,8 @@
       "deputy speaker": {
         "weight": 0.43333333333333335,
         "score": 78,
-        "num_votes": 6,
+        "num_votes": 0,
+        "num_motions": 6,
         "min": 0,
         "max": 180,
         "counts": [
@@ -5878,7 +6183,8 @@
       "dup": {
         "weight": 0.6468085106382979,
         "score": 608,
-        "num_votes": 30,
+        "num_votes": 14,
+        "num_motions": 30,
         "min": 0,
         "max": 940,
         "counts": [
@@ -5899,7 +6205,8 @@
       "ind": {
         "weight": 0.5822222222222222,
         "score": 262,
-        "num_votes": 13,
+        "num_votes": 5,
+        "num_motions": 13,
         "min": 0,
         "max": 450,
         "counts": [
@@ -5920,7 +6227,8 @@
       "lab": {
         "weight": 0.5061621621621621,
         "score": 18728,
-        "num_votes": 1272,
+        "num_votes": 1062,
+        "num_motions": 1272,
         "min": 0,
         "max": 37000,
         "counts": [
@@ -5941,7 +6249,8 @@
       "ldem": {
         "weight": 0.7945147679324894,
         "score": 5649,
-        "num_votes": 231,
+        "num_votes": 154,
+        "num_motions": 231,
         "min": 0,
         "max": 7110,
         "counts": [
@@ -5962,7 +6271,8 @@
       "pc": {
         "weight": 0.7864864864864864,
         "score": 291,
-        "num_votes": 13,
+        "num_votes": 10,
+        "num_motions": 13,
         "min": 0,
         "max": 370,
         "counts": [
@@ -5983,7 +6293,8 @@
       "sdlp": {
         "weight": 0.4305555555555556,
         "score": 155,
-        "num_votes": 12,
+        "num_votes": 1,
+        "num_motions": 12,
         "min": 0,
         "max": 360,
         "counts": [
@@ -6000,7 +6311,8 @@
       "sf": {
         "weight": 0.43898305084745765,
         "score": 259,
-        "num_votes": 19,
+        "num_votes": 0,
+        "num_motions": 19,
         "min": 0,
         "max": 590,
         "counts": [
@@ -6013,7 +6325,8 @@
       "snp": {
         "weight": 0.6578947368421053,
         "score": 500,
-        "num_votes": 24,
+        "num_votes": 16,
+        "num_motions": 24,
         "min": 0,
         "max": 760,
         "counts": [
@@ -6034,7 +6347,8 @@
       "speaker": {
         "weight": 0.43333333333333335,
         "score": 52,
-        "num_votes": 4,
+        "num_votes": 0,
+        "num_motions": 4,
         "min": 0,
         "max": 120,
         "counts": [
@@ -6047,7 +6361,8 @@
       "uup": {
         "weight": 0.36,
         "score": 36,
-        "num_votes": 6,
+        "num_votes": 4,
+        "num_motions": 6,
         "min": 0,
         "max": 100,
         "counts": [
@@ -6068,7 +6383,8 @@
       "res": {
         "weight": 0.5,
         "score": 25,
-        "num_votes": 1,
+        "num_votes": 0,
+        "num_motions": 1,
         "min": 0,
         "max": 50,
         "counts": [
@@ -6081,7 +6397,8 @@
       "alliance": {
         "weight": 0.85,
         "score": 51,
-        "num_votes": 2,
+        "num_votes": 1,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -6099,6 +6416,7 @@
         "weight": 0.8333333333333334,
         "score": 50,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -6126,7 +6444,8 @@
       "con": {
         "weight": 0.924642166344294,
         "score": 167314,
-        "num_votes": 6311,
+        "num_votes": 5491,
+        "num_motions": 6311,
         "min": 0,
         "max": 180950,
         "counts": [
@@ -6147,7 +6466,8 @@
       "deputy speaker": {
         "weight": 0.5,
         "score": 75,
-        "num_votes": 3,
+        "num_votes": 0,
+        "num_motions": 3,
         "min": 0,
         "max": 150,
         "counts": [
@@ -6160,7 +6480,8 @@
       "dup": {
         "weight": 0.18336713995943205,
         "score": 904,
-        "num_votes": 169,
+        "num_votes": 81,
+        "num_motions": 169,
         "min": 0,
         "max": 4930,
         "counts": [
@@ -6181,7 +6502,8 @@
       "ind": {
         "weight": 0.5054945054945055,
         "score": 460,
-        "num_votes": 27,
+        "num_votes": 5,
+        "num_motions": 27,
         "min": 0,
         "max": 910,
         "counts": [
@@ -6202,7 +6524,8 @@
       "lab": {
         "weight": 0.13155453870887954,
         "score": 21275,
-        "num_votes": 5500,
+        "num_votes": 4295,
+        "num_motions": 5500,
         "min": 0,
         "max": 161720,
         "counts": [
@@ -6223,7 +6546,8 @@
       "ldem": {
         "weight": 0.8876532648987738,
         "score": 31130,
-        "num_votes": 1203,
+        "num_votes": 977,
+        "num_motions": 1203,
         "min": 0,
         "max": 35070,
         "counts": [
@@ -6248,7 +6572,8 @@
       "pc": {
         "weight": 0.08360655737704918,
         "score": 153,
-        "num_votes": 63,
+        "num_votes": 54,
+        "num_motions": 63,
         "min": 0,
         "max": 1830,
         "counts": [
@@ -6269,7 +6594,8 @@
       "res": {
         "weight": 0.41578947368421054,
         "score": 79,
-        "num_votes": 7,
+        "num_votes": 0,
+        "num_motions": 7,
         "min": 0,
         "max": 190,
         "counts": [
@@ -6282,7 +6608,8 @@
       "sdlp": {
         "weight": 0.2442622950819672,
         "score": 447,
-        "num_votes": 63,
+        "num_votes": 24,
+        "num_motions": 63,
         "min": 0,
         "max": 1830,
         "counts": [
@@ -6303,7 +6630,8 @@
       "sf": {
         "weight": 0.4278688524590164,
         "score": 1305,
-        "num_votes": 105,
+        "num_votes": 0,
+        "num_motions": 105,
         "min": 0,
         "max": 3050,
         "counts": [
@@ -6316,7 +6644,8 @@
       "snp": {
         "weight": 0.11105121293800539,
         "score": 412,
-        "num_votes": 127,
+        "num_votes": 99,
+        "num_motions": 127,
         "min": 0,
         "max": 3710,
         "counts": [
@@ -6337,7 +6666,8 @@
       "speaker": {
         "weight": 0.4278688524590164,
         "score": 261,
-        "num_votes": 21,
+        "num_votes": 0,
+        "num_motions": 21,
         "min": 0,
         "max": 610,
         "counts": [
@@ -6350,7 +6680,8 @@
       "uup": {
         "weight": 0.5,
         "score": 25,
-        "num_votes": 1,
+        "num_votes": 0,
+        "num_motions": 1,
         "min": 0,
         "max": 50,
         "counts": [
@@ -6363,7 +6694,8 @@
       "alliance": {
         "weight": 0.32321428571428573,
         "score": 181,
-        "num_votes": 20,
+        "num_votes": 9,
+        "num_motions": 20,
         "min": 0,
         "max": 560,
         "counts": [
@@ -6384,7 +6716,8 @@
       "green": {
         "weight": 0.008928571428571428,
         "score": 5,
-        "num_votes": 20,
+        "num_votes": 15,
+        "num_motions": 20,
         "min": 0,
         "max": 560,
         "counts": [
@@ -6416,7 +6749,8 @@
       "alliance": {
         "weight": 0.35714285714285715,
         "score": 150,
-        "num_votes": 10,
+        "num_votes": 6,
+        "num_motions": 10,
         "min": 0,
         "max": 420,
         "counts": [
@@ -6437,7 +6771,8 @@
       "con": {
         "weight": 0.9380867128512493,
         "score": 120516,
-        "num_votes": 3059,
+        "num_votes": 2786,
+        "num_motions": 3059,
         "min": 0,
         "max": 128470,
         "counts": [
@@ -6462,7 +6797,8 @@
       "dup": {
         "weight": 0.19523809523809524,
         "score": 656,
-        "num_votes": 80,
+        "num_votes": 48,
+        "num_motions": 80,
         "min": 0,
         "max": 3360,
         "counts": [
@@ -6483,7 +6819,8 @@
       "green": {
         "weight": 0.23809523809523808,
         "score": 100,
-        "num_votes": 10,
+        "num_votes": 8,
+        "num_motions": 10,
         "min": 0,
         "max": 420,
         "counts": [
@@ -6504,7 +6841,8 @@
       "ind": {
         "weight": 0.23809523809523808,
         "score": 100,
-        "num_votes": 10,
+        "num_votes": 6,
+        "num_motions": 10,
         "min": 0,
         "max": 420,
         "counts": [
@@ -6521,7 +6859,8 @@
       "lab": {
         "weight": 0.062056541019955655,
         "score": 6717,
-        "num_votes": 2576,
+        "num_votes": 2243,
+        "num_motions": 2576,
         "min": 0,
         "max": 108240,
         "counts": [
@@ -6542,7 +6881,8 @@
       "ldem": {
         "weight": 0.8000417710944027,
         "score": 19153,
-        "num_votes": 570,
+        "num_votes": 532,
+        "num_motions": 570,
         "min": 0,
         "max": 23940,
         "counts": [
@@ -6567,7 +6907,8 @@
       "pc": {
         "weight": 0.1007936507936508,
         "score": 127,
-        "num_votes": 30,
+        "num_votes": 23,
+        "num_motions": 30,
         "min": 0,
         "max": 1260,
         "counts": [
@@ -6588,7 +6929,8 @@
       "sdlp": {
         "weight": 0.21984126984126984,
         "score": 277,
-        "num_votes": 30,
+        "num_votes": 17,
+        "num_motions": 30,
         "min": 0,
         "max": 1260,
         "counts": [
@@ -6609,7 +6951,8 @@
       "sf": {
         "weight": 0.483419689119171,
         "score": 933,
-        "num_votes": 45,
+        "num_votes": 0,
+        "num_motions": 45,
         "min": 0,
         "max": 1930,
         "counts": [
@@ -6622,7 +6965,8 @@
       "snp": {
         "weight": 0.03253968253968254,
         "score": 82,
-        "num_votes": 60,
+        "num_votes": 50,
+        "num_motions": 60,
         "min": 0,
         "max": 2520,
         "counts": [
@@ -6643,7 +6987,8 @@
       "speaker": {
         "weight": 0.48095238095238096,
         "score": 202,
-        "num_votes": 10,
+        "num_votes": 0,
+        "num_motions": 10,
         "min": 0,
         "max": 420,
         "counts": [
@@ -6657,6 +7002,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 1,
+        "num_motions": 1,
         "min": 0,
         "max": 50,
         "counts": [
@@ -6679,7 +7025,8 @@
       "alliance": {
         "weight": 0.2,
         "score": 50,
-        "num_votes": 5,
+        "num_votes": 3,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -6700,7 +7047,8 @@
       "con": {
         "weight": 0.95,
         "score": 72675,
-        "num_votes": 1530,
+        "num_votes": 1377,
+        "num_motions": 1530,
         "min": 0,
         "max": 76500,
         "counts": [
@@ -6721,7 +7069,8 @@
       "dup": {
         "weight": 0.15,
         "score": 300,
-        "num_votes": 40,
+        "num_votes": 28,
+        "num_motions": 40,
         "min": 0,
         "max": 2000,
         "counts": [
@@ -6743,6 +7092,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 5,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -6759,7 +7109,8 @@
       "ind": {
         "weight": 0.5,
         "score": 125,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -6772,7 +7123,8 @@
       "lab": {
         "weight": 0.06511627906976744,
         "score": 4200,
-        "num_votes": 1290,
+        "num_votes": 1122,
+        "num_motions": 1290,
         "min": 0,
         "max": 64500,
         "counts": [
@@ -6793,7 +7145,8 @@
       "ldem": {
         "weight": 0.8473684210526315,
         "score": 12075,
-        "num_votes": 285,
+        "num_votes": 226,
+        "num_motions": 285,
         "min": 0,
         "max": 14250,
         "counts": [
@@ -6814,7 +7167,8 @@
       "pc": {
         "weight": 0.16666666666666666,
         "score": 125,
-        "num_votes": 15,
+        "num_votes": 10,
+        "num_motions": 15,
         "min": 0,
         "max": 750,
         "counts": [
@@ -6835,7 +7189,8 @@
       "sdlp": {
         "weight": 0.16666666666666666,
         "score": 125,
-        "num_votes": 15,
+        "num_votes": 10,
+        "num_motions": 15,
         "min": 0,
         "max": 750,
         "counts": [
@@ -6856,7 +7211,8 @@
       "sf": {
         "weight": 0.5,
         "score": 625,
-        "num_votes": 25,
+        "num_votes": 0,
+        "num_motions": 25,
         "min": 0,
         "max": 1250,
         "counts": [
@@ -6869,7 +7225,8 @@
       "snp": {
         "weight": 0.13333333333333333,
         "score": 200,
-        "num_votes": 30,
+        "num_votes": 22,
+        "num_motions": 30,
         "min": 0,
         "max": 1500,
         "counts": [
@@ -6890,7 +7247,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 125,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -6913,7 +7271,8 @@
       "con": {
         "weight": 0.48025177025963806,
         "score": 6104,
-        "num_votes": 499,
+        "num_votes": 365,
+        "num_motions": 499,
         "min": 0,
         "max": 12710,
         "counts": [
@@ -6934,7 +7293,8 @@
       "deputy speaker": {
         "weight": 0.5,
         "score": 75,
-        "num_votes": 3,
+        "num_votes": 0,
+        "num_motions": 3,
         "min": 0,
         "max": 150,
         "counts": [
@@ -6947,7 +7307,8 @@
       "dup": {
         "weight": 0.5833333333333334,
         "score": 280,
-        "num_votes": 16,
+        "num_votes": 8,
+        "num_motions": 16,
         "min": 0,
         "max": 480,
         "counts": [
@@ -6964,7 +7325,8 @@
       "ind": {
         "weight": 0.6277777777777778,
         "score": 226,
-        "num_votes": 8,
+        "num_votes": 2,
+        "num_motions": 8,
         "min": 0,
         "max": 360,
         "counts": [
@@ -6981,7 +7343,8 @@
       "lab": {
         "weight": 0.7493260109835247,
         "score": 15009,
-        "num_votes": 607,
+        "num_votes": 500,
+        "num_motions": 607,
         "min": 0,
         "max": 20030,
         "counts": [
@@ -7002,7 +7365,8 @@
       "ldem": {
         "weight": 0.6903225806451613,
         "score": 2568,
-        "num_votes": 120,
+        "num_votes": 72,
+        "num_motions": 120,
         "min": 0,
         "max": 3720,
         "counts": [
@@ -7019,7 +7383,8 @@
       "pc": {
         "weight": 0.8111111111111111,
         "score": 146,
-        "num_votes": 6,
+        "num_votes": 4,
+        "num_motions": 6,
         "min": 0,
         "max": 180,
         "counts": [
@@ -7036,7 +7401,8 @@
       "res": {
         "weight": 0.5,
         "score": 25,
-        "num_votes": 1,
+        "num_votes": 0,
+        "num_motions": 1,
         "min": 0,
         "max": 50,
         "counts": [
@@ -7049,7 +7415,8 @@
       "sdlp": {
         "weight": 0.43333333333333335,
         "score": 78,
-        "num_votes": 6,
+        "num_votes": 0,
+        "num_motions": 6,
         "min": 0,
         "max": 180,
         "counts": [
@@ -7062,7 +7429,8 @@
       "sf": {
         "weight": 0.43333333333333335,
         "score": 130,
-        "num_votes": 10,
+        "num_votes": 0,
+        "num_motions": 10,
         "min": 0,
         "max": 300,
         "counts": [
@@ -7075,7 +7443,8 @@
       "snp": {
         "weight": 0.551219512195122,
         "score": 226,
-        "num_votes": 13,
+        "num_votes": 5,
+        "num_motions": 13,
         "min": 0,
         "max": 410,
         "counts": [
@@ -7092,7 +7461,8 @@
       "speaker": {
         "weight": 0.43333333333333335,
         "score": 26,
-        "num_votes": 2,
+        "num_votes": 0,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -7105,7 +7475,8 @@
       "uup": {
         "weight": 0.5,
         "score": 25,
-        "num_votes": 1,
+        "num_votes": 0,
+        "num_motions": 1,
         "min": 0,
         "max": 50,
         "counts": [
@@ -7119,6 +7490,7 @@
         "weight": 1.0,
         "score": 10,
         "num_votes": 1,
+        "num_motions": 1,
         "min": 0,
         "max": 10,
         "counts": [
@@ -7132,6 +7504,7 @@
         "weight": 1.0,
         "score": 10,
         "num_votes": 1,
+        "num_motions": 1,
         "min": 0,
         "max": 10,
         "counts": [
@@ -7156,6 +7529,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 1,
+        "num_motions": 1,
         "min": 0,
         "max": 50,
         "counts": [
@@ -7168,7 +7542,8 @@
       "con": {
         "weight": 0.9754901960784313,
         "score": 14925,
-        "num_votes": 306,
+        "num_votes": 303,
+        "num_motions": 306,
         "min": 0,
         "max": 15300,
         "counts": [
@@ -7189,7 +7564,8 @@
       "dup": {
         "weight": 0.0625,
         "score": 25,
-        "num_votes": 8,
+        "num_votes": 7,
+        "num_motions": 8,
         "min": 0,
         "max": 400,
         "counts": [
@@ -7207,6 +7583,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 1,
+        "num_motions": 1,
         "min": 0,
         "max": 50,
         "counts": [
@@ -7220,6 +7597,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 1,
+        "num_motions": 1,
         "min": 0,
         "max": 50,
         "counts": [
@@ -7232,7 +7610,8 @@
       "lab": {
         "weight": 0.0038910505836575876,
         "score": 50,
-        "num_votes": 257,
+        "num_votes": 255,
+        "num_motions": 257,
         "min": 0,
         "max": 12850,
         "counts": [
@@ -7249,7 +7628,8 @@
       "ldem": {
         "weight": 0.5614035087719298,
         "score": 1600,
-        "num_votes": 57,
+        "num_votes": 49,
+        "num_motions": 57,
         "min": 0,
         "max": 2850,
         "counts": [
@@ -7271,6 +7651,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 3,
+        "num_motions": 3,
         "min": 0,
         "max": 150,
         "counts": [
@@ -7284,6 +7665,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 3,
+        "num_motions": 3,
         "min": 0,
         "max": 150,
         "counts": [
@@ -7296,7 +7678,8 @@
       "sf": {
         "weight": 0.5,
         "score": 125,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -7310,6 +7693,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 6,
+        "num_motions": 6,
         "min": 0,
         "max": 300,
         "counts": [
@@ -7322,7 +7706,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 25,
-        "num_votes": 1,
+        "num_votes": 0,
+        "num_motions": 1,
         "min": 0,
         "max": 50,
         "counts": [
@@ -7346,7 +7731,8 @@
       "alliance": {
         "weight": 0.7357142857142858,
         "score": 103,
-        "num_votes": 6,
+        "num_votes": 3,
+        "num_motions": 6,
         "min": 0,
         "max": 140,
         "counts": [
@@ -7367,7 +7753,8 @@
       "con": {
         "weight": 0.8792942276232765,
         "score": 37625,
-        "num_votes": 1835,
+        "num_votes": 1684,
+        "num_motions": 1835,
         "min": 0,
         "max": 42790,
         "counts": [
@@ -7388,7 +7775,8 @@
       "dup": {
         "weight": 0.18214285714285713,
         "score": 204,
-        "num_votes": 48,
+        "num_votes": 34,
+        "num_motions": 48,
         "min": 0,
         "max": 1120,
         "counts": [
@@ -7409,7 +7797,8 @@
       "green": {
         "weight": 0.15,
         "score": 21,
-        "num_votes": 6,
+        "num_votes": 5,
+        "num_motions": 6,
         "min": 0,
         "max": 140,
         "counts": [
@@ -7430,7 +7819,8 @@
       "ind": {
         "weight": 0.20714285714285716,
         "score": 29,
-        "num_votes": 6,
+        "num_votes": 1,
+        "num_motions": 6,
         "min": 0,
         "max": 140,
         "counts": [
@@ -7447,7 +7837,8 @@
       "lab": {
         "weight": 0.11112956810631229,
         "score": 4014,
-        "num_votes": 1548,
+        "num_votes": 1228,
+        "num_motions": 1548,
         "min": 0,
         "max": 36120,
         "counts": [
@@ -7468,7 +7859,8 @@
       "ldem": {
         "weight": 0.5318295739348371,
         "score": 4244,
-        "num_votes": 342,
+        "num_votes": 316,
+        "num_motions": 342,
         "min": 0,
         "max": 7980,
         "counts": [
@@ -7489,7 +7881,8 @@
       "pc": {
         "weight": 0.12857142857142856,
         "score": 54,
-        "num_votes": 18,
+        "num_votes": 12,
+        "num_motions": 18,
         "min": 0,
         "max": 420,
         "counts": [
@@ -7510,7 +7903,8 @@
       "sdlp": {
         "weight": 0.39285714285714285,
         "score": 165,
-        "num_votes": 18,
+        "num_votes": 11,
+        "num_motions": 18,
         "min": 0,
         "max": 420,
         "counts": [
@@ -7531,7 +7925,8 @@
       "sf": {
         "weight": 0.3769230769230769,
         "score": 245,
-        "num_votes": 29,
+        "num_votes": 0,
+        "num_motions": 29,
         "min": 0,
         "max": 650,
         "counts": [
@@ -7544,7 +7939,8 @@
       "snp": {
         "weight": 0.09404761904761905,
         "score": 79,
-        "num_votes": 36,
+        "num_votes": 29,
+        "num_motions": 36,
         "min": 0,
         "max": 840,
         "counts": [
@@ -7565,7 +7961,8 @@
       "speaker": {
         "weight": 0.38571428571428573,
         "score": 54,
-        "num_votes": 6,
+        "num_votes": 0,
+        "num_motions": 6,
         "min": 0,
         "max": 140,
         "counts": [
@@ -7579,6 +7976,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 1,
+        "num_motions": 1,
         "min": 0,
         "max": 50,
         "counts": [
@@ -7602,7 +8000,8 @@
       "alliance": {
         "weight": 0.13793103448275862,
         "score": 160,
-        "num_votes": 28,
+        "num_votes": 22,
+        "num_motions": 28,
         "min": 0,
         "max": 1160,
         "counts": [
@@ -7623,7 +8022,8 @@
       "con": {
         "weight": 0.9089031821259309,
         "score": 322188,
-        "num_votes": 8556,
+        "num_votes": 7198,
+        "num_motions": 8556,
         "min": 0,
         "max": 354480,
         "counts": [
@@ -7648,7 +8048,8 @@
       "dup": {
         "weight": 0.3630387931034483,
         "score": 3369,
-        "num_votes": 224,
+        "num_votes": 125,
+        "num_motions": 224,
         "min": 0,
         "max": 9280,
         "counts": [
@@ -7669,7 +8070,8 @@
       "green": {
         "weight": 0.08706896551724137,
         "score": 101,
-        "num_votes": 28,
+        "num_votes": 23,
+        "num_motions": 28,
         "min": 0,
         "max": 1160,
         "counts": [
@@ -7690,7 +8092,8 @@
       "ind": {
         "weight": 0.46379310344827585,
         "score": 538,
-        "num_votes": 28,
+        "num_votes": 4,
+        "num_motions": 28,
         "min": 0,
         "max": 1160,
         "counts": [
@@ -7711,7 +8114,8 @@
       "lab": {
         "weight": 0.1170757808842218,
         "score": 35008,
-        "num_votes": 7218,
+        "num_votes": 5766,
+        "num_motions": 7218,
         "min": 0,
         "max": 299020,
         "counts": [
@@ -7732,7 +8136,8 @@
       "ldem": {
         "weight": 0.8314968972302104,
         "score": 54937,
-        "num_votes": 1595,
+        "num_votes": 1211,
+        "num_motions": 1595,
         "min": 0,
         "max": 66070,
         "counts": [
@@ -7757,7 +8162,8 @@
       "pc": {
         "weight": 0.07931034482758621,
         "score": 276,
-        "num_votes": 84,
+        "num_votes": 72,
+        "num_motions": 84,
         "min": 0,
         "max": 3480,
         "counts": [
@@ -7778,7 +8184,8 @@
       "sdlp": {
         "weight": 0.15833333333333333,
         "score": 551,
-        "num_votes": 84,
+        "num_votes": 61,
+        "num_motions": 84,
         "min": 0,
         "max": 3480,
         "counts": [
@@ -7799,7 +8206,8 @@
       "sf": {
         "weight": 0.4786764705882353,
         "score": 2604,
-        "num_votes": 132,
+        "num_votes": 0,
+        "num_motions": 132,
         "min": 0,
         "max": 5440,
         "counts": [
@@ -7812,7 +8220,8 @@
       "snp": {
         "weight": 0.12313218390804598,
         "score": 857,
-        "num_votes": 168,
+        "num_votes": 127,
+        "num_motions": 168,
         "min": 0,
         "max": 6960,
         "counts": [
@@ -7833,7 +8242,8 @@
       "speaker": {
         "weight": 0.4793103448275862,
         "score": 556,
-        "num_votes": 28,
+        "num_votes": 0,
+        "num_motions": 28,
         "min": 0,
         "max": 1160,
         "counts": [
@@ -7846,7 +8256,8 @@
       "res": {
         "weight": 0.36875,
         "score": 177,
-        "num_votes": 12,
+        "num_votes": 3,
+        "num_motions": 12,
         "min": 0,
         "max": 480,
         "counts": [
@@ -7878,7 +8289,8 @@
       "alliance": {
         "weight": 0.3333333333333333,
         "score": 50,
-        "num_votes": 3,
+        "num_votes": 1,
+        "num_motions": 3,
         "min": 0,
         "max": 150,
         "counts": [
@@ -7895,7 +8307,8 @@
       "con": {
         "weight": 0.9247546346782988,
         "score": 42400,
-        "num_votes": 917,
+        "num_votes": 779,
+        "num_motions": 917,
         "min": 0,
         "max": 45850,
         "counts": [
@@ -7916,7 +8329,8 @@
       "dup": {
         "weight": 0.20833333333333334,
         "score": 250,
-        "num_votes": 24,
+        "num_votes": 14,
+        "num_motions": 24,
         "min": 0,
         "max": 1200,
         "counts": [
@@ -7937,7 +8351,8 @@
       "green": {
         "weight": 0.16666666666666666,
         "score": 25,
-        "num_votes": 3,
+        "num_votes": 2,
+        "num_motions": 3,
         "min": 0,
         "max": 150,
         "counts": [
@@ -7958,7 +8373,8 @@
       "ind": {
         "weight": 0.5,
         "score": 75,
-        "num_votes": 3,
+        "num_votes": 0,
+        "num_motions": 3,
         "min": 0,
         "max": 150,
         "counts": [
@@ -7971,7 +8387,8 @@
       "lab": {
         "weight": 0.10025873221216042,
         "score": 3875,
-        "num_votes": 773,
+        "num_votes": 618,
+        "num_motions": 773,
         "min": 0,
         "max": 38650,
         "counts": [
@@ -7992,7 +8409,8 @@
       "ldem": {
         "weight": 0.8705882352941177,
         "score": 7400,
-        "num_votes": 170,
+        "num_votes": 126,
+        "num_motions": 170,
         "min": 0,
         "max": 8500,
         "counts": [
@@ -8013,7 +8431,8 @@
       "pc": {
         "weight": 0.3888888888888889,
         "score": 175,
-        "num_votes": 9,
+        "num_votes": 6,
+        "num_motions": 9,
         "min": 0,
         "max": 450,
         "counts": [
@@ -8030,7 +8449,8 @@
       "sdlp": {
         "weight": 0.3333333333333333,
         "score": 150,
-        "num_votes": 9,
+        "num_votes": 3,
+        "num_motions": 9,
         "min": 0,
         "max": 450,
         "counts": [
@@ -8047,7 +8467,8 @@
       "sf": {
         "weight": 0.5,
         "score": 325,
-        "num_votes": 13,
+        "num_votes": 0,
+        "num_motions": 13,
         "min": 0,
         "max": 650,
         "counts": [
@@ -8060,7 +8481,8 @@
       "snp": {
         "weight": 0.5,
         "score": 450,
-        "num_votes": 18,
+        "num_votes": 0,
+        "num_motions": 18,
         "min": 0,
         "max": 900,
         "counts": [
@@ -8073,7 +8495,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 75,
-        "num_votes": 3,
+        "num_votes": 0,
+        "num_motions": 3,
         "min": 0,
         "max": 150,
         "counts": [
@@ -8086,7 +8509,8 @@
       "res": {
         "weight": 0.5,
         "score": 25,
-        "num_votes": 1,
+        "num_votes": 0,
+        "num_motions": 1,
         "min": 0,
         "max": 50,
         "counts": [
@@ -8110,7 +8534,8 @@
       "alliance": {
         "weight": 0.24047619047619048,
         "score": 101,
-        "num_votes": 10,
+        "num_votes": 5,
+        "num_motions": 10,
         "min": 0,
         "max": 420,
         "counts": [
@@ -8131,7 +8556,8 @@
       "con": {
         "weight": 0.8596757852077,
         "score": 110305,
-        "num_votes": 3055,
+        "num_votes": 2303,
+        "num_motions": 3055,
         "min": 0,
         "max": 128310,
         "counts": [
@@ -8156,7 +8582,8 @@
       "dup": {
         "weight": 0.3130952380952381,
         "score": 1052,
-        "num_votes": 80,
+        "num_votes": 36,
+        "num_motions": 80,
         "min": 0,
         "max": 3360,
         "counts": [
@@ -8177,7 +8604,8 @@
       "green": {
         "weight": 0.05952380952380952,
         "score": 25,
-        "num_votes": 10,
+        "num_votes": 9,
+        "num_motions": 10,
         "min": 0,
         "max": 420,
         "counts": [
@@ -8198,7 +8626,8 @@
       "ind": {
         "weight": 0.3595238095238095,
         "score": 151,
-        "num_votes": 10,
+        "num_votes": 3,
+        "num_motions": 10,
         "min": 0,
         "max": 420,
         "counts": [
@@ -8219,7 +8648,8 @@
       "lab": {
         "weight": 0.12024755218917421,
         "score": 13018,
-        "num_votes": 2578,
+        "num_votes": 2020,
+        "num_motions": 2578,
         "min": 0,
         "max": 108260,
         "counts": [
@@ -8240,7 +8670,8 @@
       "ldem": {
         "weight": 0.75772289660946,
         "score": 18102,
-        "num_votes": 569,
+        "num_votes": 363,
+        "num_motions": 569,
         "min": 0,
         "max": 23890,
         "counts": [
@@ -8261,7 +8692,8 @@
       "pc": {
         "weight": 0.04047619047619048,
         "score": 51,
-        "num_votes": 30,
+        "num_votes": 27,
+        "num_motions": 30,
         "min": 0,
         "max": 1260,
         "counts": [
@@ -8282,7 +8714,8 @@
       "sdlp": {
         "weight": 0.23809523809523808,
         "score": 300,
-        "num_votes": 30,
+        "num_votes": 18,
+        "num_motions": 30,
         "min": 0,
         "max": 1260,
         "counts": [
@@ -8303,7 +8736,8 @@
       "sf": {
         "weight": 0.4794871794871795,
         "score": 935,
-        "num_votes": 47,
+        "num_votes": 0,
+        "num_motions": 47,
         "min": 0,
         "max": 1950,
         "counts": [
@@ -8316,7 +8750,8 @@
       "snp": {
         "weight": 0.11031746031746031,
         "score": 278,
-        "num_votes": 60,
+        "num_votes": 46,
+        "num_motions": 60,
         "min": 0,
         "max": 2520,
         "counts": [
@@ -8337,7 +8772,8 @@
       "speaker": {
         "weight": 0.48095238095238096,
         "score": 202,
-        "num_votes": 10,
+        "num_votes": 0,
+        "num_motions": 10,
         "min": 0,
         "max": 420,
         "counts": [
@@ -8350,7 +8786,8 @@
       "res": {
         "weight": 0.12380952380952381,
         "score": 26,
-        "num_votes": 5,
+        "num_votes": 3,
+        "num_motions": 5,
         "min": 0,
         "max": 210,
         "counts": [
@@ -8383,6 +8820,7 @@
         "weight": 1.0,
         "score": 350,
         "num_votes": 7,
+        "num_motions": 7,
         "min": 0,
         "max": 350,
         "counts": [
@@ -8399,7 +8837,8 @@
       "con": {
         "weight": 0.0534547152194211,
         "score": 5725,
-        "num_votes": 2142,
+        "num_votes": 1913,
+        "num_motions": 2142,
         "min": 0,
         "max": 107100,
         "counts": [
@@ -8420,7 +8859,8 @@
       "dup": {
         "weight": 0.8125,
         "score": 2275,
-        "num_votes": 56,
+        "num_votes": 35,
+        "num_motions": 56,
         "min": 0,
         "max": 2800,
         "counts": [
@@ -8442,6 +8882,7 @@
         "weight": 1.0,
         "score": 350,
         "num_votes": 7,
+        "num_motions": 7,
         "min": 0,
         "max": 350,
         "counts": [
@@ -8458,7 +8899,8 @@
       "ind": {
         "weight": 0.5,
         "score": 175,
-        "num_votes": 7,
+        "num_votes": 0,
+        "num_motions": 7,
         "min": 0,
         "max": 350,
         "counts": [
@@ -8471,7 +8913,8 @@
       "lab": {
         "weight": 0.8969529085872576,
         "score": 80950,
-        "num_votes": 1805,
+        "num_votes": 1433,
+        "num_motions": 1805,
         "min": 0,
         "max": 90250,
         "counts": [
@@ -8492,7 +8935,8 @@
       "ldem": {
         "weight": 0.12531328320802004,
         "score": 2500,
-        "num_votes": 399,
+        "num_votes": 337,
+        "num_motions": 399,
         "min": 0,
         "max": 19950,
         "counts": [
@@ -8513,7 +8957,8 @@
       "pc": {
         "weight": 0.9523809523809523,
         "score": 1000,
-        "num_votes": 21,
+        "num_votes": 19,
+        "num_motions": 21,
         "min": 0,
         "max": 1050,
         "counts": [
@@ -8534,7 +8979,8 @@
       "sdlp": {
         "weight": 0.8571428571428571,
         "score": 900,
-        "num_votes": 21,
+        "num_votes": 15,
+        "num_motions": 21,
         "min": 0,
         "max": 1050,
         "counts": [
@@ -8555,7 +9001,8 @@
       "sf": {
         "weight": 0.5,
         "score": 825,
-        "num_votes": 33,
+        "num_votes": 0,
+        "num_motions": 33,
         "min": 0,
         "max": 1650,
         "counts": [
@@ -8568,7 +9015,8 @@
       "snp": {
         "weight": 0.8690476190476191,
         "score": 1825,
-        "num_votes": 42,
+        "num_votes": 31,
+        "num_motions": 42,
         "min": 0,
         "max": 2100,
         "counts": [
@@ -8589,7 +9037,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 175,
-        "num_votes": 7,
+        "num_votes": 0,
+        "num_motions": 7,
         "min": 0,
         "max": 350,
         "counts": [
@@ -8614,6 +9063,7 @@
         "weight": 1.0,
         "score": 250,
         "num_votes": 5,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -8630,7 +9080,8 @@
       "con": {
         "weight": 0.04590163934426229,
         "score": 3500,
-        "num_votes": 1525,
+        "num_votes": 1385,
+        "num_motions": 1525,
         "min": 0,
         "max": 76250,
         "counts": [
@@ -8651,7 +9102,8 @@
       "dup": {
         "weight": 0.75,
         "score": 1500,
-        "num_votes": 40,
+        "num_votes": 20,
+        "num_motions": 40,
         "min": 0,
         "max": 2000,
         "counts": [
@@ -8673,6 +9125,7 @@
         "weight": 1.0,
         "score": 250,
         "num_votes": 5,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -8689,7 +9142,8 @@
       "ind": {
         "weight": 0.5,
         "score": 125,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -8702,7 +9156,8 @@
       "lab": {
         "weight": 0.9507751937984497,
         "score": 61325,
-        "num_votes": 1290,
+        "num_votes": 1163,
+        "num_motions": 1290,
         "min": 0,
         "max": 64500,
         "counts": [
@@ -8723,7 +9178,8 @@
       "ldem": {
         "weight": 0.1824561403508772,
         "score": 2600,
-        "num_votes": 285,
+        "num_votes": 219,
+        "num_motions": 285,
         "min": 0,
         "max": 14250,
         "counts": [
@@ -8748,7 +9204,8 @@
       "pc": {
         "weight": 0.9,
         "score": 675,
-        "num_votes": 15,
+        "num_votes": 12,
+        "num_motions": 15,
         "min": 0,
         "max": 750,
         "counts": [
@@ -8769,7 +9226,8 @@
       "res": {
         "weight": 0.5,
         "score": 125,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -8782,7 +9240,8 @@
       "sdlp": {
         "weight": 0.9333333333333333,
         "score": 700,
-        "num_votes": 15,
+        "num_votes": 13,
+        "num_motions": 15,
         "min": 0,
         "max": 750,
         "counts": [
@@ -8803,7 +9262,8 @@
       "sf": {
         "weight": 0.5,
         "score": 500,
-        "num_votes": 20,
+        "num_votes": 0,
+        "num_motions": 20,
         "min": 0,
         "max": 1000,
         "counts": [
@@ -8817,6 +9277,7 @@
         "weight": 1.0,
         "score": 1500,
         "num_votes": 30,
+        "num_motions": 30,
         "min": 0,
         "max": 1500,
         "counts": [
@@ -8833,7 +9294,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 125,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -8856,7 +9318,8 @@
       "alliance": {
         "weight": 0.21428571428571427,
         "score": 75,
-        "num_votes": 7,
+        "num_votes": 4,
+        "num_motions": 7,
         "min": 0,
         "max": 350,
         "counts": [
@@ -8877,7 +9340,8 @@
       "con": {
         "weight": 0.9404761904761905,
         "score": 100725,
-        "num_votes": 2142,
+        "num_votes": 1887,
+        "num_motions": 2142,
         "min": 0,
         "max": 107100,
         "counts": [
@@ -8898,7 +9362,8 @@
       "dup": {
         "weight": 0.3392857142857143,
         "score": 950,
-        "num_votes": 56,
+        "num_votes": 20,
+        "num_motions": 56,
         "min": 0,
         "max": 2800,
         "counts": [
@@ -8919,7 +9384,8 @@
       "green": {
         "weight": 0.07142857142857142,
         "score": 25,
-        "num_votes": 7,
+        "num_votes": 6,
+        "num_motions": 7,
         "min": 0,
         "max": 350,
         "counts": [
@@ -8940,7 +9406,8 @@
       "ind": {
         "weight": 0.35714285714285715,
         "score": 125,
-        "num_votes": 7,
+        "num_votes": 2,
+        "num_motions": 7,
         "min": 0,
         "max": 350,
         "counts": [
@@ -8961,7 +9428,8 @@
       "lab": {
         "weight": 0.04963948973932335,
         "score": 4475,
-        "num_votes": 1803,
+        "num_votes": 1624,
+        "num_motions": 1803,
         "min": 0,
         "max": 90150,
         "counts": [
@@ -8982,7 +9450,8 @@
       "ldem": {
         "weight": 0.8345864661654135,
         "score": 16650,
-        "num_votes": 399,
+        "num_votes": 304,
+        "num_motions": 399,
         "min": 0,
         "max": 19950,
         "counts": [
@@ -9007,7 +9476,8 @@
       "pc": {
         "weight": 0.2619047619047619,
         "score": 275,
-        "num_votes": 21,
+        "num_votes": 10,
+        "num_motions": 21,
         "min": 0,
         "max": 1050,
         "counts": [
@@ -9028,7 +9498,8 @@
       "sdlp": {
         "weight": 0.3333333333333333,
         "score": 350,
-        "num_votes": 21,
+        "num_votes": 7,
+        "num_motions": 21,
         "min": 0,
         "max": 1050,
         "counts": [
@@ -9049,7 +9520,8 @@
       "sf": {
         "weight": 0.5,
         "score": 800,
-        "num_votes": 32,
+        "num_votes": 0,
+        "num_motions": 32,
         "min": 0,
         "max": 1600,
         "counts": [
@@ -9062,7 +9534,8 @@
       "snp": {
         "weight": 0.38095238095238093,
         "score": 800,
-        "num_votes": 42,
+        "num_votes": 10,
+        "num_motions": 42,
         "min": 0,
         "max": 2100,
         "counts": [
@@ -9079,7 +9552,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 175,
-        "num_votes": 7,
+        "num_votes": 0,
+        "num_motions": 7,
         "min": 0,
         "max": 350,
         "counts": [
@@ -9102,7 +9576,8 @@
       "alliance": {
         "weight": 0.8571428571428571,
         "score": 300,
-        "num_votes": 7,
+        "num_votes": 5,
+        "num_motions": 7,
         "min": 0,
         "max": 350,
         "counts": [
@@ -9123,7 +9598,8 @@
       "con": {
         "weight": 0.05859010270774977,
         "score": 6275,
-        "num_votes": 2142,
+        "num_votes": 1891,
+        "num_motions": 2142,
         "min": 0,
         "max": 107100,
         "counts": [
@@ -9144,7 +9620,8 @@
       "dup": {
         "weight": 0.7232142857142857,
         "score": 2025,
-        "num_votes": 56,
+        "num_votes": 27,
+        "num_motions": 56,
         "min": 0,
         "max": 2800,
         "counts": [
@@ -9165,7 +9642,8 @@
       "green": {
         "weight": 0.9285714285714286,
         "score": 325,
-        "num_votes": 7,
+        "num_votes": 6,
+        "num_motions": 7,
         "min": 0,
         "max": 350,
         "counts": [
@@ -9186,7 +9664,8 @@
       "ind": {
         "weight": 0.6428571428571429,
         "score": 225,
-        "num_votes": 7,
+        "num_votes": 2,
+        "num_motions": 7,
         "min": 0,
         "max": 350,
         "counts": [
@@ -9207,7 +9686,8 @@
       "lab": {
         "weight": 0.9490022172949002,
         "score": 85600,
-        "num_votes": 1804,
+        "num_votes": 1620,
+        "num_motions": 1804,
         "min": 0,
         "max": 90200,
         "counts": [
@@ -9228,7 +9708,8 @@
       "ldem": {
         "weight": 0.16666666666666666,
         "score": 3325,
-        "num_votes": 399,
+        "num_votes": 308,
+        "num_motions": 399,
         "min": 0,
         "max": 19950,
         "counts": [
@@ -9253,7 +9734,8 @@
       "pc": {
         "weight": 0.6428571428571429,
         "score": 675,
-        "num_votes": 21,
+        "num_votes": 12,
+        "num_motions": 21,
         "min": 0,
         "max": 1050,
         "counts": [
@@ -9274,7 +9756,8 @@
       "sdlp": {
         "weight": 0.7142857142857143,
         "score": 750,
-        "num_votes": 21,
+        "num_votes": 9,
+        "num_motions": 21,
         "min": 0,
         "max": 1050,
         "counts": [
@@ -9295,7 +9778,8 @@
       "sf": {
         "weight": 0.5,
         "score": 850,
-        "num_votes": 34,
+        "num_votes": 0,
+        "num_motions": 34,
         "min": 0,
         "max": 1700,
         "counts": [
@@ -9308,7 +9792,8 @@
       "snp": {
         "weight": 0.6190476190476191,
         "score": 1300,
-        "num_votes": 42,
+        "num_votes": 10,
+        "num_motions": 42,
         "min": 0,
         "max": 2100,
         "counts": [
@@ -9325,7 +9810,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 175,
-        "num_votes": 7,
+        "num_votes": 0,
+        "num_motions": 7,
         "min": 0,
         "max": 350,
         "counts": [
@@ -9349,7 +9835,8 @@
       "alliance": {
         "weight": 0.18181818181818182,
         "score": 100,
-        "num_votes": 11,
+        "num_votes": 7,
+        "num_motions": 11,
         "min": 0,
         "max": 550,
         "counts": [
@@ -9370,7 +9857,8 @@
       "con": {
         "weight": 0.9219076005961252,
         "score": 154650,
-        "num_votes": 3355,
+        "num_votes": 2947,
+        "num_motions": 3355,
         "min": 0,
         "max": 167750,
         "counts": [
@@ -9391,7 +9879,8 @@
       "dup": {
         "weight": 0.17045454545454544,
         "score": 750,
-        "num_votes": 88,
+        "num_votes": 58,
+        "num_motions": 88,
         "min": 0,
         "max": 4400,
         "counts": [
@@ -9413,6 +9902,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 11,
+        "num_motions": 11,
         "min": 0,
         "max": 550,
         "counts": [
@@ -9430,6 +9920,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 11,
+        "num_motions": 11,
         "min": 0,
         "max": 550,
         "counts": [
@@ -9446,7 +9937,8 @@
       "lab": {
         "weight": 0.05112834978843441,
         "score": 7250,
-        "num_votes": 2836,
+        "num_votes": 2546,
+        "num_motions": 2836,
         "min": 0,
         "max": 141800,
         "counts": [
@@ -9467,7 +9959,8 @@
       "ldem": {
         "weight": 0.8484848484848485,
         "score": 26600,
-        "num_votes": 627,
+        "num_votes": 503,
+        "num_motions": 627,
         "min": 0,
         "max": 31350,
         "counts": [
@@ -9488,7 +9981,8 @@
       "pc": {
         "weight": 0.06060606060606061,
         "score": 100,
-        "num_votes": 33,
+        "num_votes": 29,
+        "num_motions": 33,
         "min": 0,
         "max": 1650,
         "counts": [
@@ -9509,7 +10003,8 @@
       "res": {
         "weight": 0.36363636363636365,
         "score": 200,
-        "num_votes": 11,
+        "num_votes": 3,
+        "num_motions": 11,
         "min": 0,
         "max": 550,
         "counts": [
@@ -9530,7 +10025,8 @@
       "sdlp": {
         "weight": 0.10606060606060606,
         "score": 175,
-        "num_votes": 33,
+        "num_votes": 26,
+        "num_motions": 33,
         "min": 0,
         "max": 1650,
         "counts": [
@@ -9551,7 +10047,8 @@
       "sf": {
         "weight": 0.5,
         "score": 1375,
-        "num_votes": 55,
+        "num_votes": 0,
+        "num_motions": 55,
         "min": 0,
         "max": 2750,
         "counts": [
@@ -9564,7 +10061,8 @@
       "snp": {
         "weight": 0.03787878787878788,
         "score": 125,
-        "num_votes": 66,
+        "num_votes": 61,
+        "num_motions": 66,
         "min": 0,
         "max": 3300,
         "counts": [
@@ -9585,7 +10083,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 275,
-        "num_votes": 11,
+        "num_votes": 0,
+        "num_motions": 11,
         "min": 0,
         "max": 550,
         "counts": [
@@ -9608,7 +10107,8 @@
       "alliance": {
         "weight": 0.1,
         "score": 50,
-        "num_votes": 10,
+        "num_votes": 8,
+        "num_motions": 10,
         "min": 0,
         "max": 500,
         "counts": [
@@ -9629,7 +10129,8 @@
       "con": {
         "weight": 0.8499181669394436,
         "score": 129825,
-        "num_votes": 3055,
+        "num_votes": 2661,
+        "num_motions": 3055,
         "min": 0,
         "max": 152750,
         "counts": [
@@ -9650,7 +10151,8 @@
       "dup": {
         "weight": 0.19375,
         "score": 775,
-        "num_votes": 80,
+        "num_votes": 49,
+        "num_motions": 80,
         "min": 0,
         "max": 4000,
         "counts": [
@@ -9672,6 +10174,7 @@
         "weight": 0.1,
         "score": 50,
         "num_votes": 10,
+        "num_motions": 10,
         "min": 0,
         "max": 500,
         "counts": [
@@ -9684,7 +10187,8 @@
       "ind": {
         "weight": 0.2,
         "score": 100,
-        "num_votes": 10,
+        "num_votes": 6,
+        "num_motions": 10,
         "min": 0,
         "max": 500,
         "counts": [
@@ -9705,7 +10209,8 @@
       "lab": {
         "weight": 0.150873786407767,
         "score": 19425,
-        "num_votes": 2575,
+        "num_votes": 2262,
+        "num_motions": 2575,
         "min": 0,
         "max": 128750,
         "counts": [
@@ -9722,7 +10227,8 @@
       "ldem": {
         "weight": 0.8315789473684211,
         "score": 23700,
-        "num_votes": 570,
+        "num_votes": 464,
+        "num_motions": 570,
         "min": 0,
         "max": 28500,
         "counts": [
@@ -9739,7 +10245,8 @@
       "pc": {
         "weight": 0.21666666666666667,
         "score": 325,
-        "num_votes": 30,
+        "num_votes": 23,
+        "num_motions": 30,
         "min": 0,
         "max": 1500,
         "counts": [
@@ -9756,7 +10263,8 @@
       "sdlp": {
         "weight": 0.15,
         "score": 225,
-        "num_votes": 30,
+        "num_votes": 21,
+        "num_motions": 30,
         "min": 0,
         "max": 1500,
         "counts": [
@@ -9773,7 +10281,8 @@
       "sf": {
         "weight": 0.5,
         "score": 1225,
-        "num_votes": 49,
+        "num_votes": 0,
+        "num_motions": 49,
         "min": 0,
         "max": 2450,
         "counts": [
@@ -9786,7 +10295,8 @@
       "snp": {
         "weight": 0.125,
         "score": 375,
-        "num_votes": 60,
+        "num_votes": 55,
+        "num_motions": 60,
         "min": 0,
         "max": 3000,
         "counts": [
@@ -9803,7 +10313,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 250,
-        "num_votes": 10,
+        "num_votes": 0,
+        "num_motions": 10,
         "min": 0,
         "max": 500,
         "counts": [
@@ -9816,7 +10327,8 @@
       "res": {
         "weight": 0.375,
         "score": 150,
-        "num_votes": 8,
+        "num_votes": 2,
+        "num_motions": 8,
         "min": 0,
         "max": 400,
         "counts": [
@@ -9843,7 +10355,8 @@
       "alliance": {
         "weight": 0.20833333333333334,
         "score": 125,
-        "num_votes": 12,
+        "num_votes": 7,
+        "num_motions": 12,
         "min": 0,
         "max": 600,
         "counts": [
@@ -9860,7 +10373,8 @@
       "con": {
         "weight": 0.9268758526603001,
         "score": 169850,
-        "num_votes": 3665,
+        "num_votes": 3130,
+        "num_motions": 3665,
         "min": 0,
         "max": 183250,
         "counts": [
@@ -9885,7 +10399,8 @@
       "dup": {
         "weight": 0.28125,
         "score": 1350,
-        "num_votes": 96,
+        "num_votes": 54,
+        "num_motions": 96,
         "min": 0,
         "max": 4800,
         "counts": [
@@ -9907,6 +10422,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 12,
+        "num_motions": 12,
         "min": 0,
         "max": 600,
         "counts": [
@@ -9923,7 +10439,8 @@
       "ind": {
         "weight": 0.2916666666666667,
         "score": 175,
-        "num_votes": 12,
+        "num_votes": 5,
+        "num_motions": 12,
         "min": 0,
         "max": 600,
         "counts": [
@@ -9940,7 +10457,8 @@
       "lab": {
         "weight": 0.06324813976059528,
         "score": 9775,
-        "num_votes": 3091,
+        "num_votes": 2700,
+        "num_motions": 3091,
         "min": 0,
         "max": 154550,
         "counts": [
@@ -9961,7 +10479,8 @@
       "ldem": {
         "weight": 0.9005847953216374,
         "score": 30800,
-        "num_votes": 684,
+        "num_votes": 548,
+        "num_motions": 684,
         "min": 0,
         "max": 34200,
         "counts": [
@@ -9982,7 +10501,8 @@
       "pc": {
         "weight": 0.1111111111111111,
         "score": 200,
-        "num_votes": 36,
+        "num_votes": 28,
+        "num_motions": 36,
         "min": 0,
         "max": 1800,
         "counts": [
@@ -10003,7 +10523,8 @@
       "sdlp": {
         "weight": 0.125,
         "score": 225,
-        "num_votes": 36,
+        "num_votes": 27,
+        "num_motions": 36,
         "min": 0,
         "max": 1800,
         "counts": [
@@ -10024,7 +10545,8 @@
       "sf": {
         "weight": 0.5,
         "score": 1475,
-        "num_votes": 59,
+        "num_votes": 0,
+        "num_motions": 59,
         "min": 0,
         "max": 2950,
         "counts": [
@@ -10037,7 +10559,8 @@
       "snp": {
         "weight": 0.04861111111111111,
         "score": 175,
-        "num_votes": 72,
+        "num_votes": 65,
+        "num_motions": 72,
         "min": 0,
         "max": 3600,
         "counts": [
@@ -10058,7 +10581,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 300,
-        "num_votes": 12,
+        "num_votes": 0,
+        "num_motions": 12,
         "min": 0,
         "max": 600,
         "counts": [
@@ -10071,7 +10595,8 @@
       "res": {
         "weight": 0.4,
         "score": 200,
-        "num_votes": 10,
+        "num_votes": 2,
+        "num_motions": 10,
         "min": 0,
         "max": 500,
         "counts": [
@@ -10099,6 +10624,7 @@
         "weight": 1.0,
         "score": 200,
         "num_votes": 4,
+        "num_motions": 4,
         "min": 0,
         "max": 200,
         "counts": [
@@ -10115,7 +10641,8 @@
       "con": {
         "weight": 0.06669394435351882,
         "score": 4075,
-        "num_votes": 1222,
+        "num_votes": 1059,
+        "num_motions": 1222,
         "min": 0,
         "max": 61100,
         "counts": [
@@ -10136,7 +10663,8 @@
       "dup": {
         "weight": 0.921875,
         "score": 1475,
-        "num_votes": 32,
+        "num_votes": 27,
+        "num_motions": 32,
         "min": 0,
         "max": 1600,
         "counts": [
@@ -10158,6 +10686,7 @@
         "weight": 1.0,
         "score": 200,
         "num_votes": 4,
+        "num_motions": 4,
         "min": 0,
         "max": 200,
         "counts": [
@@ -10175,6 +10704,7 @@
         "weight": 1.0,
         "score": 200,
         "num_votes": 4,
+        "num_motions": 4,
         "min": 0,
         "max": 200,
         "counts": [
@@ -10191,7 +10721,8 @@
       "lab": {
         "weight": 0.818889970788705,
         "score": 42050,
-        "num_votes": 1027,
+        "num_votes": 655,
+        "num_motions": 1027,
         "min": 0,
         "max": 51350,
         "counts": [
@@ -10212,7 +10743,8 @@
       "ldem": {
         "weight": 0.09649122807017543,
         "score": 1100,
-        "num_votes": 228,
+        "num_votes": 184,
+        "num_motions": 228,
         "min": 0,
         "max": 11400,
         "counts": [
@@ -10233,7 +10765,8 @@
       "pc": {
         "weight": 0.9166666666666666,
         "score": 550,
-        "num_votes": 12,
+        "num_votes": 10,
+        "num_motions": 12,
         "min": 0,
         "max": 600,
         "counts": [
@@ -10255,6 +10788,7 @@
         "weight": 1.0,
         "score": 600,
         "num_votes": 12,
+        "num_motions": 12,
         "min": 0,
         "max": 600,
         "counts": [
@@ -10271,7 +10805,8 @@
       "sf": {
         "weight": 0.5,
         "score": 500,
-        "num_votes": 20,
+        "num_votes": 0,
+        "num_motions": 20,
         "min": 0,
         "max": 1000,
         "counts": [
@@ -10284,7 +10819,8 @@
       "snp": {
         "weight": 0.9375,
         "score": 1125,
-        "num_votes": 24,
+        "num_votes": 21,
+        "num_motions": 24,
         "min": 0,
         "max": 1200,
         "counts": [
@@ -10305,7 +10841,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 100,
-        "num_votes": 4,
+        "num_votes": 0,
+        "num_motions": 4,
         "min": 0,
         "max": 200,
         "counts": [
@@ -10318,7 +10855,8 @@
       "res": {
         "weight": 0.75,
         "score": 75,
-        "num_votes": 2,
+        "num_votes": 1,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -10346,6 +10884,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -10362,7 +10901,8 @@
       "con": {
         "weight": 0.946078431372549,
         "score": 28950,
-        "num_votes": 612,
+        "num_votes": 546,
+        "num_motions": 612,
         "min": 0,
         "max": 30600,
         "counts": [
@@ -10383,7 +10923,8 @@
       "dup": {
         "weight": 0.1875,
         "score": 150,
-        "num_votes": 16,
+        "num_votes": 10,
+        "num_motions": 16,
         "min": 0,
         "max": 800,
         "counts": [
@@ -10405,6 +10946,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -10421,7 +10963,8 @@
       "ind": {
         "weight": 0.5,
         "score": 50,
-        "num_votes": 2,
+        "num_votes": 0,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -10434,7 +10977,8 @@
       "lab": {
         "weight": 0.029069767441860465,
         "score": 750,
-        "num_votes": 516,
+        "num_votes": 486,
+        "num_motions": 516,
         "min": 0,
         "max": 25800,
         "counts": [
@@ -10455,7 +10999,8 @@
       "ldem": {
         "weight": 0.9035087719298246,
         "score": 5150,
-        "num_votes": 114,
+        "num_votes": 96,
+        "num_motions": 114,
         "min": 0,
         "max": 5700,
         "counts": [
@@ -10477,6 +11022,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 6,
+        "num_motions": 6,
         "min": 0,
         "max": 300,
         "counts": [
@@ -10493,7 +11039,8 @@
       "sdlp": {
         "weight": 0.16666666666666666,
         "score": 50,
-        "num_votes": 6,
+        "num_votes": 4,
+        "num_motions": 6,
         "min": 0,
         "max": 300,
         "counts": [
@@ -10514,7 +11061,8 @@
       "sf": {
         "weight": 0.5,
         "score": 250,
-        "num_votes": 10,
+        "num_votes": 0,
+        "num_motions": 10,
         "min": 0,
         "max": 500,
         "counts": [
@@ -10527,7 +11075,8 @@
       "snp": {
         "weight": 0.25,
         "score": 150,
-        "num_votes": 12,
+        "num_votes": 6,
+        "num_motions": 12,
         "min": 0,
         "max": 600,
         "counts": [
@@ -10548,7 +11097,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 50,
-        "num_votes": 2,
+        "num_votes": 0,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -10571,7 +11121,8 @@
       "alliance": {
         "weight": 0.11904761904761904,
         "score": 25,
-        "num_votes": 5,
+        "num_votes": 4,
+        "num_motions": 5,
         "min": 0,
         "max": 210,
         "counts": [
@@ -10592,7 +11143,8 @@
       "con": {
         "weight": 0.9159165239059337,
         "score": 58811,
-        "num_votes": 1529,
+        "num_votes": 1290,
+        "num_motions": 1529,
         "min": 0,
         "max": 64210,
         "counts": [
@@ -10613,7 +11165,8 @@
       "dup": {
         "weight": 0.6666666666666666,
         "score": 1120,
-        "num_votes": 40,
+        "num_votes": 26,
+        "num_motions": 40,
         "min": 0,
         "max": 1680,
         "counts": [
@@ -10635,6 +11188,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 5,
+        "num_motions": 5,
         "min": 0,
         "max": 210,
         "counts": [
@@ -10651,7 +11205,8 @@
       "ind": {
         "weight": 0.47619047619047616,
         "score": 100,
-        "num_votes": 5,
+        "num_votes": 1,
+        "num_motions": 5,
         "min": 0,
         "max": 210,
         "counts": [
@@ -10668,7 +11223,8 @@
       "lab": {
         "weight": 0.09739515980048033,
         "score": 5272,
-        "num_votes": 1289,
+        "num_votes": 1061,
+        "num_motions": 1289,
         "min": 0,
         "max": 54130,
         "counts": [
@@ -10689,7 +11245,8 @@
       "ldem": {
         "weight": 0.8888422818791947,
         "score": 10595,
-        "num_votes": 284,
+        "num_votes": 227,
+        "num_motions": 284,
         "min": 0,
         "max": 11920,
         "counts": [
@@ -10710,7 +11267,8 @@
       "pc": {
         "weight": 0.20317460317460317,
         "score": 128,
-        "num_votes": 15,
+        "num_votes": 9,
+        "num_motions": 15,
         "min": 0,
         "max": 630,
         "counts": [
@@ -10731,7 +11289,8 @@
       "sdlp": {
         "weight": 0.35873015873015873,
         "score": 226,
-        "num_votes": 15,
+        "num_votes": 5,
+        "num_motions": 15,
         "min": 0,
         "max": 630,
         "counts": [
@@ -10752,7 +11311,8 @@
       "sf": {
         "weight": 0.48,
         "score": 480,
-        "num_votes": 24,
+        "num_votes": 0,
+        "num_motions": 24,
         "min": 0,
         "max": 1000,
         "counts": [
@@ -10765,7 +11325,8 @@
       "snp": {
         "weight": 0.48095238095238096,
         "score": 606,
-        "num_votes": 30,
+        "num_votes": 0,
+        "num_motions": 30,
         "min": 0,
         "max": 1260,
         "counts": [
@@ -10778,7 +11339,8 @@
       "speaker": {
         "weight": 0.48095238095238096,
         "score": 101,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 210,
         "counts": [
@@ -10791,7 +11353,8 @@
       "res": {
         "weight": 0.5,
         "score": 50,
-        "num_votes": 2,
+        "num_votes": 0,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -10814,7 +11377,8 @@
       "alliance": {
         "weight": 0.125,
         "score": 25,
-        "num_votes": 4,
+        "num_votes": 3,
+        "num_motions": 4,
         "min": 0,
         "max": 200,
         "counts": [
@@ -10831,7 +11395,8 @@
       "con": {
         "weight": 0.9203431372549019,
         "score": 56325,
-        "num_votes": 1224,
+        "num_votes": 1029,
+        "num_motions": 1224,
         "min": 0,
         "max": 61200,
         "counts": [
@@ -10848,7 +11413,8 @@
       "dup": {
         "weight": 0.8125,
         "score": 1300,
-        "num_votes": 32,
+        "num_votes": 22,
+        "num_motions": 32,
         "min": 0,
         "max": 1600,
         "counts": [
@@ -10870,6 +11436,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 4,
+        "num_motions": 4,
         "min": 0,
         "max": 200,
         "counts": [
@@ -10882,7 +11449,8 @@
       "ind": {
         "weight": 0.5,
         "score": 100,
-        "num_votes": 4,
+        "num_votes": 0,
+        "num_motions": 4,
         "min": 0,
         "max": 200,
         "counts": [
@@ -10895,7 +11463,8 @@
       "lab": {
         "weight": 0.08583899127061105,
         "score": 4425,
-        "num_votes": 1031,
+        "num_votes": 858,
+        "num_motions": 1031,
         "min": 0,
         "max": 51550,
         "counts": [
@@ -10916,7 +11485,8 @@
       "ldem": {
         "weight": 0.9254385964912281,
         "score": 10550,
-        "num_votes": 228,
+        "num_votes": 196,
+        "num_motions": 228,
         "min": 0,
         "max": 11400,
         "counts": [
@@ -10937,7 +11507,8 @@
       "pc": {
         "weight": 0.2916666666666667,
         "score": 175,
-        "num_votes": 12,
+        "num_votes": 7,
+        "num_motions": 12,
         "min": 0,
         "max": 600,
         "counts": [
@@ -10958,7 +11529,8 @@
       "sdlp": {
         "weight": 0.2916666666666667,
         "score": 175,
-        "num_votes": 12,
+        "num_votes": 5,
+        "num_motions": 12,
         "min": 0,
         "max": 600,
         "counts": [
@@ -10975,7 +11547,8 @@
       "sf": {
         "weight": 0.5,
         "score": 500,
-        "num_votes": 20,
+        "num_votes": 0,
+        "num_motions": 20,
         "min": 0,
         "max": 1000,
         "counts": [
@@ -10988,7 +11561,8 @@
       "snp": {
         "weight": 0.5,
         "score": 600,
-        "num_votes": 24,
+        "num_votes": 0,
+        "num_motions": 24,
         "min": 0,
         "max": 1200,
         "counts": [
@@ -11001,7 +11575,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 100,
-        "num_votes": 4,
+        "num_votes": 0,
+        "num_motions": 4,
         "min": 0,
         "max": 200,
         "counts": [
@@ -11014,7 +11589,8 @@
       "res": {
         "weight": 0.5,
         "score": 25,
-        "num_votes": 1,
+        "num_votes": 0,
+        "num_motions": 1,
         "min": 0,
         "max": 50,
         "counts": [
@@ -11037,7 +11613,8 @@
       "alliance": {
         "weight": 0.6298245614035087,
         "score": 359,
-        "num_votes": 17,
+        "num_votes": 8,
+        "num_motions": 17,
         "min": 0,
         "max": 570,
         "counts": [
@@ -11058,7 +11635,8 @@
       "con": {
         "weight": 0.07214732373357811,
         "score": 12576,
-        "num_votes": 5199,
+        "num_votes": 4179,
+        "num_motions": 5199,
         "min": 0,
         "max": 174310,
         "counts": [
@@ -11083,7 +11661,8 @@
       "dup": {
         "weight": 0.6611842105263158,
         "score": 3015,
-        "num_votes": 136,
+        "num_votes": 55,
+        "num_motions": 136,
         "min": 0,
         "max": 4560,
         "counts": [
@@ -11100,7 +11679,8 @@
       "green": {
         "weight": 0.7210526315789474,
         "score": 411,
-        "num_votes": 17,
+        "num_votes": 10,
+        "num_motions": 17,
         "min": 0,
         "max": 570,
         "counts": [
@@ -11117,7 +11697,8 @@
       "ind": {
         "weight": 0.5263157894736842,
         "score": 300,
-        "num_votes": 17,
+        "num_votes": 3,
+        "num_motions": 17,
         "min": 0,
         "max": 570,
         "counts": [
@@ -11134,7 +11715,8 @@
       "lab": {
         "weight": 0.8977827807340701,
         "score": 131597,
-        "num_votes": 4374,
+        "num_votes": 3455,
+        "num_motions": 4374,
         "min": 0,
         "max": 146580,
         "counts": [
@@ -11155,7 +11737,8 @@
       "ldem": {
         "weight": 0.0971683594952293,
         "score": 3157,
-        "num_votes": 969,
+        "num_votes": 742,
+        "num_motions": 969,
         "min": 0,
         "max": 32490,
         "counts": [
@@ -11176,7 +11759,8 @@
       "pc": {
         "weight": 0.9152046783625731,
         "score": 1565,
-        "num_votes": 51,
+        "num_votes": 42,
+        "num_motions": 51,
         "min": 0,
         "max": 1710,
         "counts": [
@@ -11193,7 +11777,8 @@
       "sdlp": {
         "weight": 0.652046783625731,
         "score": 1115,
-        "num_votes": 51,
+        "num_votes": 24,
+        "num_motions": 51,
         "min": 0,
         "max": 1710,
         "counts": [
@@ -11210,7 +11795,8 @@
       "sf": {
         "weight": 0.45087719298245615,
         "score": 1285,
-        "num_votes": 85,
+        "num_votes": 0,
+        "num_motions": 85,
         "min": 0,
         "max": 2850,
         "counts": [
@@ -11223,7 +11809,8 @@
       "snp": {
         "weight": 0.8578947368421053,
         "score": 2934,
-        "num_votes": 102,
+        "num_votes": 80,
+        "num_motions": 102,
         "min": 0,
         "max": 3420,
         "counts": [
@@ -11240,7 +11827,8 @@
       "speaker": {
         "weight": 0.45087719298245615,
         "score": 257,
-        "num_votes": 17,
+        "num_votes": 0,
+        "num_motions": 17,
         "min": 0,
         "max": 570,
         "counts": [
@@ -11253,7 +11841,8 @@
       "res": {
         "weight": 0.48695652173913045,
         "score": 112,
-        "num_votes": 7,
+        "num_votes": 1,
+        "num_motions": 7,
         "min": 0,
         "max": 230,
         "counts": [
@@ -11280,7 +11869,8 @@
       "alliance": {
         "weight": 0.8809523809523809,
         "score": 185,
-        "num_votes": 5,
+        "num_votes": 4,
+        "num_motions": 5,
         "min": 0,
         "max": 210,
         "counts": [
@@ -11297,7 +11887,8 @@
       "con": {
         "weight": 0.6552849336455894,
         "score": 41971,
-        "num_votes": 1525,
+        "num_votes": 1151,
+        "num_motions": 1525,
         "min": 0,
         "max": 64050,
         "counts": [
@@ -11322,7 +11913,8 @@
       "dup": {
         "weight": 0.030357142857142857,
         "score": 51,
-        "num_votes": 40,
+        "num_votes": 37,
+        "num_motions": 40,
         "min": 0,
         "max": 1680,
         "counts": [
@@ -11340,6 +11932,7 @@
         "weight": 1.0,
         "score": 210,
         "num_votes": 5,
+        "num_motions": 5,
         "min": 0,
         "max": 210,
         "counts": [
@@ -11353,6 +11946,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 5,
+        "num_motions": 5,
         "min": 0,
         "max": 210,
         "counts": [
@@ -11365,7 +11959,8 @@
       "lab": {
         "weight": 0.8712440014765597,
         "score": 47204,
-        "num_votes": 1290,
+        "num_votes": 1026,
+        "num_motions": 1290,
         "min": 0,
         "max": 54180,
         "counts": [
@@ -11386,7 +11981,8 @@
       "ldem": {
         "weight": 0.8764953664700926,
         "score": 10404,
-        "num_votes": 283,
+        "num_votes": 229,
+        "num_motions": 283,
         "min": 0,
         "max": 11870,
         "counts": [
@@ -11407,7 +12003,8 @@
       "pc": {
         "weight": 0.9603174603174603,
         "score": 605,
-        "num_votes": 15,
+        "num_votes": 14,
+        "num_motions": 15,
         "min": 0,
         "max": 630,
         "counts": [
@@ -11424,7 +12021,8 @@
       "res": {
         "weight": 0.48095238095238096,
         "score": 101,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 210,
         "counts": [
@@ -11437,7 +12035,8 @@
       "sdlp": {
         "weight": 0.6396825396825396,
         "score": 403,
-        "num_votes": 15,
+        "num_votes": 4,
+        "num_motions": 15,
         "min": 0,
         "max": 630,
         "counts": [
@@ -11454,7 +12053,8 @@
       "sf": {
         "weight": 0.4789473684210526,
         "score": 455,
-        "num_votes": 23,
+        "num_votes": 0,
+        "num_motions": 23,
         "min": 0,
         "max": 950,
         "counts": [
@@ -11467,7 +12067,8 @@
       "snp": {
         "weight": 0.5888888888888889,
         "score": 742,
-        "num_votes": 30,
+        "num_votes": 8,
+        "num_motions": 30,
         "min": 0,
         "max": 1260,
         "counts": [
@@ -11484,7 +12085,8 @@
       "speaker": {
         "weight": 0.48095238095238096,
         "score": 101,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 210,
         "counts": [
@@ -11507,7 +12109,8 @@
       "alliance": {
         "weight": 0.15625,
         "score": 50,
-        "num_votes": 8,
+        "num_votes": 6,
+        "num_motions": 8,
         "min": 0,
         "max": 320,
         "counts": [
@@ -11528,7 +12131,8 @@
       "con": {
         "weight": 0.9451899509803922,
         "score": 92553,
-        "num_votes": 2448,
+        "num_votes": 2193,
+        "num_motions": 2448,
         "min": 0,
         "max": 97920,
         "counts": [
@@ -11549,7 +12153,8 @@
       "dup": {
         "weight": 0.519140625,
         "score": 1329,
-        "num_votes": 64,
+        "num_votes": 27,
+        "num_motions": 64,
         "min": 0,
         "max": 2560,
         "counts": [
@@ -11570,7 +12175,8 @@
       "green": {
         "weight": 0.15625,
         "score": 50,
-        "num_votes": 8,
+        "num_votes": 6,
+        "num_motions": 8,
         "min": 0,
         "max": 320,
         "counts": [
@@ -11591,7 +12197,8 @@
       "ind": {
         "weight": 0.396875,
         "score": 127,
-        "num_votes": 8,
+        "num_votes": 1,
+        "num_motions": 8,
         "min": 0,
         "max": 320,
         "counts": [
@@ -11608,7 +12215,8 @@
       "lab": {
         "weight": 0.06846956099927237,
         "score": 5646,
-        "num_votes": 2062,
+        "num_votes": 1769,
+        "num_motions": 2062,
         "min": 0,
         "max": 82460,
         "counts": [
@@ -11633,7 +12241,8 @@
       "ldem": {
         "weight": 0.8818530701754386,
         "score": 16085,
-        "num_votes": 456,
+        "num_votes": 365,
+        "num_motions": 456,
         "min": 0,
         "max": 18240,
         "counts": [
@@ -11654,7 +12263,8 @@
       "pc": {
         "weight": 0.37083333333333335,
         "score": 356,
-        "num_votes": 24,
+        "num_votes": 4,
+        "num_motions": 24,
         "min": 0,
         "max": 960,
         "counts": [
@@ -11671,7 +12281,8 @@
       "sdlp": {
         "weight": 0.3177083333333333,
         "score": 305,
-        "num_votes": 24,
+        "num_votes": 7,
+        "num_motions": 24,
         "min": 0,
         "max": 960,
         "counts": [
@@ -11692,7 +12303,8 @@
       "sf": {
         "weight": 0.47333333333333333,
         "score": 710,
-        "num_votes": 38,
+        "num_votes": 0,
+        "num_motions": 38,
         "min": 0,
         "max": 1500,
         "counts": [
@@ -11705,7 +12317,8 @@
       "snp": {
         "weight": 0.475,
         "score": 912,
-        "num_votes": 48,
+        "num_votes": 0,
+        "num_motions": 48,
         "min": 0,
         "max": 1920,
         "counts": [
@@ -11718,7 +12331,8 @@
       "speaker": {
         "weight": 0.475,
         "score": 152,
-        "num_votes": 8,
+        "num_votes": 0,
+        "num_motions": 8,
         "min": 0,
         "max": 320,
         "counts": [
@@ -11741,7 +12355,8 @@
       "con": {
         "weight": 0.8381443298969072,
         "score": 47154,
-        "num_votes": 1874,
+        "num_votes": 1661,
+        "num_motions": 1874,
         "min": 0,
         "max": 56260,
         "counts": [
@@ -11766,7 +12381,8 @@
       "deputy speaker": {
         "weight": 0.43333333333333335,
         "score": 156,
-        "num_votes": 12,
+        "num_votes": 0,
+        "num_motions": 12,
         "min": 0,
         "max": 360,
         "counts": [
@@ -11779,7 +12395,8 @@
       "dup": {
         "weight": 0.683974358974359,
         "score": 1067,
-        "num_votes": 52,
+        "num_votes": 27,
+        "num_motions": 52,
         "min": 0,
         "max": 1560,
         "counts": [
@@ -11800,7 +12417,8 @@
       "ind": {
         "weight": 0.4722222222222222,
         "score": 170,
-        "num_votes": 12,
+        "num_votes": 10,
+        "num_motions": 12,
         "min": 0,
         "max": 360,
         "counts": [
@@ -11821,7 +12439,8 @@
       "lab": {
         "weight": 0.6361277445109781,
         "score": 50992,
-        "num_votes": 2672,
+        "num_votes": 2152,
+        "num_motions": 2672,
         "min": 0,
         "max": 80160,
         "counts": [
@@ -11846,7 +12465,8 @@
       "ldem": {
         "weight": 0.43507575757575756,
         "score": 5743,
-        "num_votes": 440,
+        "num_votes": 380,
+        "num_motions": 440,
         "min": 0,
         "max": 13200,
         "counts": [
@@ -11871,7 +12491,8 @@
       "pc": {
         "weight": 0.32142857142857145,
         "score": 270,
-        "num_votes": 28,
+        "num_votes": 26,
+        "num_motions": 28,
         "min": 0,
         "max": 840,
         "counts": [
@@ -11892,7 +12513,8 @@
       "sdlp": {
         "weight": 0.28194444444444444,
         "score": 203,
-        "num_votes": 24,
+        "num_votes": 13,
+        "num_motions": 24,
         "min": 0,
         "max": 720,
         "counts": [
@@ -11913,7 +12535,8 @@
       "sf": {
         "weight": 0.4300970873786408,
         "score": 443,
-        "num_votes": 35,
+        "num_votes": 0,
+        "num_motions": 35,
         "min": 0,
         "max": 1030,
         "counts": [
@@ -11926,7 +12549,8 @@
       "snp": {
         "weight": 0.42424242424242425,
         "score": 560,
-        "num_votes": 44,
+        "num_votes": 38,
+        "num_motions": 44,
         "min": 0,
         "max": 1320,
         "counts": [
@@ -11947,7 +12571,8 @@
       "speaker": {
         "weight": 0.43333333333333335,
         "score": 104,
-        "num_votes": 8,
+        "num_votes": 0,
+        "num_motions": 8,
         "min": 0,
         "max": 240,
         "counts": [
@@ -11960,7 +12585,8 @@
       "uup": {
         "weight": 0.9222222222222223,
         "score": 664,
-        "num_votes": 24,
+        "num_votes": 20,
+        "num_motions": 24,
         "min": 0,
         "max": 720,
         "counts": [
@@ -11981,7 +12607,8 @@
       "alliance": {
         "weight": 0.4166666666666667,
         "score": 50,
-        "num_votes": 4,
+        "num_votes": 2,
+        "num_motions": 4,
         "min": 0,
         "max": 120,
         "counts": [
@@ -11998,7 +12625,8 @@
       "green": {
         "weight": 0.008333333333333333,
         "score": 1,
-        "num_votes": 4,
+        "num_votes": 3,
+        "num_motions": 4,
         "min": 0,
         "max": 120,
         "counts": [
@@ -12015,7 +12643,8 @@
       "res": {
         "weight": 0.05,
         "score": 1,
-        "num_votes": 2,
+        "num_votes": 1,
+        "num_motions": 2,
         "min": 0,
         "max": 20,
         "counts": [
@@ -12043,6 +12672,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 4,
+        "num_motions": 4,
         "min": 0,
         "max": 160,
         "counts": [
@@ -12059,7 +12689,8 @@
       "con": {
         "weight": 0.9194262295081967,
         "score": 44868,
-        "num_votes": 1220,
+        "num_votes": 1033,
+        "num_motions": 1220,
         "min": 0,
         "max": 48800,
         "counts": [
@@ -12084,7 +12715,8 @@
       "dup": {
         "weight": 0.23828125,
         "score": 305,
-        "num_votes": 32,
+        "num_votes": 15,
+        "num_motions": 32,
         "min": 0,
         "max": 1280,
         "counts": [
@@ -12106,6 +12738,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 4,
+        "num_motions": 4,
         "min": 0,
         "max": 160,
         "counts": [
@@ -12122,7 +12755,8 @@
       "ind": {
         "weight": 0.15625,
         "score": 25,
-        "num_votes": 4,
+        "num_votes": 3,
+        "num_motions": 4,
         "min": 0,
         "max": 160,
         "counts": [
@@ -12143,7 +12777,8 @@
       "lab": {
         "weight": 0.0683240358961921,
         "score": 2817,
-        "num_votes": 1031,
+        "num_votes": 878,
+        "num_motions": 1031,
         "min": 0,
         "max": 41230,
         "counts": [
@@ -12164,7 +12799,8 @@
       "ldem": {
         "weight": 0.8730263157894737,
         "score": 7962,
-        "num_votes": 228,
+        "num_votes": 174,
+        "num_motions": 228,
         "min": 0,
         "max": 9120,
         "counts": [
@@ -12185,7 +12821,8 @@
       "pc": {
         "weight": 0.10416666666666667,
         "score": 50,
-        "num_votes": 12,
+        "num_votes": 10,
+        "num_motions": 12,
         "min": 0,
         "max": 480,
         "counts": [
@@ -12206,7 +12843,8 @@
       "res": {
         "weight": 0.1625,
         "score": 26,
-        "num_votes": 4,
+        "num_votes": 2,
+        "num_motions": 4,
         "min": 0,
         "max": 160,
         "counts": [
@@ -12223,7 +12861,8 @@
       "sdlp": {
         "weight": 0.10625,
         "score": 51,
-        "num_votes": 12,
+        "num_votes": 9,
+        "num_motions": 12,
         "min": 0,
         "max": 480,
         "counts": [
@@ -12244,7 +12883,8 @@
       "sf": {
         "weight": 0.475,
         "score": 380,
-        "num_votes": 20,
+        "num_votes": 0,
+        "num_motions": 20,
         "min": 0,
         "max": 800,
         "counts": [
@@ -12257,7 +12897,8 @@
       "snp": {
         "weight": 0.052083333333333336,
         "score": 50,
-        "num_votes": 24,
+        "num_votes": 22,
+        "num_motions": 24,
         "min": 0,
         "max": 960,
         "counts": [
@@ -12278,7 +12919,8 @@
       "speaker": {
         "weight": 0.475,
         "score": 76,
-        "num_votes": 4,
+        "num_votes": 0,
+        "num_motions": 4,
         "min": 0,
         "max": 160,
         "counts": [
@@ -12301,7 +12943,8 @@
       "alliance": {
         "weight": 0.6571428571428571,
         "score": 276,
-        "num_votes": 10,
+        "num_votes": 4,
+        "num_motions": 10,
         "min": 0,
         "max": 420,
         "counts": [
@@ -12318,7 +12961,8 @@
       "con": {
         "weight": 0.33487755420371235,
         "score": 42938,
-        "num_votes": 3054,
+        "num_votes": 2623,
+        "num_motions": 3054,
         "min": 0,
         "max": 128220,
         "counts": [
@@ -12343,7 +12987,8 @@
       "dup": {
         "weight": 0.5589285714285714,
         "score": 1878,
-        "num_votes": 80,
+        "num_votes": 48,
+        "num_motions": 80,
         "min": 0,
         "max": 3360,
         "counts": [
@@ -12364,7 +13009,8 @@
       "green": {
         "weight": 0.7761904761904762,
         "score": 326,
-        "num_votes": 10,
+        "num_votes": 8,
+        "num_motions": 10,
         "min": 0,
         "max": 420,
         "counts": [
@@ -12385,7 +13031,8 @@
       "ind": {
         "weight": 0.5976190476190476,
         "score": 251,
-        "num_votes": 10,
+        "num_votes": 5,
+        "num_motions": 10,
         "min": 0,
         "max": 420,
         "counts": [
@@ -12406,7 +13053,8 @@
       "lab": {
         "weight": 0.6786334256694367,
         "score": 73496,
-        "num_votes": 2578,
+        "num_votes": 2258,
+        "num_motions": 2578,
         "min": 0,
         "max": 108300,
         "counts": [
@@ -12427,7 +13075,8 @@
       "ldem": {
         "weight": 0.36027568922305764,
         "score": 8625,
-        "num_votes": 570,
+        "num_votes": 463,
+        "num_motions": 570,
         "min": 0,
         "max": 23940,
         "counts": [
@@ -12448,7 +13097,8 @@
       "pc": {
         "weight": 0.6579365079365079,
         "score": 829,
-        "num_votes": 30,
+        "num_votes": 23,
+        "num_motions": 30,
         "min": 0,
         "max": 1260,
         "counts": [
@@ -12469,7 +13119,8 @@
       "sdlp": {
         "weight": 0.6174603174603175,
         "score": 778,
-        "num_votes": 30,
+        "num_votes": 22,
+        "num_motions": 30,
         "min": 0,
         "max": 1260,
         "counts": [
@@ -12490,7 +13141,8 @@
       "sf": {
         "weight": 0.48,
         "score": 960,
-        "num_votes": 48,
+        "num_votes": 0,
+        "num_motions": 48,
         "min": 0,
         "max": 2000,
         "counts": [
@@ -12503,7 +13155,8 @@
       "snp": {
         "weight": 0.667063492063492,
         "score": 1681,
-        "num_votes": 60,
+        "num_votes": 49,
+        "num_motions": 60,
         "min": 0,
         "max": 2520,
         "counts": [
@@ -12524,7 +13177,8 @@
       "speaker": {
         "weight": 0.48095238095238096,
         "score": 202,
-        "num_votes": 10,
+        "num_votes": 0,
+        "num_motions": 10,
         "min": 0,
         "max": 420,
         "counts": [
@@ -12537,7 +13191,8 @@
       "res": {
         "weight": 0.6666666666666666,
         "score": 200,
-        "num_votes": 6,
+        "num_votes": 2,
+        "num_motions": 6,
         "min": 0,
         "max": 300,
         "counts": [
@@ -12564,7 +13219,8 @@
       "alliance": {
         "weight": 0.8809523809523809,
         "score": 185,
-        "num_votes": 5,
+        "num_votes": 4,
+        "num_motions": 5,
         "min": 0,
         "max": 210,
         "counts": [
@@ -12581,7 +13237,8 @@
       "con": {
         "weight": 0.06277474668745128,
         "score": 4027,
-        "num_votes": 1527,
+        "num_votes": 1316,
+        "num_motions": 1527,
         "min": 0,
         "max": 64150,
         "counts": [
@@ -12598,7 +13255,8 @@
       "dup": {
         "weight": 0.7101190476190476,
         "score": 1193,
-        "num_votes": 40,
+        "num_votes": 19,
+        "num_motions": 40,
         "min": 0,
         "max": 1680,
         "counts": [
@@ -12620,6 +13278,7 @@
         "weight": 1.0,
         "score": 210,
         "num_votes": 5,
+        "num_motions": 5,
         "min": 0,
         "max": 210,
         "counts": [
@@ -12632,7 +13291,8 @@
       "ind": {
         "weight": 0.48095238095238096,
         "score": 101,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 210,
         "counts": [
@@ -12645,7 +13305,8 @@
       "lab": {
         "weight": 0.9425850591715976,
         "score": 50975,
-        "num_votes": 1288,
+        "num_votes": 1135,
+        "num_motions": 1288,
         "min": 0,
         "max": 54080,
         "counts": [
@@ -12662,7 +13323,8 @@
       "ldem": {
         "weight": 0.08521303258145363,
         "score": 1020,
-        "num_votes": 285,
+        "num_votes": 225,
+        "num_motions": 285,
         "min": 0,
         "max": 11970,
         "counts": [
@@ -12679,7 +13341,8 @@
       "pc": {
         "weight": 0.8920634920634921,
         "score": 562,
-        "num_votes": 15,
+        "num_votes": 11,
+        "num_motions": 15,
         "min": 0,
         "max": 630,
         "counts": [
@@ -12696,7 +13359,8 @@
       "sdlp": {
         "weight": 0.8269841269841269,
         "score": 521,
-        "num_votes": 15,
+        "num_votes": 10,
+        "num_motions": 15,
         "min": 0,
         "max": 630,
         "counts": [
@@ -12713,7 +13377,8 @@
       "sf": {
         "weight": 0.48,
         "score": 480,
-        "num_votes": 24,
+        "num_votes": 0,
+        "num_motions": 24,
         "min": 0,
         "max": 1000,
         "counts": [
@@ -12726,7 +13391,8 @@
       "snp": {
         "weight": 0.8341269841269842,
         "score": 1051,
-        "num_votes": 30,
+        "num_votes": 21,
+        "num_motions": 30,
         "min": 0,
         "max": 1260,
         "counts": [
@@ -12743,7 +13409,8 @@
       "speaker": {
         "weight": 0.48095238095238096,
         "score": 101,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 210,
         "counts": [
@@ -12756,7 +13423,8 @@
       "res": {
         "weight": 0.475,
         "score": 76,
-        "num_votes": 4,
+        "num_votes": 0,
+        "num_motions": 4,
         "min": 0,
         "max": 160,
         "counts": [
@@ -12779,7 +13447,8 @@
       "alliance": {
         "weight": 0.47435897435897434,
         "score": 185,
-        "num_votes": 15,
+        "num_votes": 6,
+        "num_motions": 15,
         "min": 0,
         "max": 390,
         "counts": [
@@ -12800,7 +13469,8 @@
       "con": {
         "weight": 0.3984651513880735,
         "score": 47509,
-        "num_votes": 4587,
+        "num_votes": 3916,
+        "num_motions": 4587,
         "min": 0,
         "max": 119230,
         "counts": [
@@ -12821,7 +13491,8 @@
       "dup": {
         "weight": 0.44294871794871793,
         "score": 1382,
-        "num_votes": 120,
+        "num_votes": 66,
+        "num_motions": 120,
         "min": 0,
         "max": 3120,
         "counts": [
@@ -12842,7 +13513,8 @@
       "green": {
         "weight": 0.2948717948717949,
         "score": 115,
-        "num_votes": 15,
+        "num_votes": 14,
+        "num_motions": 15,
         "min": 0,
         "max": 390,
         "counts": [
@@ -12863,7 +13535,8 @@
       "ind": {
         "weight": 0.4076923076923077,
         "score": 159,
-        "num_votes": 15,
+        "num_votes": 4,
+        "num_motions": 15,
         "min": 0,
         "max": 390,
         "counts": [
@@ -12884,7 +13557,8 @@
       "lab": {
         "weight": 0.4882059469167831,
         "score": 48928,
-        "num_votes": 3858,
+        "num_votes": 2650,
+        "num_motions": 3858,
         "min": 0,
         "max": 100220,
         "counts": [
@@ -12905,7 +13579,8 @@
       "ldem": {
         "weight": 0.3887539361223572,
         "score": 8642,
-        "num_votes": 855,
+        "num_votes": 691,
+        "num_motions": 855,
         "min": 0,
         "max": 22230,
         "counts": [
@@ -12930,7 +13605,8 @@
       "pc": {
         "weight": 0.6196581196581197,
         "score": 725,
-        "num_votes": 45,
+        "num_votes": 38,
+        "num_motions": 45,
         "min": 0,
         "max": 1170,
         "counts": [
@@ -12951,7 +13627,8 @@
       "sdlp": {
         "weight": 0.41452991452991456,
         "score": 485,
-        "num_votes": 45,
+        "num_votes": 26,
+        "num_motions": 45,
         "min": 0,
         "max": 1170,
         "counts": [
@@ -12972,7 +13649,8 @@
       "sf": {
         "weight": 0.4,
         "score": 720,
-        "num_votes": 72,
+        "num_votes": 0,
+        "num_motions": 72,
         "min": 0,
         "max": 1800,
         "counts": [
@@ -12985,7 +13663,8 @@
       "snp": {
         "weight": 0.582905982905983,
         "score": 1364,
-        "num_votes": 90,
+        "num_votes": 74,
+        "num_motions": 90,
         "min": 0,
         "max": 2340,
         "counts": [
@@ -13006,7 +13685,8 @@
       "speaker": {
         "weight": 0.4076923076923077,
         "score": 159,
-        "num_votes": 15,
+        "num_votes": 0,
+        "num_motions": 15,
         "min": 0,
         "max": 390,
         "counts": [
@@ -13019,7 +13699,8 @@
       "res": {
         "weight": 0.29444444444444445,
         "score": 53,
-        "num_votes": 6,
+        "num_votes": 1,
+        "num_motions": 6,
         "min": 0,
         "max": 180,
         "counts": [
@@ -13046,7 +13727,8 @@
       "con": {
         "weight": 0.7891356370249832,
         "score": 82441,
-        "num_votes": 4779,
+        "num_votes": 4121,
+        "num_motions": 4779,
         "min": 0,
         "max": 104470,
         "counts": [
@@ -13071,7 +13753,8 @@
       "deputy speaker": {
         "weight": 0.5,
         "score": 75,
-        "num_votes": 3,
+        "num_votes": 0,
+        "num_motions": 3,
         "min": 0,
         "max": 150,
         "counts": [
@@ -13084,7 +13767,8 @@
       "dup": {
         "weight": 0.3138888888888889,
         "score": 904,
-        "num_votes": 128,
+        "num_votes": 84,
+        "num_motions": 128,
         "min": 0,
         "max": 2880,
         "counts": [
@@ -13105,7 +13789,8 @@
       "ind": {
         "weight": 0.2318181818181818,
         "score": 153,
-        "num_votes": 22,
+        "num_votes": 9,
+        "num_motions": 22,
         "min": 0,
         "max": 660,
         "counts": [
@@ -13122,7 +13807,8 @@
       "lab": {
         "weight": 0.3142945290004113,
         "score": 30562,
-        "num_votes": 4212,
+        "num_votes": 2928,
+        "num_motions": 4212,
         "min": 0,
         "max": 97240,
         "counts": [
@@ -13143,7 +13829,8 @@
       "ldem": {
         "weight": 0.7269932756964457,
         "score": 15136,
-        "num_votes": 918,
+        "num_votes": 726,
+        "num_motions": 918,
         "min": 0,
         "max": 20820,
         "counts": [
@@ -13168,7 +13855,8 @@
       "pc": {
         "weight": 0.17777777777777778,
         "score": 192,
-        "num_votes": 48,
+        "num_votes": 36,
+        "num_motions": 48,
         "min": 0,
         "max": 1080,
         "counts": [
@@ -13189,7 +13877,8 @@
       "res": {
         "weight": 0.4266666666666667,
         "score": 64,
-        "num_votes": 7,
+        "num_votes": 1,
+        "num_motions": 7,
         "min": 0,
         "max": 150,
         "counts": [
@@ -13206,7 +13895,8 @@
       "sdlp": {
         "weight": 0.2777777777777778,
         "score": 300,
-        "num_votes": 48,
+        "num_votes": 30,
+        "num_motions": 48,
         "min": 0,
         "max": 1080,
         "counts": [
@@ -13227,7 +13917,8 @@
       "sf": {
         "weight": 0.37058823529411766,
         "score": 630,
-        "num_votes": 78,
+        "num_votes": 0,
+        "num_motions": 78,
         "min": 0,
         "max": 1700,
         "counts": [
@@ -13240,7 +13931,8 @@
       "snp": {
         "weight": 0.06380090497737556,
         "score": 141,
-        "num_votes": 97,
+        "num_votes": 80,
+        "num_motions": 97,
         "min": 0,
         "max": 2210,
         "counts": [
@@ -13261,7 +13953,8 @@
       "speaker": {
         "weight": 0.37777777777777777,
         "score": 136,
-        "num_votes": 16,
+        "num_votes": 0,
+        "num_motions": 16,
         "min": 0,
         "max": 360,
         "counts": [
@@ -13274,7 +13967,8 @@
       "uup": {
         "weight": 0.5,
         "score": 25,
-        "num_votes": 1,
+        "num_votes": 0,
+        "num_motions": 1,
         "min": 0,
         "max": 50,
         "counts": [
@@ -13287,7 +13981,8 @@
       "alliance": {
         "weight": 0.3548387096774194,
         "score": 110,
-        "num_votes": 15,
+        "num_votes": 7,
+        "num_motions": 15,
         "min": 0,
         "max": 310,
         "counts": [
@@ -13305,6 +14000,7 @@
         "weight": 0.22580645161290322,
         "score": 70,
         "num_votes": 15,
+        "num_motions": 15,
         "min": 0,
         "max": 310,
         "counts": [
@@ -13331,7 +14027,8 @@
       "alliance": {
         "weight": 0.38846153846153847,
         "score": 101,
-        "num_votes": 6,
+        "num_votes": 1,
+        "num_motions": 6,
         "min": 0,
         "max": 260,
         "counts": [
@@ -13348,7 +14045,8 @@
       "con": {
         "weight": 0.9227249874308698,
         "score": 73412,
-        "num_votes": 1836,
+        "num_votes": 1560,
+        "num_motions": 1836,
         "min": 0,
         "max": 79560,
         "counts": [
@@ -13369,7 +14067,8 @@
       "dup": {
         "weight": 0.48125,
         "score": 1001,
-        "num_votes": 48,
+        "num_votes": 11,
+        "num_motions": 48,
         "min": 0,
         "max": 2080,
         "counts": [
@@ -13390,7 +14089,8 @@
       "green": {
         "weight": 0.19230769230769232,
         "score": 50,
-        "num_votes": 6,
+        "num_votes": 4,
+        "num_motions": 6,
         "min": 0,
         "max": 260,
         "counts": [
@@ -13411,7 +14111,8 @@
       "ind": {
         "weight": 0.4807692307692308,
         "score": 125,
-        "num_votes": 6,
+        "num_votes": 1,
+        "num_motions": 6,
         "min": 0,
         "max": 260,
         "counts": [
@@ -13428,7 +14129,8 @@
       "lab": {
         "weight": 0.085993728535165,
         "score": 5759,
-        "num_votes": 1545,
+        "num_votes": 1258,
+        "num_motions": 1545,
         "min": 0,
         "max": 66970,
         "counts": [
@@ -13449,7 +14151,8 @@
       "ldem": {
         "weight": 0.8948717948717949,
         "score": 13262,
-        "num_votes": 342,
+        "num_votes": 274,
+        "num_motions": 342,
         "min": 0,
         "max": 14820,
         "counts": [
@@ -13470,7 +14173,8 @@
       "pc": {
         "weight": 0.25769230769230766,
         "score": 201,
-        "num_votes": 18,
+        "num_votes": 13,
+        "num_motions": 18,
         "min": 0,
         "max": 780,
         "counts": [
@@ -13491,7 +14195,8 @@
       "sdlp": {
         "weight": 0.4205128205128205,
         "score": 328,
-        "num_votes": 18,
+        "num_votes": 2,
+        "num_motions": 18,
         "min": 0,
         "max": 780,
         "counts": [
@@ -13512,7 +14217,8 @@
       "sf": {
         "weight": 0.484,
         "score": 605,
-        "num_votes": 29,
+        "num_votes": 0,
+        "num_motions": 29,
         "min": 0,
         "max": 1250,
         "counts": [
@@ -13525,7 +14231,8 @@
       "snp": {
         "weight": 0.4846153846153846,
         "score": 756,
-        "num_votes": 36,
+        "num_votes": 0,
+        "num_motions": 36,
         "min": 0,
         "max": 1560,
         "counts": [
@@ -13538,7 +14245,8 @@
       "speaker": {
         "weight": 0.4846153846153846,
         "score": 126,
-        "num_votes": 6,
+        "num_votes": 0,
+        "num_motions": 6,
         "min": 0,
         "max": 260,
         "counts": [
@@ -13551,7 +14259,8 @@
       "res": {
         "weight": 0.1,
         "score": 1,
-        "num_votes": 1,
+        "num_votes": 0,
+        "num_motions": 1,
         "min": 0,
         "max": 10,
         "counts": [
@@ -13574,7 +14283,8 @@
       "alliance": {
         "weight": 0.43333333333333335,
         "score": 26,
-        "num_votes": 2,
+        "num_votes": 0,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -13587,7 +14297,8 @@
       "con": {
         "weight": 0.9230392156862746,
         "score": 16947,
-        "num_votes": 612,
+        "num_votes": 535,
+        "num_motions": 612,
         "min": 0,
         "max": 18360,
         "counts": [
@@ -13608,7 +14319,8 @@
       "dup": {
         "weight": 0.21666666666666667,
         "score": 104,
-        "num_votes": 16,
+        "num_votes": 8,
+        "num_motions": 16,
         "min": 0,
         "max": 480,
         "counts": [
@@ -13630,6 +14342,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -13646,7 +14359,8 @@
       "ind": {
         "weight": 0.43333333333333335,
         "score": 26,
-        "num_votes": 2,
+        "num_votes": 0,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -13659,7 +14373,8 @@
       "lab": {
         "weight": 0.03378552971576227,
         "score": 523,
-        "num_votes": 516,
+        "num_votes": 473,
+        "num_motions": 516,
         "min": 0,
         "max": 15480,
         "counts": [
@@ -13680,7 +14395,8 @@
       "ldem": {
         "weight": 0.7932748538011696,
         "score": 2713,
-        "num_votes": 114,
+        "num_votes": 87,
+        "num_motions": 114,
         "min": 0,
         "max": 3420,
         "counts": [
@@ -13706,6 +14422,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 6,
+        "num_motions": 6,
         "min": 0,
         "max": 180,
         "counts": [
@@ -13722,7 +14439,8 @@
       "sdlp": {
         "weight": 0.28888888888888886,
         "score": 52,
-        "num_votes": 6,
+        "num_votes": 2,
+        "num_motions": 6,
         "min": 0,
         "max": 180,
         "counts": [
@@ -13743,7 +14461,8 @@
       "sf": {
         "weight": 0.43333333333333335,
         "score": 104,
-        "num_votes": 8,
+        "num_votes": 0,
+        "num_motions": 8,
         "min": 0,
         "max": 240,
         "counts": [
@@ -13756,7 +14475,8 @@
       "snp": {
         "weight": 0.14444444444444443,
         "score": 52,
-        "num_votes": 12,
+        "num_votes": 8,
+        "num_motions": 12,
         "min": 0,
         "max": 360,
         "counts": [
@@ -13777,7 +14497,8 @@
       "speaker": {
         "weight": 0.43333333333333335,
         "score": 26,
-        "num_votes": 2,
+        "num_votes": 0,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -13800,7 +14521,8 @@
       "alliance": {
         "weight": 0.75,
         "score": 300,
-        "num_votes": 8,
+        "num_votes": 4,
+        "num_motions": 8,
         "min": 0,
         "max": 400,
         "counts": [
@@ -13817,7 +14539,8 @@
       "con": {
         "weight": 0.0705521472392638,
         "score": 8625,
-        "num_votes": 2445,
+        "num_votes": 2100,
+        "num_motions": 2445,
         "min": 0,
         "max": 122250,
         "counts": [
@@ -13834,7 +14557,8 @@
       "dup": {
         "weight": 0.59375,
         "score": 1900,
-        "num_votes": 64,
+        "num_votes": 24,
+        "num_motions": 64,
         "min": 0,
         "max": 3200,
         "counts": [
@@ -13855,7 +14579,8 @@
       "green": {
         "weight": 0.75,
         "score": 300,
-        "num_votes": 8,
+        "num_votes": 4,
+        "num_motions": 8,
         "min": 0,
         "max": 400,
         "counts": [
@@ -13872,7 +14597,8 @@
       "ind": {
         "weight": 0.5,
         "score": 200,
-        "num_votes": 8,
+        "num_votes": 0,
+        "num_motions": 8,
         "min": 0,
         "max": 400,
         "counts": [
@@ -13885,7 +14611,8 @@
       "lab": {
         "weight": 0.9303736050460941,
         "score": 95875,
-        "num_votes": 2061,
+        "num_votes": 1774,
+        "num_motions": 2061,
         "min": 0,
         "max": 103050,
         "counts": [
@@ -13902,7 +14629,8 @@
       "ldem": {
         "weight": 0.10526315789473684,
         "score": 2400,
-        "num_votes": 456,
+        "num_votes": 360,
+        "num_motions": 456,
         "min": 0,
         "max": 22800,
         "counts": [
@@ -13919,7 +14647,8 @@
       "pc": {
         "weight": 0.9166666666666666,
         "score": 1100,
-        "num_votes": 24,
+        "num_votes": 20,
+        "num_motions": 24,
         "min": 0,
         "max": 1200,
         "counts": [
@@ -13936,7 +14665,8 @@
       "sdlp": {
         "weight": 0.6458333333333334,
         "score": 775,
-        "num_votes": 24,
+        "num_votes": 7,
+        "num_motions": 24,
         "min": 0,
         "max": 1200,
         "counts": [
@@ -13953,7 +14683,8 @@
       "sf": {
         "weight": 0.5,
         "score": 1000,
-        "num_votes": 40,
+        "num_votes": 0,
+        "num_motions": 40,
         "min": 0,
         "max": 2000,
         "counts": [
@@ -13966,7 +14697,8 @@
       "snp": {
         "weight": 0.90625,
         "score": 2175,
-        "num_votes": 48,
+        "num_votes": 39,
+        "num_motions": 48,
         "min": 0,
         "max": 2400,
         "counts": [
@@ -13983,7 +14715,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 200,
-        "num_votes": 8,
+        "num_votes": 0,
+        "num_motions": 8,
         "min": 0,
         "max": 400,
         "counts": [
@@ -13996,7 +14729,8 @@
       "res": {
         "weight": 0.6,
         "score": 150,
-        "num_votes": 5,
+        "num_votes": 1,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -14023,7 +14757,8 @@
       "alliance": {
         "weight": 0.375,
         "score": 60,
-        "num_votes": 4,
+        "num_votes": 2,
+        "num_motions": 4,
         "min": 0,
         "max": 160,
         "counts": [
@@ -14044,7 +14779,8 @@
       "con": {
         "weight": 0.6002254098360655,
         "score": 29291,
-        "num_votes": 1220,
+        "num_votes": 674,
+        "num_motions": 1220,
         "min": 0,
         "max": 48800,
         "counts": [
@@ -14069,7 +14805,8 @@
       "dup": {
         "weight": 0.39609375,
         "score": 507,
-        "num_votes": 32,
+        "num_votes": 11,
+        "num_motions": 32,
         "min": 0,
         "max": 1280,
         "counts": [
@@ -14091,6 +14828,7 @@
         "weight": 0.375,
         "score": 60,
         "num_votes": 4,
+        "num_motions": 4,
         "min": 0,
         "max": 160,
         "counts": [
@@ -14107,7 +14845,8 @@
       "ind": {
         "weight": 0.1625,
         "score": 26,
-        "num_votes": 4,
+        "num_votes": 2,
+        "num_motions": 4,
         "min": 0,
         "max": 160,
         "counts": [
@@ -14124,7 +14863,8 @@
       "lab": {
         "weight": 0.39346770276833415,
         "score": 16203,
-        "num_votes": 1030,
+        "num_votes": 785,
+        "num_motions": 1030,
         "min": 0,
         "max": 41180,
         "counts": [
@@ -14145,7 +14885,8 @@
       "ldem": {
         "weight": 0.6358552631578948,
         "score": 5799,
-        "num_votes": 228,
+        "num_votes": 153,
+        "num_motions": 228,
         "min": 0,
         "max": 9120,
         "counts": [
@@ -14166,7 +14907,8 @@
       "pc": {
         "weight": 0.4083333333333333,
         "score": 196,
-        "num_votes": 12,
+        "num_votes": 10,
+        "num_motions": 12,
         "min": 0,
         "max": 480,
         "counts": [
@@ -14187,7 +14929,8 @@
       "res": {
         "weight": 0.475,
         "score": 76,
-        "num_votes": 4,
+        "num_votes": 0,
+        "num_motions": 4,
         "min": 0,
         "max": 160,
         "counts": [
@@ -14200,7 +14943,8 @@
       "sdlp": {
         "weight": 0.37083333333333335,
         "score": 178,
-        "num_votes": 12,
+        "num_votes": 4,
+        "num_motions": 12,
         "min": 0,
         "max": 480,
         "counts": [
@@ -14217,7 +14961,8 @@
       "sf": {
         "weight": 0.475,
         "score": 380,
-        "num_votes": 20,
+        "num_votes": 0,
+        "num_motions": 20,
         "min": 0,
         "max": 800,
         "counts": [
@@ -14230,7 +14975,8 @@
       "snp": {
         "weight": 0.31875,
         "score": 306,
-        "num_votes": 24,
+        "num_votes": 16,
+        "num_motions": 24,
         "min": 0,
         "max": 960,
         "counts": [
@@ -14247,7 +14993,8 @@
       "speaker": {
         "weight": 0.475,
         "score": 76,
-        "num_votes": 4,
+        "num_votes": 0,
+        "num_motions": 4,
         "min": 0,
         "max": 160,
         "counts": [
@@ -14270,7 +15017,8 @@
       "alliance": {
         "weight": 0.5,
         "score": 125,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -14283,7 +15031,8 @@
       "con": {
         "weight": 0.3929273084479371,
         "score": 30000,
-        "num_votes": 1527,
+        "num_votes": 1239,
+        "num_motions": 1527,
         "min": 0,
         "max": 76350,
         "counts": [
@@ -14304,7 +15053,8 @@
       "dup": {
         "weight": 0.7,
         "score": 1400,
-        "num_votes": 40,
+        "num_votes": 20,
+        "num_motions": 40,
         "min": 0,
         "max": 2000,
         "counts": [
@@ -14325,7 +15075,8 @@
       "green": {
         "weight": 0.7,
         "score": 175,
-        "num_votes": 5,
+        "num_votes": 4,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -14346,7 +15097,8 @@
       "ind": {
         "weight": 0.7,
         "score": 175,
-        "num_votes": 5,
+        "num_votes": 2,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -14363,7 +15115,8 @@
       "lab": {
         "weight": 0.7224378881987578,
         "score": 46525,
-        "num_votes": 1288,
+        "num_votes": 987,
+        "num_motions": 1288,
         "min": 0,
         "max": 64400,
         "counts": [
@@ -14384,7 +15137,8 @@
       "ldem": {
         "weight": 0.42280701754385963,
         "score": 6025,
-        "num_votes": 285,
+        "num_votes": 216,
+        "num_motions": 285,
         "min": 0,
         "max": 14250,
         "counts": [
@@ -14405,7 +15159,8 @@
       "pc": {
         "weight": 0.7666666666666667,
         "score": 575,
-        "num_votes": 15,
+        "num_votes": 10,
+        "num_motions": 15,
         "min": 0,
         "max": 750,
         "counts": [
@@ -14426,7 +15181,8 @@
       "sdlp": {
         "weight": 0.5666666666666667,
         "score": 425,
-        "num_votes": 15,
+        "num_votes": 2,
+        "num_motions": 15,
         "min": 0,
         "max": 750,
         "counts": [
@@ -14443,7 +15199,8 @@
       "sf": {
         "weight": 0.5,
         "score": 625,
-        "num_votes": 25,
+        "num_votes": 0,
+        "num_motions": 25,
         "min": 0,
         "max": 1250,
         "counts": [
@@ -14456,7 +15213,8 @@
       "snp": {
         "weight": 0.8333333333333334,
         "score": 1250,
-        "num_votes": 30,
+        "num_votes": 20,
+        "num_motions": 30,
         "min": 0,
         "max": 1500,
         "counts": [
@@ -14477,7 +15235,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 125,
-        "num_votes": 5,
+        "num_votes": 0,
+        "num_motions": 5,
         "min": 0,
         "max": 250,
         "counts": [
@@ -14490,7 +15249,8 @@
       "res": {
         "weight": 0.3333333333333333,
         "score": 50,
-        "num_votes": 3,
+        "num_votes": 1,
+        "num_motions": 3,
         "min": 0,
         "max": 150,
         "counts": [
@@ -14518,6 +15278,7 @@
         "weight": 1.0,
         "score": 100,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -14530,7 +15291,8 @@
       "con": {
         "weight": 0.06885245901639345,
         "score": 2100,
-        "num_votes": 610,
+        "num_votes": 526,
+        "num_motions": 610,
         "min": 0,
         "max": 30500,
         "counts": [
@@ -14547,7 +15309,8 @@
       "dup": {
         "weight": 0.59375,
         "score": 475,
-        "num_votes": 16,
+        "num_votes": 5,
+        "num_motions": 16,
         "min": 0,
         "max": 800,
         "counts": [
@@ -14569,6 +15332,7 @@
         "weight": 1.0,
         "score": 100,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -14582,6 +15346,7 @@
         "weight": 1.0,
         "score": 100,
         "num_votes": 2,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -14594,7 +15359,8 @@
       "lab": {
         "weight": 0.9563106796116505,
         "score": 24625,
-        "num_votes": 515,
+        "num_votes": 470,
+        "num_motions": 515,
         "min": 0,
         "max": 25750,
         "counts": [
@@ -14611,7 +15377,8 @@
       "ldem": {
         "weight": 0.08771929824561403,
         "score": 500,
-        "num_votes": 114,
+        "num_votes": 94,
+        "num_motions": 114,
         "min": 0,
         "max": 5700,
         "counts": [
@@ -14628,7 +15395,8 @@
       "pc": {
         "weight": 0.6666666666666666,
         "score": 200,
-        "num_votes": 6,
+        "num_votes": 4,
+        "num_motions": 6,
         "min": 0,
         "max": 300,
         "counts": [
@@ -14649,7 +15417,8 @@
       "res": {
         "weight": 0.5,
         "score": 50,
-        "num_votes": 2,
+        "num_votes": 0,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -14662,7 +15431,8 @@
       "sdlp": {
         "weight": 0.9166666666666666,
         "score": 275,
-        "num_votes": 6,
+        "num_votes": 5,
+        "num_motions": 6,
         "min": 0,
         "max": 300,
         "counts": [
@@ -14679,7 +15449,8 @@
       "sf": {
         "weight": 0.5,
         "score": 225,
-        "num_votes": 9,
+        "num_votes": 0,
+        "num_motions": 9,
         "min": 0,
         "max": 450,
         "counts": [
@@ -14692,7 +15463,8 @@
       "snp": {
         "weight": 0.5833333333333334,
         "score": 350,
-        "num_votes": 12,
+        "num_votes": 10,
+        "num_motions": 12,
         "min": 0,
         "max": 600,
         "counts": [
@@ -14713,7 +15485,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 50,
-        "num_votes": 2,
+        "num_votes": 0,
+        "num_motions": 2,
         "min": 0,
         "max": 100,
         "counts": [
@@ -14736,7 +15509,8 @@
       "con": {
         "weight": 0.11605686807443027,
         "score": 5551,
-        "num_votes": 1111,
+        "num_votes": 926,
+        "num_motions": 1111,
         "min": 0,
         "max": 47830,
         "counts": [
@@ -14757,7 +15531,8 @@
       "deputy speaker": {
         "weight": 0.1,
         "score": 3,
-        "num_votes": 3,
+        "num_votes": 0,
+        "num_motions": 3,
         "min": 0,
         "max": 30,
         "counts": [
@@ -14770,7 +15545,8 @@
       "dup": {
         "weight": 0.61171875,
         "score": 783,
-        "num_votes": 32,
+        "num_votes": 7,
+        "num_motions": 32,
         "min": 0,
         "max": 1280,
         "counts": [
@@ -14787,7 +15563,8 @@
       "ind": {
         "weight": 0.5545454545454546,
         "score": 122,
-        "num_votes": 10,
+        "num_votes": 6,
+        "num_motions": 10,
         "min": 0,
         "max": 220,
         "counts": [
@@ -14808,7 +15585,8 @@
       "lab": {
         "weight": 0.8330875356803045,
         "score": 35023,
-        "num_votes": 1120,
+        "num_votes": 903,
+        "num_motions": 1120,
         "min": 0,
         "max": 42040,
         "counts": [
@@ -14829,7 +15607,8 @@
       "ldem": {
         "weight": 0.11884531590413944,
         "score": 1091,
-        "num_votes": 234,
+        "num_votes": 187,
+        "num_motions": 234,
         "min": 0,
         "max": 9180,
         "counts": [
@@ -14850,7 +15629,8 @@
       "pc": {
         "weight": 0.8395833333333333,
         "score": 403,
-        "num_votes": 12,
+        "num_votes": 7,
+        "num_motions": 12,
         "min": 0,
         "max": 480,
         "counts": [
@@ -14867,7 +15647,8 @@
       "res": {
         "weight": 0.43333333333333335,
         "score": 26,
-        "num_votes": 2,
+        "num_votes": 0,
+        "num_motions": 2,
         "min": 0,
         "max": 60,
         "counts": [
@@ -14880,7 +15661,8 @@
       "sdlp": {
         "weight": 0.475,
         "score": 228,
-        "num_votes": 12,
+        "num_votes": 0,
+        "num_motions": 12,
         "min": 0,
         "max": 480,
         "counts": [
@@ -14893,7 +15675,8 @@
       "sf": {
         "weight": 0.47333333333333333,
         "score": 355,
-        "num_votes": 19,
+        "num_votes": 0,
+        "num_motions": 19,
         "min": 0,
         "max": 750,
         "counts": [
@@ -14906,7 +15689,8 @@
       "snp": {
         "weight": 0.9463917525773196,
         "score": 918,
-        "num_votes": 25,
+        "num_votes": 21,
+        "num_motions": 25,
         "min": 0,
         "max": 970,
         "counts": [
@@ -14923,7 +15707,8 @@
       "speaker": {
         "weight": 0.475,
         "score": 76,
-        "num_votes": 4,
+        "num_votes": 0,
+        "num_motions": 4,
         "min": 0,
         "max": 160,
         "counts": [
@@ -14936,7 +15721,8 @@
       "uup": {
         "weight": 0.1,
         "score": 1,
-        "num_votes": 1,
+        "num_votes": 0,
+        "num_motions": 1,
         "min": 0,
         "max": 10,
         "counts": [
@@ -14949,7 +15735,8 @@
       "alliance": {
         "weight": 0.8333333333333334,
         "score": 125,
-        "num_votes": 3,
+        "num_votes": 2,
+        "num_motions": 3,
         "min": 0,
         "max": 150,
         "counts": [
@@ -14966,7 +15753,8 @@
       "green": {
         "weight": 0.6666666666666666,
         "score": 100,
-        "num_votes": 3,
+        "num_votes": 1,
+        "num_motions": 3,
         "min": 0,
         "max": 150,
         "counts": [
@@ -14993,7 +15781,8 @@
       "alliance": {
         "weight": 0.14186046511627906,
         "score": 61,
-        "num_votes": 11,
+        "num_votes": 8,
+        "num_motions": 11,
         "min": 0,
         "max": 430,
         "counts": [
@@ -15014,7 +15803,8 @@
       "con": {
         "weight": 0.8206904417914987,
         "score": 107929,
-        "num_votes": 3363,
+        "num_votes": 2821,
+        "num_motions": 3363,
         "min": 0,
         "max": 131510,
         "counts": [
@@ -15039,7 +15829,8 @@
       "dup": {
         "weight": 0.3572674418604651,
         "score": 1229,
-        "num_votes": 88,
+        "num_votes": 53,
+        "num_motions": 88,
         "min": 0,
         "max": 3440,
         "counts": [
@@ -15061,6 +15852,7 @@
         "weight": 0.11627906976744186,
         "score": 50,
         "num_votes": 11,
+        "num_motions": 11,
         "min": 0,
         "max": 430,
         "counts": [
@@ -15077,7 +15869,8 @@
       "ind": {
         "weight": 0.3511627906976744,
         "score": 151,
-        "num_votes": 11,
+        "num_votes": 6,
+        "num_motions": 11,
         "min": 0,
         "max": 430,
         "counts": [
@@ -15094,7 +15887,8 @@
       "lab": {
         "weight": 0.1571660796532105,
         "score": 17403,
-        "num_votes": 2833,
+        "num_votes": 2424,
+        "num_motions": 2833,
         "min": 0,
         "max": 110730,
         "counts": [
@@ -15115,7 +15909,8 @@
       "ldem": {
         "weight": 0.7414932680538555,
         "score": 18174,
-        "num_votes": 627,
+        "num_votes": 474,
+        "num_motions": 627,
         "min": 0,
         "max": 24510,
         "counts": [
@@ -15140,7 +15935,8 @@
       "pc": {
         "weight": 0.13643410852713178,
         "score": 176,
-        "num_votes": 33,
+        "num_votes": 31,
+        "num_motions": 33,
         "min": 0,
         "max": 1290,
         "counts": [
@@ -15161,7 +15957,8 @@
       "sdlp": {
         "weight": 0.40930232558139534,
         "score": 528,
-        "num_votes": 33,
+        "num_votes": 15,
+        "num_motions": 33,
         "min": 0,
         "max": 1290,
         "counts": [
@@ -15178,7 +15975,8 @@
       "sf": {
         "weight": 0.4720930232558139,
         "score": 1015,
-        "num_votes": 55,
+        "num_votes": 0,
+        "num_motions": 55,
         "min": 0,
         "max": 2150,
         "counts": [
@@ -15191,7 +15989,8 @@
       "snp": {
         "weight": 0.4720930232558139,
         "score": 1218,
-        "num_votes": 66,
+        "num_votes": 0,
+        "num_motions": 66,
         "min": 0,
         "max": 2580,
         "counts": [
@@ -15204,7 +16003,8 @@
       "speaker": {
         "weight": 0.4720930232558139,
         "score": 203,
-        "num_votes": 11,
+        "num_votes": 0,
+        "num_motions": 11,
         "min": 0,
         "max": 430,
         "counts": [
@@ -15217,7 +16017,8 @@
       "res": {
         "weight": 0.12272727272727273,
         "score": 27,
-        "num_votes": 6,
+        "num_votes": 3,
+        "num_motions": 6,
         "min": 0,
         "max": 220,
         "counts": [
@@ -15244,7 +16045,8 @@
       "alliance": {
         "weight": 0.4369565217391304,
         "score": 201,
-        "num_votes": 10,
+        "num_votes": 1,
+        "num_motions": 10,
         "min": 0,
         "max": 460,
         "counts": [
@@ -15261,7 +16063,8 @@
       "con": {
         "weight": 0.1637308650765397,
         "score": 22996,
-        "num_votes": 3053,
+        "num_votes": 2051,
+        "num_motions": 3053,
         "min": 0,
         "max": 140450,
         "counts": [
@@ -15282,7 +16085,8 @@
       "dup": {
         "weight": 0.5239130434782608,
         "score": 1928,
-        "num_votes": 80,
+        "num_votes": 24,
+        "num_motions": 80,
         "min": 0,
         "max": 3680,
         "counts": [
@@ -15303,7 +16107,8 @@
       "green": {
         "weight": 0.9456521739130435,
         "score": 435,
-        "num_votes": 10,
+        "num_votes": 9,
+        "num_motions": 10,
         "min": 0,
         "max": 460,
         "counts": [
@@ -15320,7 +16125,8 @@
       "ind": {
         "weight": 0.49130434782608695,
         "score": 226,
-        "num_votes": 10,
+        "num_votes": 0,
+        "num_motions": 10,
         "min": 0,
         "max": 460,
         "counts": [
@@ -15333,7 +16139,8 @@
       "lab": {
         "weight": 0.507955791782671,
         "score": 60208,
-        "num_votes": 2577,
+        "num_votes": 389,
+        "num_motions": 2577,
         "min": 0,
         "max": 118530,
         "counts": [
@@ -15354,7 +16161,8 @@
       "ldem": {
         "weight": 0.28832951945080093,
         "score": 7560,
-        "num_votes": 570,
+        "num_votes": 324,
+        "num_motions": 570,
         "min": 0,
         "max": 26220,
         "counts": [
@@ -15375,7 +16183,8 @@
       "pc": {
         "weight": 0.9456521739130435,
         "score": 1305,
-        "num_votes": 30,
+        "num_votes": 27,
+        "num_motions": 30,
         "min": 0,
         "max": 1380,
         "counts": [
@@ -15392,7 +16201,8 @@
       "sdlp": {
         "weight": 0.5818840579710145,
         "score": 803,
-        "num_votes": 30,
+        "num_votes": 5,
+        "num_motions": 30,
         "min": 0,
         "max": 1380,
         "counts": [
@@ -15409,7 +16219,8 @@
       "sf": {
         "weight": 0.4911111111111111,
         "score": 1105,
-        "num_votes": 49,
+        "num_votes": 0,
+        "num_motions": 49,
         "min": 0,
         "max": 2250,
         "counts": [
@@ -15422,7 +16233,8 @@
       "snp": {
         "weight": 0.8601449275362318,
         "score": 2374,
-        "num_votes": 60,
+        "num_votes": 42,
+        "num_motions": 60,
         "min": 0,
         "max": 2760,
         "counts": [
@@ -15439,7 +16251,8 @@
       "speaker": {
         "weight": 0.49130434782608695,
         "score": 226,
-        "num_votes": 10,
+        "num_votes": 0,
+        "num_motions": 10,
         "min": 0,
         "max": 460,
         "counts": [
@@ -15452,7 +16265,8 @@
       "res": {
         "weight": 0.4870967741935484,
         "score": 151,
-        "num_votes": 7,
+        "num_votes": 0,
+        "num_motions": 7,
         "min": 0,
         "max": 310,
         "counts": [
@@ -15475,7 +16289,8 @@
       "alliance": {
         "weight": 0.26875,
         "score": 86,
-        "num_votes": 8,
+        "num_votes": 4,
+        "num_motions": 8,
         "min": 0,
         "max": 320,
         "counts": [
@@ -15496,7 +16311,8 @@
       "con": {
         "weight": 0.20264501633986928,
         "score": 19843,
-        "num_votes": 2448,
+        "num_votes": 1937,
+        "num_motions": 2448,
         "min": 0,
         "max": 97920,
         "counts": [
@@ -15517,7 +16333,8 @@
       "dup": {
         "weight": 0.458203125,
         "score": 1173,
-        "num_votes": 64,
+        "num_votes": 5,
+        "num_motions": 64,
         "min": 0,
         "max": 2560,
         "counts": [
@@ -15538,7 +16355,8 @@
       "green": {
         "weight": 0.84375,
         "score": 270,
-        "num_votes": 8,
+        "num_votes": 6,
+        "num_motions": 8,
         "min": 0,
         "max": 320,
         "counts": [
@@ -15559,7 +16377,8 @@
       "ind": {
         "weight": 0.553125,
         "score": 177,
-        "num_votes": 8,
+        "num_votes": 1,
+        "num_motions": 8,
         "min": 0,
         "max": 320,
         "counts": [
@@ -15576,7 +16395,8 @@
       "lab": {
         "weight": 0.4626469518846201,
         "score": 38173,
-        "num_votes": 2063,
+        "num_votes": 800,
+        "num_motions": 2063,
         "min": 0,
         "max": 82510,
         "counts": [
@@ -15597,7 +16417,8 @@
       "ldem": {
         "weight": 0.19906798245614035,
         "score": 3631,
-        "num_votes": 456,
+        "num_votes": 339,
+        "num_motions": 456,
         "min": 0,
         "max": 18240,
         "counts": [
@@ -15618,7 +16439,8 @@
       "pc": {
         "weight": 0.834375,
         "score": 801,
-        "num_votes": 24,
+        "num_votes": 19,
+        "num_motions": 24,
         "min": 0,
         "max": 960,
         "counts": [
@@ -15639,7 +16461,8 @@
       "sdlp": {
         "weight": 0.5791666666666667,
         "score": 556,
-        "num_votes": 24,
+        "num_votes": 4,
+        "num_motions": 24,
         "min": 0,
         "max": 960,
         "counts": [
@@ -15656,7 +16479,8 @@
       "sf": {
         "weight": 0.47593984962406016,
         "score": 633,
-        "num_votes": 33,
+        "num_votes": 0,
+        "num_motions": 33,
         "min": 0,
         "max": 1330,
         "counts": [
@@ -15669,7 +16493,8 @@
       "snp": {
         "weight": 0.8390625,
         "score": 1611,
-        "num_votes": 48,
+        "num_votes": 47,
+        "num_motions": 48,
         "min": 0,
         "max": 1920,
         "counts": [
@@ -15690,7 +16515,8 @@
       "speaker": {
         "weight": 0.475,
         "score": 152,
-        "num_votes": 8,
+        "num_votes": 0,
+        "num_motions": 8,
         "min": 0,
         "max": 320,
         "counts": [
@@ -15713,7 +16539,8 @@
       "alliance": {
         "weight": 0.5,
         "score": 100,
-        "num_votes": 4,
+        "num_votes": 0,
+        "num_motions": 4,
         "min": 0,
         "max": 200,
         "counts": [
@@ -15726,7 +16553,8 @@
       "con": {
         "weight": 0.7081967213114754,
         "score": 43200,
-        "num_votes": 1220,
+        "num_votes": 594,
+        "num_motions": 1220,
         "min": 0,
         "max": 61000,
         "counts": [
@@ -15751,7 +16579,8 @@
       "dup": {
         "weight": 0.6875,
         "score": 1100,
-        "num_votes": 32,
+        "num_votes": 12,
+        "num_motions": 32,
         "min": 0,
         "max": 1600,
         "counts": [
@@ -15773,6 +16602,7 @@
         "weight": 0.0,
         "score": 0,
         "num_votes": 4,
+        "num_motions": 4,
         "min": 0,
         "max": 200,
         "counts": [
@@ -15789,7 +16619,8 @@
       "ind": {
         "weight": 0.375,
         "score": 75,
-        "num_votes": 4,
+        "num_votes": 1,
+        "num_motions": 4,
         "min": 0,
         "max": 200,
         "counts": [
@@ -15806,7 +16637,8 @@
       "lab": {
         "weight": 0.12074001947419669,
         "score": 6200,
-        "num_votes": 1027,
+        "num_votes": 783,
+        "num_motions": 1027,
         "min": 0,
         "max": 51350,
         "counts": [
@@ -15827,7 +16659,8 @@
       "ldem": {
         "weight": 0.5833333333333334,
         "score": 6650,
-        "num_votes": 228,
+        "num_votes": 89,
+        "num_motions": 228,
         "min": 0,
         "max": 11400,
         "counts": [
@@ -15852,7 +16685,8 @@
       "pc": {
         "weight": 0.6666666666666666,
         "score": 400,
-        "num_votes": 12,
+        "num_votes": 4,
+        "num_motions": 12,
         "min": 0,
         "max": 600,
         "counts": [
@@ -15873,7 +16707,8 @@
       "res": {
         "weight": 0.5,
         "score": 100,
-        "num_votes": 4,
+        "num_votes": 0,
+        "num_motions": 4,
         "min": 0,
         "max": 200,
         "counts": [
@@ -15886,7 +16721,8 @@
       "sdlp": {
         "weight": 0.3333333333333333,
         "score": 200,
-        "num_votes": 12,
+        "num_votes": 4,
+        "num_motions": 12,
         "min": 0,
         "max": 600,
         "counts": [
@@ -15907,7 +16743,8 @@
       "sf": {
         "weight": 0.5,
         "score": 500,
-        "num_votes": 20,
+        "num_votes": 0,
+        "num_motions": 20,
         "min": 0,
         "max": 1000,
         "counts": [
@@ -15920,7 +16757,8 @@
       "snp": {
         "weight": 0.5,
         "score": 600,
-        "num_votes": 24,
+        "num_votes": 0,
+        "num_motions": 24,
         "min": 0,
         "max": 1200,
         "counts": [
@@ -15933,7 +16771,8 @@
       "speaker": {
         "weight": 0.5,
         "score": 100,
-        "num_votes": 4,
+        "num_votes": 0,
+        "num_motions": 4,
         "min": 0,
         "max": 200,
         "counts": [
