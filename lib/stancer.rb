@@ -3,10 +3,10 @@ class Stancer
   require 'open-uri/cached'
 
   def initialize(opt)
-    @opt = opt
+    @opt = Options.new(opt)
   end
 
-  def all_stances(group=group_option, filter=nil)
+  def all_stances(group=@opt.grouping, filter=nil)
     all_issues.map { |i| issue_stance(i, group, filter).to_h }
   end
         
@@ -18,7 +18,7 @@ class Stancer
 
   def all_issues
     # TODO convert these into Issue objects
-    @issues ||= JSON.parse(open(issues_file).read)
+    @issues ||= JSON.parse(open(@opt.issues_file).read)
   end
 
   def stance(aspects, group, filter=nil)
@@ -35,7 +35,7 @@ class Stancer
       a
     end
     i['stances'] = stance(as, group, filter).to_h
-    exclusions.each { |k| i.delete(k) }
+    @opt.exclusions.each { |k| i.delete(k) }
     i
   end
 
@@ -47,34 +47,44 @@ class Stancer
     end
   end
 
-  def motions_file
-    @opt[:motions_file] or raise "Configuration missing: motions_file"
-  end
-
-  def issues_file
-    @opt[:issues_file] or raise "Configuration missing: issues_file"
-  end
-
-  def aspects_file
-    @opt[:aspects_file] or raise "Configuration missing: aspects_file"
-  end
-
-  def group_option
-    @opt[:grouping] or raise "Configuration missing: grouping"
-  end
-
-  def exclusions
-    (@opt[:exclude] || "").split(/,\s*/)
-  end
-
   def all_motions
-    @motions ||= JSON.parse(open(motions_file).read)
+    @motions ||= JSON.parse(open(@opt.motions_file).read)
   end
 
   def all_aspects
-    @aspects ||= JSON.parse(open(aspects_file).read)
+    @aspects ||= JSON.parse(open(@opt.aspects_file).read)
   end
 
+
+  #--------------------------------------------------------------------------
+
+  class Options
+
+    def initialize(opt)
+      @opt = opt
+    end
+
+    def motions_file
+      @opt[:motions_file] or raise "Configuration missing: motions_file"
+    end
+
+    def issues_file
+      @opt[:issues_file] or raise "Configuration missing: issues_file"
+    end
+
+    def aspects_file
+      @opt[:aspects_file] or raise "Configuration missing: aspects_file"
+    end
+
+    def grouping
+      @opt[:grouping] or raise "Configuration missing: grouping"
+    end
+
+    def exclusions
+      (@opt[:exclude] || "").split(/,\s*/)
+    end
+
+  end
 
   class Score
 
