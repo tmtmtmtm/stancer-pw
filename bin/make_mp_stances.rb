@@ -19,7 +19,7 @@ allstances = stancer.all_issues.map do |i|
   end
 
   # i['stances'] = Stancer::Stance.new(as, 'voter', lambda { |v| v['voter']['id'] == 'andy_burnham' }).to_h
-  i['stances'] = Stancer::Stance.new(as, 'voter').to_h
+  i['stances'] = stancer.stance(as, 'voter').to_h
   i.delete('aspects')
   i
 end

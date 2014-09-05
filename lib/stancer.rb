@@ -14,6 +14,10 @@ class Stancer
     @issues ||= JSON.parse(File.read(issues_file))
   end
 
+  def stance(aspects, group, filter=nil)
+    Stance.new(aspects, group, filter)
+  end
+
   private 
 
   def motions_file
