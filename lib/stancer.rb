@@ -159,22 +159,30 @@ class Stancer
       @__scored_votes ||= score_votes!
     end
 
+    def _weighted_votes(vote_list, weight_hash)
+      vote_list.map do |v|
+        {
+          option: v['option'],
+          score: weight_hash[v['option']],
+          min: weight_hash.values.min,
+          max: weight_hash.values.max,
+        }
+      end
+    end
+
+
     def score_votes!
       scored_votes = {}
       @aspects.each do |a|
         a['motion']['vote_events'].each do |ve|
           wanted_votes = @filter.nil? ? ve['votes'] : ve['votes'].find_all(&@filter) 
-          wanted_votes.each do |v|
+          wanted_votes.group_by { |v|
             bloc = v[@group] or raise "No #{@group} in #{v}"
             # Need to collapse to ID as PW person hashes will have lots
             # of variations of the MP's name, for example
             key = bloc.is_a?(Hash) ? bloc['id'] : bloc
-            (scored_votes[key] ||= []) << { 
-              option: v['option'],
-              score: a['weights'][v['option']],
-              min: a['weights'].values.min,
-              max: a['weights'].values.max,
-            }
+          }.each do |key, votes|
+            ((scored_votes[key] ||= []) << _weighted_votes(votes, a['weights'])).flatten!
           end
         end
       end
