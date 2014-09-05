@@ -12,16 +12,7 @@ stancer = Stancer.new(
 )
 
 allstances = stancer.all_issues.map do |i|
-  warn "Processing issue #{i['id']}: #{i['text']}".green
-  as = i['aspects'].map do |a| 
-    a['motion'] = stancer.find_motion(a['motion_id']) or raise "No such motion"
-    a
-  end
-
-  # i['stances'] = Stancer::Stance.new(as, 'voter', lambda { |v| v['voter']['id'] == 'andy_burnham' }).to_h
-  i['stances'] = stancer.stance(as, 'voter').to_h
-  i.delete('aspects')
-  i
+  stancer.issue_stance(i, 'voter').to_h
 end
 
 puts JSON.pretty_generate(allstances.sort_by { |s| s['id'].sub(/^PW-/, '').to_i } )

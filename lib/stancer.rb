@@ -18,6 +18,20 @@ class Stancer
     Stance.new(aspects, group, filter)
   end
 
+  # TODO move this into Issue class
+  # issue_stance(i, 'party_id', lambda { |v| v['party_id'] == 'con' }).to_h
+  # issue_stance(i, 'voter', lambda { |v| v['voter']['id'] == 'andy_burnham' }).to_h
+  def issue_stance(i, group, filter=nil)
+    warn "Processing issue #{i['id']}: #{i['text']}".green
+    as = i['aspects'].map do |a| 
+      a['motion'] = find_motion(a['motion_id']) or raise "No such motion"
+      a
+    end
+    i['stances'] = stance(as, group, filter).to_h
+    i.delete('aspects')
+    i
+  end
+      
   private 
 
   def motions_file
