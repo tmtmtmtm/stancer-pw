@@ -5,7 +5,7 @@ class Stancer
     @opt = opt
   end
 
-  def all_stances(group, filter=nil)
+  def all_stances(group=group_option, filter=nil)
     all_issues.map { |i| issue_stance(i, group, filter).to_h }
   end
         
@@ -44,6 +44,10 @@ class Stancer
 
   def issues_file
     @opt[:issues_file] or raise "Configuration missing: issues_file"
+  end
+
+  def group_option
+    @opt[:grouping] or raise "Configuration missing: grouping"
   end
 
   def all_motions
