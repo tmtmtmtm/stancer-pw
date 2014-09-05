@@ -1,18 +1,24 @@
-module Stancer
+class Stancer
   require 'json'
 
-  class Motion
-
-    # TODO different ways of loading: flatfiles, db, API, ...
-    def self.configure(opt)
-      fn = opt[:motions_file] or raise "Configuration missing: motions_file"
-      @@motions = JSON.parse(File.read(fn))
-    end
-
-    def self.find(id)
-      @@motions.find { |m| m['id'] == id }
-    end
+  def initialize(opt)
+    @opt = opt
   end
+
+  def find_motion(id)
+    all_motions.find { |m| m['id'] == id }
+  end
+
+  private 
+  def motions_file
+    @opt[:motions_file] or raise "Configuration missing: motions_file"
+  end
+
+  def all_motions
+    # TODO convert these into Motion objects
+    @motions ||= JSON.parse(File.read(motions_file))
+  end
+
 
   class Score
 
