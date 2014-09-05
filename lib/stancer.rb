@@ -170,8 +170,6 @@ class Stancer
             # of variations of the MP's name, for example
             key = bloc.is_a?(Hash) ? bloc['id'] : bloc
             (scored_votes[key] ||= []) << { 
-              vote_event: ve['start_date'],
-              voter: v['voter']['name'],
               option: v['option'],
               score: a['weights'][v['option']],
               min: a['weights'].values.min,
