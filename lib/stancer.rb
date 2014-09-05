@@ -34,7 +34,7 @@ class Stancer
       a
     end
     i['stances'] = stance(as, group, filter).to_h
-    i.delete('aspects')
+    exclusions.each { |k| i.delete(k) }
     i
   end
 
@@ -48,6 +48,10 @@ class Stancer
 
   def group_option
     @opt[:grouping] or raise "Configuration missing: grouping"
+  end
+
+  def exclusions
+    (@opt[:exclude] || "").split(/,\s*/)
   end
 
   def all_motions

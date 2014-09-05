@@ -10,6 +10,7 @@ stancer = Stancer.new(
   motions_file: 'motions.json',
   issues_file:  'issues.json',
   grouping:     'voter',
+  exclude:      'aspects',
 )
 
 allstances = stancer.all_stances

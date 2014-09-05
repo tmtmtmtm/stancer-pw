@@ -14,7 +14,6 @@ stancer = Stancer.new(
 
 output_dir = 'stances'
 
-
 output_path = Pathname(output_dir)
 FileUtils.mkdir_p output_path
 
