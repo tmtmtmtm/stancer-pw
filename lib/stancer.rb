@@ -7,18 +7,13 @@ class Stancer
   end
 
   def all_stances(group=@opt.grouping, filter=nil)
-    all_issues.map { |i| issue_stance(i, group, filter).to_h }
+    issues.all.map { |i| issue_stance(i, group, filter).to_h }
   end
         
   private 
 
   def find_motion(id)
-    all_motions.find { |m| m['id'] == id }
-  end
-
-  def all_issues
-    # TODO convert these into Issue objects
-    @issues ||= JSON.parse(open(@opt.issues_file).read)
+    motions.all.find { |m| m['id'] == id }
   end
 
   def stance(aspects, group, filter=nil)
@@ -43,20 +38,37 @@ class Stancer
     if i.has_key? 'aspects' 
       return i['aspects']
     else 
-      return all_aspects.find_all { |a| a['issue_id'] == i['id'] }
+      return aspects.all.find_all { |a| a['issue_id'] == i['id'] }
     end
   end
 
-  def all_motions
-    @motions ||= JSON.parse(open(@opt.motions_file).read)
+  def issues
+    @issues ||= DataSource.new(@opt.issues_file)
   end
 
-  def all_aspects
-    @aspects ||= JSON.parse(open(@opt.aspects_file).read)
+  def motions
+    @motions ||= DataSource.new(@opt.motions_file)
+  end
+
+  def aspects
+    @aspects ||= DataSource.new(@opt.aspects_file)
   end
 
 
   #--------------------------------------------------------------------------
+
+  class DataSource
+
+    def initialize(source)
+      @source = source
+    end
+
+    def all
+      @all ||= JSON.parse(open(@source).read)
+    end
+
+  end
+
 
   class Options
 
@@ -169,7 +181,6 @@ class Stancer
         }
       end
     end
-
 
     def score_votes!
       scored_votes = {}
