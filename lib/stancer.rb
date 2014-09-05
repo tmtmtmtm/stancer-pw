@@ -1,5 +1,6 @@
 class Stancer
   require 'json'
+  require 'open-uri/cached'
 
   def initialize(opt)
     @opt = opt
@@ -17,7 +18,7 @@ class Stancer
 
   def all_issues
     # TODO convert these into Issue objects
-    @issues ||= JSON.parse(File.read(issues_file))
+    @issues ||= JSON.parse(open(issues_file).read)
   end
 
   def stance(aspects, group, filter=nil)
@@ -29,7 +30,7 @@ class Stancer
   # issue_stance(i, 'voter', lambda { |v| v['voter']['id'] == 'andy_burnham' }).to_h
   def issue_stance(i, group, filter=nil)
     warn "Processing issue #{i['id']}: #{i['text']}".green
-    as = i['aspects'].map do |a| 
+    as = issue_aspects(i).map do |a| 
       a['motion'] = find_motion(a['motion_id']) or raise "No such motion"
       a
     end
@@ -38,12 +39,24 @@ class Stancer
     i
   end
 
+  def issue_aspects(i)
+    if i.has_key? 'aspects' 
+      return i['aspects']
+    else 
+      return all_aspects.find_all { |a| a['issue_id'] == i['id'] }
+    end
+  end
+
   def motions_file
     @opt[:motions_file] or raise "Configuration missing: motions_file"
   end
 
   def issues_file
     @opt[:issues_file] or raise "Configuration missing: issues_file"
+  end
+
+  def aspects_file
+    @opt[:aspects_file] or raise "Configuration missing: aspects_file"
   end
 
   def group_option
@@ -55,8 +68,11 @@ class Stancer
   end
 
   def all_motions
-    # TODO convert these into Motion objects
-    @motions ||= JSON.parse(File.read(motions_file))
+    @motions ||= JSON.parse(open(motions_file).read)
+  end
+
+  def all_aspects
+    @aspects ||= JSON.parse(open(aspects_file).read)
   end
 
 
