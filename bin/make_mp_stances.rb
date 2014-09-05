@@ -9,7 +9,7 @@ require 'colorize'
 warn "Loading issues".yellow
 issues  = JSON.parse(File.read('issues.json'))
 warn "Loading motions".yellow
-Stancer::Motion.configure(motion_file: 'motions.json')
+Stancer::Motion.configure(motions_file: 'motions.json')
 warn "done".yellow
 
 allstances = issues.map do |i|

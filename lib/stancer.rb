@@ -5,7 +5,7 @@ module Stancer
 
     # TODO different ways of loading: flatfiles, db, API, ...
     def self.configure(opt)
-      fn = opt[:motion_file] or raise "Need a motion_file"
+      fn = opt[:motions_file] or raise "Configuration missing: motions_file"
       @@motions = JSON.parse(File.read(fn))
     end
 
