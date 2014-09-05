@@ -1,0 +1,10402 @@
+{
+  "id": "PW-6692",
+  "text": "Rail Fares — Lower",
+  "html": "slowing the rise in <b>rail fares</b>",
+  "categories": [
+    "misc"
+  ],
+  "stances": {
+    "naomi_long": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "nigel_adams": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "adam_afriyie": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "peter_aldous": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "david_amess": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "stuart_andrew": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "richard_bacon": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "steven_baker": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "tony_baldry": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "harriett_baldwin": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "gregory_barker": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "john_baron": {
+      "weight": 0.24285714285714285,
+      "score": 51,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 2
+        },
+        {
+          "option": "absent",
+          "value": 3
+        }
+      ]
+    },
+    "gavin_barwell": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "guto_bebb": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "henry_bellingham": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "richard_benyon": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "paul_beresford": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "jake_berry": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "bob_blackman": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "nicola_blackwood": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "crispin_blunt": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "nicholas_boles": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "peter_bone": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "peter_bottomley": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "karen_bradley": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "graham_brady": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "angie_bray": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "steve_brine": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "james_brokenshire": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "fiona_bruce": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "robert_buckland": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "aidan_burley": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "conor_burns": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "simon_burns": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "david_burrowes": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "alistair_burt": {
+      "weight": 0.35714285714285715,
+      "score": 75,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 2
+        },
+        {
+          "option": "absent",
+          "value": 3
+        }
+      ]
+    },
+    "dan_byles": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "alun_cairns": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "douglas_carswell": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "william_cash": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "rehman_chishti": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "james_clappison": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "greg_clark": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "kenneth_clarke": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "geoffrey_clifton_brown": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "therese_coffey": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "damian_collins": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "oliver_colvile": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "stephen_crabb": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "tracey_crouch": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "david_davies": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "glyn_davies": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "philip_davies": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "david_davis": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "nick_de_bois": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "caroline_dinenage": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "jonathan_djanogly": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "stephen_dorrell": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "nadine_dorries": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "jackie_doyle_price": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "richard_drax": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "james_duddridge": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "alan_duncan": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "iain_duncan_smith": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "philip_dunne": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "michael_ellis": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "jane_ellison": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "tobias_ellwood": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "charlie_elphicke": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "george_eustice": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "graham_evans": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "jonathan_evans": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "david_evennett": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "michael_fabricant": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "michael_fallon": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "mark_field": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "liam_fox": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "mark_francois": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "george_freeman": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "mike_freer": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "lorraine_fullbrook": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "richard_fuller": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "roger_gale": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "edward_garnier": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "mark_garnier": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "david_gauke": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "nick_gibb": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "cheryl_gillan": {
+      "weight": 0.24285714285714285,
+      "score": 51,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 2
+        },
+        {
+          "option": "absent",
+          "value": 3
+        }
+      ]
+    },
+    "john_glen": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "zac_goldsmith": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "robert_goodwill": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "michael_gove": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "richard_graham": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "helen_grant": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "james_gray": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "chris_grayling": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "damian_green": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "justine_greening": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "dominic_grieve": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "andrew_griffiths": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "ben_gummer": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "sam_gyimah": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "william_hague": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "robert_halfon": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "philip_hammond": {
+      "weight": 0.24285714285714285,
+      "score": 51,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 2
+        },
+        {
+          "option": "absent",
+          "value": 3
+        }
+      ]
+    },
+    "stephen_hammond": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "matthew_hancock": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "greg_hands": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "mark_harper": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "rebecca_harris": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "simon_hart": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "alan_haselhurst": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "oliver_heald": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "chris_heaton_harris": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "gordon_henderson": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "charles_hendry": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "nick_herbert": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "damian_hinds": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "mark_hoban": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "george_hollingbery": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "philip_hollobone": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "adam_holloway": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "kris_hopkins": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "john_howell": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "nick_hurd": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "stewart_jackson": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "margot_james": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "sajid_javid": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "bernard_jenkin": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "gareth_johnson": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "jo_johnson": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "andrew_jones": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "david_jones": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "marcus_jones": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "daniel_kawczynski": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "chris_kelly": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "simon_kirby": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "greg_knight": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "kwasi_kwarteng": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "mark_lancaster": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "andrew_lansley": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "pauline_latham": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "andrea_leadsom": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "jessica_lee": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "phillip_lee": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "jeremy_lefroy": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "edward_leigh": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "charlotte_leslie": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "oliver_letwin": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "brandon_lewis": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "julian_lewis": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "david_lidington": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "jack_lopresti": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "jonathan_lord": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "tim_loughton": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "peter_luff": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "karen_lumley": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "mary_macleod": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "anne_main": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "francis_maude": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "paul_maynard": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "jason_mccartney": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "karl_mccartney": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "anne_mcintosh": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "patrick_mcloughlin": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "stephen_mcpartland": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "esther_mcvey": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "louise_mensch": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 2,
+      "num_motions": 2,
+      "min": 0,
+      "max": 100,
+      "counts": [
+        {
+          "option": "no",
+          "value": 2
+        }
+      ]
+    },
+    "mark_menzies": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "patrick_mercer": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "stephen_metcalfe": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "maria_miller": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "nigel_mills": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "anne_milton": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "nicky_morgan": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "anne_marie_morris": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "david_morris": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "james_morris": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "stephen_mosley": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "david_mowat": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "david_mundell": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "sheryll_murray": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "andrew_murrison": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "bob_neill": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "brooks_newmark": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "sarah_newton": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "caroline_nokes": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "jesse_norman": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "david_nuttall": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "stephen_obrien": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "matthew_offord": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "eric_ollerenshaw": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "guy_opperman": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "richard_ottaway": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "neil_parish": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "priti_patel": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "owen_paterson": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "mark_pawsey": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "john_penrose": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "andrew_percy": {
+      "weight": 0.24285714285714285,
+      "score": 51,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 2
+        },
+        {
+          "option": "absent",
+          "value": 3
+        }
+      ]
+    },
+    "claire_perry": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "stephen_phillips": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "eric_pickles": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "daniel_poulter": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "mark_prisk": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "mark_pritchard": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "dominic_raab": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "john_randall": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "mark_reckless": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "john_redwood": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "jacob_rees_mogg": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "simon_reevell": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "malcolm_rifkind": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "andrew_robathan": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "laurence_robertson": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "andrew_rosindell": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "amber_rudd": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "david_ruffley": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "david_rutley": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "laura_sandys": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "lee_scott": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "andrew_selous": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "grant_shapps": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "alok_sharma": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "alec_shelbrooke": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "richard_shepherd": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "mark_simmonds": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "keith_simpson": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "chris_skidmore": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "chloe_smith": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "henry_smith": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "julian_smith": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "nicholas_soames": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "anna_soubry": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "caroline_spelman": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "mark_spencer": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "andrew_stephenson": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "john_stevenson": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "bob_stewart": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "iain_stewart": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "rory_stewart": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "gary_streeter": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "mel_stride": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "graham_stuart": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "julian_sturdy": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "desmond_swayne": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "robert_syms": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "peter_tapsell": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "edward_timpson": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "justin_tomlinson": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "david_tredinnick": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "elizabeth_truss": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "andrew_turner": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "andrew_tyrie": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "paul_uppal": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "shailesh_vara": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "martin_vickers": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "theresa_villiers": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "charles_walker": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "robin_walker": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "ben_wallace": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "angela_watkinson": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "mike_weatherley": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "james_wharton": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "heather_wheeler": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "chris_white": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "craig_whittaker": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "john_whittingdale": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "bill_wiggin": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "david_willetts": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "gavin_williamson": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "rob_wilson": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "jeremy_wright": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "george_young": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "nadhim_zahawi": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "james_arbuthnot": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "stephen_barclay": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "andrew_bingham": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "brian_binley": {
+      "weight": 0.24285714285714285,
+      "score": 51,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 3
+        },
+        {
+          "option": "no",
+          "value": 2
+        }
+      ]
+    },
+    "julian_brazier": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "andrew_bridgen": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "david_cameron": {
+      "weight": 0.48095238095238096,
+      "score": 101,
+      "num_votes": 0,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 5
+        }
+      ]
+    },
+    "neil_carmichael": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "no",
+          "value": 3
+        }
+      ]
+    },
+    "christopher_chope": {
+      "weight": 0.3619047619047619,
+      "score": 76,
+      "num_votes": 1,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 4
+        },
+        {
+          "option": "no",
+          "value": 1
+        }
+      ]
+    },
+    "geoffrey_cox": {
+      "weight": 0.35714285714285715,
+      "score": 75,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 3
+        },
+        {
+          "option": "no",
+          "value": 2
+        }
+      ]
+    },
+    "nigel_evans": {
+      "weight": 0.48095238095238096,
+      "score": 101,
+      "num_votes": 0,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 5
+        }
+      ]
+    },
+    "richard_harrington": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "no",
+          "value": 3
+        }
+      ]
+    },
+    "john_hayes": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "gerald_howarth": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "jeremy_hunt": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "eleanor_laing": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "no",
+          "value": 3
+        }
+      ]
+    },
+    "ian_liddell_grainger": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "no",
+          "value": 3
+        }
+      ]
+    },
+    "peter_lilley": {
+      "weight": 0.35714285714285715,
+      "score": 75,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 3
+        },
+        {
+          "option": "no",
+          "value": 2
+        }
+      ]
+    },
+    "theresa_may": {
+      "weight": 0.35714285714285715,
+      "score": 75,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 3
+        },
+        {
+          "option": "no",
+          "value": 2
+        }
+      ]
+    },
+    "andrew_mitchell": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "no",
+          "value": 3
+        }
+      ]
+    },
+    "penny_mordaunt": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "george_osborne": {
+      "weight": 0.24285714285714285,
+      "score": 51,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 3
+        },
+        {
+          "option": "no",
+          "value": 2
+        }
+      ]
+    },
+    "james_paice": {
+      "weight": 0.3619047619047619,
+      "score": 76,
+      "num_votes": 1,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 4
+        },
+        {
+          "option": "no",
+          "value": 1
+        }
+      ]
+    },
+    "michael_penning": {
+      "weight": 0.48095238095238096,
+      "score": 101,
+      "num_votes": 0,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 5
+        }
+      ]
+    },
+    "christopher_pincher": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "hugh_robertson": {
+      "weight": 0.3619047619047619,
+      "score": 76,
+      "num_votes": 1,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 4
+        },
+        {
+          "option": "no",
+          "value": 1
+        }
+      ]
+    },
+    "john_stanley": {
+      "weight": 0.35714285714285715,
+      "score": 75,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 3
+        },
+        {
+          "option": "no",
+          "value": 2
+        }
+      ]
+    },
+    "hugo_swire": {
+      "weight": 0.3619047619047619,
+      "score": 76,
+      "num_votes": 1,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 4
+        },
+        {
+          "option": "no",
+          "value": 1
+        }
+      ]
+    },
+    "edward_vaizey": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "robert_walter": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "no",
+          "value": 3
+        }
+      ]
+    },
+    "sarah_wollaston": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "tim_yeo": {
+      "weight": 0.24285714285714285,
+      "score": 51,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 3
+        },
+        {
+          "option": "no",
+          "value": 2
+        }
+      ]
+    },
+    "nigel_dodds": {
+      "weight": 0.719047619047619,
+      "score": 151,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 2
+        },
+        {
+          "option": "absent",
+          "value": 3
+        }
+      ]
+    },
+    "jeffrey_m_donaldson": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "william_mccrea": {
+      "weight": 0.7619047619047619,
+      "score": 160,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "jim_shannon": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "david_simpson": {
+      "weight": 0.719047619047619,
+      "score": 151,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 2
+        },
+        {
+          "option": "absent",
+          "value": 3
+        }
+      ]
+    },
+    "gregory_campbell": {
+      "weight": 0.48095238095238096,
+      "score": 101,
+      "num_votes": 0,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 5
+        }
+      ]
+    },
+    "ian_paisley_jnr": {
+      "weight": 0.7619047619047619,
+      "score": 160,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "yes",
+          "value": 3
+        }
+      ]
+    },
+    "sammy_wilson": {
+      "weight": 0.47619047619047616,
+      "score": 100,
+      "num_votes": 1,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 4
+        },
+        {
+          "option": "no",
+          "value": 1
+        }
+      ]
+    },
+    "caroline_lucas": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "lady_hermon": {
+      "weight": 0.48095238095238096,
+      "score": 101,
+      "num_votes": 0,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 5
+        }
+      ]
+    },
+    "diane_abbott": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "debbie_abrahams": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "bob_ainsworth": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "douglas_alexander": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "heidi_alexander": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "rushanara_ali": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "graham_allen": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "david_anderson": {
+      "weight": 0.8380952380952381,
+      "score": 176,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "jonathan_ashworth": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "ian_austin": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "adrian_bailey": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "william_bain": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "edward_balls": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "gordon_banks": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "hugh_bayley": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "margaret_beckett": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "anne_begg": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "stuart_bell": {
+      "weight": 0.8333333333333334,
+      "score": 125,
+      "num_votes": 2,
+      "num_motions": 3,
+      "min": 0,
+      "max": 150,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 2
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "hilary_benn": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "joe_benton": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "luciana_berger": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "clive_betts": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "roberta_blackman_woods": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "hazel_blears": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "tom_blenkinsop": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "paul_blomfield": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "david_blunkett": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "ben_bradshaw": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "kevin_brennan": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "gordon_brown": {
+      "weight": 0.6,
+      "score": 126,
+      "num_votes": 1,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 1
+        },
+        {
+          "option": "absent",
+          "value": 4
+        }
+      ]
+    },
+    "lyn_brown": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "nick_brown": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "russell_brown": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "chris_bryant": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "karen_buck": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "richard_burden": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "andy_burnham": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "liam_byrne": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "alan_campbell": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "ronnie_campbell": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "martin_caton": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "jenny_chapman": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "katy_clark": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "tom_clarke": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "ann_clwyd": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "vernon_coaker": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "ann_coffey": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "michael_connarty": {
+      "weight": 0.8380952380952381,
+      "score": 176,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "rosie_cooper": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "yvette_cooper": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "jeremy_corbyn": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "david_crausby": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "mary_creagh": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "stella_creasy": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "jon_cruddas": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "john_cryer": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "alex_cunningham": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "jim_cunningham": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "tony_cunningham": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "margaret_curran": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "nicholas_dakin": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "simon_danczuk": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "alistair_darling": {
+      "weight": 0.7619047619047619,
+      "score": 160,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "wayne_david": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "geraint_davies": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "gloria_de_piero": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "john_denham": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "jim_dobbin": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "frank_dobson": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "thomas_docherty": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "brian_h_donohoe": {
+      "weight": 0.719047619047619,
+      "score": 151,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 2
+        },
+        {
+          "option": "absent",
+          "value": 3
+        }
+      ]
+    },
+    "frank_doran": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "jim_dowd": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "gemma_doyle": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "jack_dromey": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "michael_dugher": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "angela_eagle": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "maria_eagle": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "clive_efford": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "julie_elliott": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "louise_ellman": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "bill_esterson": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "chris_evans": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "paul_farrelly": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "jim_fitzpatrick": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "robert_flello": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "caroline_flint": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "paul_flynn": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "yvonne_fovargue": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "hywel_francis": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "mike_gapes": {
+      "weight": 0.8380952380952381,
+      "score": 176,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "barry_gardiner": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "sheila_gilmore": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "pat_glass": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "mary_glindon": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "roger_godsiff": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "paul_goggins": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "helen_goodman": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "tom_greatrex": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "kate_green": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "lilian_greenwood": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "nia_griffith": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "andrew_gwynne": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "peter_hain": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "david_hamilton": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "fabian_hamilton": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "david_hanson": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "harriet_harman": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "tom_harris": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "john_healey": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "mark_hendrick": {
+      "weight": 0.8380952380952381,
+      "score": 176,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "stephen_hepburn": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "david_heyes": {
+      "weight": 0.8380952380952381,
+      "score": 176,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "meg_hillier": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "julie_hilling": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "margaret_hodge": {
+      "weight": 0.8380952380952381,
+      "score": 176,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "sharon_hodgson": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "kate_hoey": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "jimmy_hood": {
+      "weight": 0.7619047619047619,
+      "score": 160,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "kelvin_hopkins": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "george_howarth": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "tristram_hunt": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "huw_irranca_davies": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "glenda_jackson": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "sian_james": {
+      "weight": 0.6428571428571429,
+      "score": 135,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 2
+        },
+        {
+          "option": "absent",
+          "value": 3
+        }
+      ]
+    },
+    "cathy_jamieson": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "dan_jarvis": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "alan_johnson": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "diana_johnson": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "graham_jones": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "helen_jones": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "susan_elan_jones": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "tessa_jowell": {
+      "weight": 0.8380952380952381,
+      "score": 176,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "eric_joyce": {
+      "weight": 0.719047619047619,
+      "score": 151,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 2
+        },
+        {
+          "option": "absent",
+          "value": 3
+        }
+      ]
+    },
+    "gerald_kaufman": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "barbara_keeley": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "liz_kendall": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "sadiq_khan": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "david_lammy": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "ian_lavery": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "mark_lazarowicz": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "christopher_leslie": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "ivan_lewis": {
+      "weight": 0.8380952380952381,
+      "score": 176,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "tony_lloyd": {
+      "weight": 1.0,
+      "score": 150,
+      "num_votes": 3,
+      "num_motions": 3,
+      "min": 0,
+      "max": 150,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        }
+      ]
+    },
+    "andrew_love": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "ian_lucas": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "denis_macshane": {
+      "weight": 0.6666666666666666,
+      "score": 100,
+      "num_votes": 1,
+      "num_motions": 3,
+      "min": 0,
+      "max": 150,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 1
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "fiona_mactaggart": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "shabana_mahmood": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "seema_malhotra": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "john_mann": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "gordon_marsden": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "stephen_mccabe": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "kerry_mccarthy": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "gregg_mcclymont": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "siobhain_mcdonagh": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "john_mcdonnell": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "pat_mcfadden": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "jim_mcgovern": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "anne_mcguire": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "ann_mckechin": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "iain_mckenzie": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "catherine_mckinnell": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "michael_meacher": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "ian_mearns": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "alun_michael": {
+      "weight": 1.0,
+      "score": 150,
+      "num_votes": 3,
+      "num_motions": 3,
+      "min": 0,
+      "max": 150,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        }
+      ]
+    },
+    "david_miliband": {
+      "weight": 0.75,
+      "score": 150,
+      "num_votes": 2,
+      "num_motions": 4,
+      "min": 0,
+      "max": 200,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 2
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "edward_miliband": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "austin_mitchell": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "jessica_morden": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "graeme_morrice": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "grahame_morris": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "george_mudie": {
+      "weight": 0.7619047619047619,
+      "score": 160,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "meg_munn": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "jim_murphy": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "paul_murphy": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "ian_murray": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "lisa_nandy": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "fiona_odonnell": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "chi_onwurah": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "albert_owen": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "teresa_pearce": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "toby_perkins": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "stephen_pound": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "yasmin_qureshi": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "nick_raynsford": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "rachel_reeves": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "emma_reynolds": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "jonathan_reynolds": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "linda_riordan": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "john_robertson": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "steve_rotheram": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "frank_roy": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "lindsay_roy": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "chris_ruane": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "joan_ruddock": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "anas_sarwar": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "alison_seabeck": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "virendra_sharma": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "barry_sheerman": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "jim_sheridan": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "gavin_shuker": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "dennis_skinner": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "andy_slaughter": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "andrew_smith": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "angela_c_smith": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "owen_smith": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "john_spellar": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "jack_straw": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "graham_stringer": {
+      "weight": 0.8380952380952381,
+      "score": 176,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "gisela_stuart": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "gerry_sutcliffe": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "mark_tami": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "gareth_r_thomas": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "emily_thornberry": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "stephen_timms": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "jon_trickett": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "karl_turner": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "derek_twigg": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "stephen_twigg": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "chuka_umunna": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "keith_vaz": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "valerie_vaz": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "joan_walley": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "tom_watson": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "dave_watts": {
+      "weight": 0.7619047619047619,
+      "score": 160,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "alan_whitehead": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "malcolm_wicks": {
+      "weight": 0.8333333333333334,
+      "score": 125,
+      "num_votes": 2,
+      "num_motions": 3,
+      "min": 0,
+      "max": 150,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 2
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "chris_williamson": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "phil_wilson": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "david_winnick": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "rosie_winterton": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "john_woodcock": {
+      "weight": 0.7619047619047619,
+      "score": 160,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "shaun_woodward": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "david_wright": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "iain_wright": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "kevin_barron": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "yes",
+          "value": 4
+        }
+      ]
+    },
+    "ian_davidson": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "yes",
+          "value": 4
+        }
+      ]
+    },
+    "natascha_engel": {
+      "weight": 0.719047619047619,
+      "score": 151,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 3
+        },
+        {
+          "option": "yes",
+          "value": 2
+        }
+      ]
+    },
+    "frank_field": {
+      "weight": 0.719047619047619,
+      "score": 151,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 3
+        },
+        {
+          "option": "yes",
+          "value": 2
+        }
+      ]
+    },
+    "dai_havard": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "yes",
+          "value": 4
+        }
+      ]
+    },
+    "lindsay_hoyle": {
+      "weight": 0.48095238095238096,
+      "score": 101,
+      "num_votes": 0,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 5
+        }
+      ]
+    },
+    "kevan_jones": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "yes",
+          "value": 4
+        }
+      ]
+    },
+    "khalid_mahmood": {
+      "weight": 0.7619047619047619,
+      "score": 160,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "yes",
+          "value": 3
+        }
+      ]
+    },
+    "michael_mccann": {
+      "weight": 0.8380952380952381,
+      "score": 176,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "yes",
+          "value": 3
+        }
+      ]
+    },
+    "alison_mcgovern": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "yes",
+          "value": 4
+        }
+      ]
+    },
+    "alan_meale": {
+      "weight": 0.7619047619047619,
+      "score": 160,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "yes",
+          "value": 3
+        }
+      ]
+    },
+    "andrew_miller": {
+      "weight": 0.7619047619047619,
+      "score": 160,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "yes",
+          "value": 3
+        }
+      ]
+    },
+    "madeleine_moon": {
+      "weight": 0.7619047619047619,
+      "score": 160,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "yes",
+          "value": 3
+        }
+      ]
+    },
+    "pamela_nash": {
+      "weight": 0.7619047619047619,
+      "score": 160,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "yes",
+          "value": 3
+        }
+      ]
+    },
+    "sandra_osborne": {
+      "weight": 0.8380952380952381,
+      "score": 176,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "yes",
+          "value": 3
+        }
+      ]
+    },
+    "bridget_phillipson": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "yes",
+          "value": 4
+        }
+      ]
+    },
+    "dawn_primarolo": {
+      "weight": 0.48095238095238096,
+      "score": 101,
+      "num_votes": 0,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 5
+        }
+      ]
+    },
+    "jamie_reed": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "yes",
+          "value": 4
+        }
+      ]
+    },
+    "geoffrey_robinson": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "yes",
+          "value": 4
+        }
+      ]
+    },
+    "marsha_singh": {
+      "weight": 0.5,
+      "score": 25,
+      "num_votes": 0,
+      "num_motions": 1,
+      "min": 0,
+      "max": 50,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "nick_smith": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "yes",
+          "value": 4
+        }
+      ]
+    },
+    "mike_wood": {
+      "weight": 0.7619047619047619,
+      "score": 160,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "yes",
+          "value": 3
+        }
+      ]
+    },
+    "danny_alexander": {
+      "weight": 0.3619047619047619,
+      "score": 76,
+      "num_votes": 1,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 1
+        },
+        {
+          "option": "absent",
+          "value": 4
+        }
+      ]
+    },
+    "alan_beith": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "gordon_birtwistle": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "tom_brake": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "annette_brooke": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "jeremy_browne": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "malcolm_bruce": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "paul_burstow": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "lorely_burt": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "menzies_campbell": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "alistair_carmichael": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "michael_crockart": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "edward_davey": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "tim_farron": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "lynne_featherstone": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "don_foster": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "andrew_george": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "stephen_gilbert": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "duncan_hames": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "nick_harvey": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "john_hemming": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "martin_horwood": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "simon_hughes": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "christopher_huhne": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 4,
+      "num_motions": 4,
+      "min": 0,
+      "max": 200,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "mark_hunter": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "julian_huppert": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "norman_lamb": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "david_laws": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "john_leech": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "stephen_lloyd": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "michael_moore": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "greg_mulholland": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "tessa_munt": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "john_pugh": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "alan_reid": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "dan_rogerson": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "adrian_sanders": {
+      "weight": 0.004761904761904762,
+      "score": 1,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "andrew_stunell": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "ian_swales": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "jo_swinson": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "sarah_teather": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "john_thurso": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "steve_webb": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "mark_williams": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "stephen_williams": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "jennifer_willott": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "simon_wright": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "no",
+          "value": 5
+        }
+      ]
+    },
+    "norman_baker": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "vincent_cable": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "nicholas_clegg": {
+      "weight": 0.48095238095238096,
+      "score": 101,
+      "num_votes": 0,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 5
+        }
+      ]
+    },
+    "mike_hancock": {
+      "weight": 0.48095238095238096,
+      "score": 101,
+      "num_votes": 0,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 5
+        }
+      ]
+    },
+    "david_heath": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "no",
+          "value": 3
+        }
+      ]
+    },
+    "charles_kennedy": {
+      "weight": 0.24285714285714285,
+      "score": 51,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 3
+        },
+        {
+          "option": "no",
+          "value": 2
+        }
+      ]
+    },
+    "bob_russell": {
+      "weight": 0.11904761904761904,
+      "score": 25,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "no",
+          "value": 4
+        }
+      ]
+    },
+    "robert_smith": {
+      "weight": 0.12380952380952381,
+      "score": 26,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "no",
+          "value": 3
+        }
+      ]
+    },
+    "david_ward": {
+      "weight": 0.24285714285714285,
+      "score": 51,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 3
+        },
+        {
+          "option": "no",
+          "value": 2
+        }
+      ]
+    },
+    "roger_williams": {
+      "weight": 0.23809523809523808,
+      "score": 50,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 2
+        },
+        {
+          "option": "no",
+          "value": 3
+        }
+      ]
+    },
+    "jonathan_edwards": {
+      "weight": 0.7619047619047619,
+      "score": 160,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "elfyn_llwyd": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "hywel_williams": {
+      "weight": 0.9571428571428572,
+      "score": 201,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "mark_durkan": {
+      "weight": 1.0,
+      "score": 210,
+      "num_votes": 5,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 5
+        }
+      ]
+    },
+    "alasdair_mcdonnell": {
+      "weight": 0.8380952380952381,
+      "score": 176,
+      "num_votes": 3,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 3
+        },
+        {
+          "option": "absent",
+          "value": 2
+        }
+      ]
+    },
+    "margaret_ritchie": {
+      "weight": 0.6428571428571429,
+      "score": 135,
+      "num_votes": 2,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 3
+        },
+        {
+          "option": "yes",
+          "value": 2
+        }
+      ]
+    },
+    "pat_doherty": {
+      "weight": 0.48095238095238096,
+      "score": 101,
+      "num_votes": 0,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 5
+        }
+      ]
+    },
+    "michelle_gildernew": {
+      "weight": 0.48095238095238096,
+      "score": 101,
+      "num_votes": 0,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 5
+        }
+      ]
+    },
+    "paul_maskey": {
+      "weight": 0.48095238095238096,
+      "score": 101,
+      "num_votes": 0,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 5
+        }
+      ]
+    },
+    "martin_mcguinness": {
+      "weight": 0.5,
+      "score": 75,
+      "num_votes": 0,
+      "num_motions": 3,
+      "min": 0,
+      "max": 150,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 3
+        }
+      ]
+    },
+    "conor_murphy": {
+      "weight": 0.48095238095238096,
+      "score": 101,
+      "num_votes": 0,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 5
+        }
+      ]
+    },
+    "stewart_hosie": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "angus_macneil": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "angus_robertson": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "michael_weir": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "eilidh_whiteford": {
+      "weight": 0.8809523809523809,
+      "score": 185,
+      "num_votes": 4,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 4
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "pete_wishart": {
+      "weight": 0.6,
+      "score": 126,
+      "num_votes": 1,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 4
+        },
+        {
+          "option": "yes",
+          "value": 1
+        }
+      ]
+    },
+    "john_bercow": {
+      "weight": 0.48095238095238096,
+      "score": 101,
+      "num_votes": 0,
+      "num_motions": 5,
+      "min": 0,
+      "max": 210,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 5
+        }
+      ]
+    },
+    "george_galloway": {
+      "weight": 0.475,
+      "score": 76,
+      "num_votes": 0,
+      "num_motions": 4,
+      "min": 0,
+      "max": 160,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 4
+        }
+      ]
+    },
+    "sarah_champion": {
+      "weight": 0.85,
+      "score": 51,
+      "num_votes": 1,
+      "num_motions": 2,
+      "min": 0,
+      "max": 60,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 1
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "stephen_doughty": {
+      "weight": 1.0,
+      "score": 60,
+      "num_votes": 2,
+      "num_motions": 2,
+      "min": 0,
+      "max": 60,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 2
+        }
+      ]
+    },
+    "andrew_mcdonald": {
+      "weight": 0.85,
+      "score": 51,
+      "num_votes": 1,
+      "num_motions": 2,
+      "min": 0,
+      "max": 60,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 1
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "lucy_powell": {
+      "weight": 0.85,
+      "score": 51,
+      "num_votes": 1,
+      "num_motions": 2,
+      "min": 0,
+      "max": 60,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 1
+        },
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    },
+    "andy_sawford": {
+      "weight": 1.0,
+      "score": 60,
+      "num_votes": 2,
+      "num_motions": 2,
+      "min": 0,
+      "max": 60,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 2
+        }
+      ]
+    },
+    "steve_reed": {
+      "weight": 0.5833333333333334,
+      "score": 35,
+      "num_votes": 1,
+      "num_motions": 2,
+      "min": 0,
+      "max": 60,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        },
+        {
+          "option": "yes",
+          "value": 1
+        }
+      ]
+    },
+    "emma_lewell_buck": {
+      "weight": 1.0,
+      "score": 10,
+      "num_votes": 1,
+      "num_motions": 1,
+      "min": 0,
+      "max": 10,
+      "counts": [
+        {
+          "option": "yes",
+          "value": 1
+        }
+      ]
+    },
+    "mike_thornton": {
+      "weight": 0.0,
+      "score": 0,
+      "num_votes": 1,
+      "num_motions": 1,
+      "min": 0,
+      "max": 10,
+      "counts": [
+        {
+          "option": "no",
+          "value": 1
+        }
+      ]
+    },
+    "francie_molloy": {
+      "weight": 0.1,
+      "score": 1,
+      "num_votes": 0,
+      "num_motions": 1,
+      "min": 0,
+      "max": 10,
+      "counts": [
+        {
+          "option": "absent",
+          "value": 1
+        }
+      ]
+    }
+  }
+}
