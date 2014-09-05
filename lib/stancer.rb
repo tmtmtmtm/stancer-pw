@@ -9,9 +9,19 @@ class Stancer
     all_motions.find { |m| m['id'] == id }
   end
 
+  def all_issues
+    # TODO convert these into Issue objects
+    @issues ||= JSON.parse(File.read(issues_file))
+  end
+
   private 
+
   def motions_file
     @opt[:motions_file] or raise "Configuration missing: motions_file"
+  end
+
+  def issues_file
+    @opt[:issues_file] or raise "Configuration missing: issues_file"
   end
 
   def all_motions

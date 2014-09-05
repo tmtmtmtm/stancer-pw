@@ -6,10 +6,13 @@ require 'json'
 require 'stancer'
 require 'colorize'
 
-issues  = JSON.parse(File.read('issues.json'))
-stancer = Stancer.new(motions_file: 'motions.json')
+stancer = Stancer.new(
+  motions_file: 'motions.json',
+  issues_file:  'issues.json',
+)
 
-allstances = issues.map do |i|
+allstances = stancer.all_issues.map do |i|
+  warn "Processing issue #{i['id']}: #{i['text']}".green
   as = i['aspects'].map do |a| 
     a['motion'] = stancer.find_motion(a['motion_id']) or raise "No such motion"
     a
