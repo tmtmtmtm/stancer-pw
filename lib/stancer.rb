@@ -5,6 +5,12 @@ class Stancer
     @opt = opt
   end
 
+  def all_stances(group, filter=nil)
+    all_issues.map { |i| issue_stance(i, group, filter).to_h }
+  end
+        
+  private 
+
   def find_motion(id)
     all_motions.find { |m| m['id'] == id }
   end
@@ -31,8 +37,6 @@ class Stancer
     i.delete('aspects')
     i
   end
-      
-  private 
 
   def motions_file
     @opt[:motions_file] or raise "Configuration missing: motions_file"
