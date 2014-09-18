@@ -7,7 +7,7 @@
       "summary",
       "foreignpolicy"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2008-03-04-112",
         "result": "failed",
@@ -105,7 +105,7 @@
     "categories": [
       "misc"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2000-03-10-101",
         "result": "passed",
@@ -357,7 +357,7 @@
     "categories": [
       "foreignpolicy"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2002-09-24-319",
         "result": "failed",
@@ -433,7 +433,7 @@
     "categories": [
       "social"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2002-03-18-197",
         "result": "failed",
@@ -520,7 +520,7 @@
     "categories": [
       "home"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2004-12-20-23",
         "result": "failed",
@@ -795,7 +795,7 @@
       "summary",
       "education"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-1997-11-04-81",
         "result": "passed",
@@ -948,7 +948,7 @@
     "categories": [
       "misc"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2001-11-19-65",
         "result": "passed",
@@ -1729,7 +1729,7 @@
       "summary",
       "foreignpolicy"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2006-05-16-239",
         "result": "failed",
@@ -2432,7 +2432,7 @@
     "categories": [
       "home"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2008-06-10-217",
         "result": "failed",
@@ -2497,7 +2497,7 @@
     "categories": [
       "education"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-1998-03-11-198",
         "result": "failed",
@@ -2838,7 +2838,7 @@
       "summary",
       "reform"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-1999-02-02-52",
         "result": "failed",
@@ -2959,7 +2959,7 @@
       "summary",
       "reform"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2010-02-09-78",
         "result": "failed",
@@ -3013,7 +3013,7 @@
     "categories": [
       "home"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2002-06-11-264",
         "result": "passed",
@@ -3243,7 +3243,7 @@
     "categories": [
       "misc"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2009-02-11-36",
         "result": "failed",
@@ -3309,7 +3309,7 @@
       "summary",
       "taxation"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2004-03-02-68",
         "result": "failed",
@@ -3364,7 +3364,7 @@
       "summary",
       "taxation"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2008-12-17-9",
         "result": "failed",
@@ -3606,7 +3606,7 @@
       "summary",
       "reform"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2010-09-06-51",
         "result": "passed",
@@ -3726,7 +3726,7 @@
     "categories": [
       "misc"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2010-09-07-54",
         "result": "failed",
@@ -3791,7 +3791,7 @@
     "categories": [
       "taxation"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2010-03-08-103",
         "result": "passed",
@@ -3824,7 +3824,7 @@
       "summary",
       "education"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2010-12-09-150",
         "result": "passed",
@@ -3846,7 +3846,7 @@
       "summary",
       "reform"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2010-09-06-51",
         "result": "passed",
@@ -3922,7 +3922,7 @@
     "categories": [
       "health"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2003-05-07-177",
         "result": "failed",
@@ -3988,7 +3988,7 @@
       "summary",
       "welfare"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2010-11-09-113",
         "result": "failed",
@@ -4307,7 +4307,7 @@
       "summary",
       "reform"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2010-06-29-12",
         "result": "failed",
@@ -4351,7 +4351,7 @@
       "summary",
       "welfare"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2011-03-09-219",
         "result": "failed",
@@ -4472,7 +4472,7 @@
       "summary",
       "welfare"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2011-03-09-219",
         "result": "failed",
@@ -4560,7 +4560,7 @@
       "summary",
       "welfare"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2013-01-08-128",
         "result": "failed",
@@ -4625,7 +4625,7 @@
     "categories": [
       "health"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2011-01-31-185",
         "result": "passed",
@@ -4712,7 +4712,7 @@
     "categories": [
       "health"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2011-03-16-233",
         "result": "failed",
@@ -4800,7 +4800,7 @@
       "summary",
       "reform"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2013-09-03-71",
         "result": "failed",
@@ -4931,7 +4931,7 @@
     "categories": [
       "business"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2011-03-29-237",
         "result": "passed",
@@ -5051,7 +5051,7 @@
     "categories": [
       "taxation"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2011-03-29-237",
         "result": "passed",
@@ -5193,7 +5193,7 @@
     "categories": [
       "taxation"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2012-03-26-503",
         "result": "passed",
@@ -5247,7 +5247,7 @@
     "categories": [
       "education"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2011-01-19-176",
         "result": "failed",
@@ -5279,7 +5279,7 @@
     "categories": [
       "reform"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2012-01-10-414",
         "result": "passed",
@@ -5344,7 +5344,7 @@
     "categories": [
       "welfare"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2012-01-10-414",
         "result": "passed",
@@ -5398,7 +5398,7 @@
     "categories": [
       "taxation"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2011-06-22-304",
         "result": "failed",
@@ -5595,7 +5595,7 @@
     "categories": [
       "social"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2013-02-05-153",
         "result": "passed",
@@ -5660,7 +5660,7 @@
     "categories": [
       "education"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2010-07-19-29",
         "result": "failed",
@@ -5758,7 +5758,7 @@
     "categories": [
       "foreignpolicy"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2002-11-25-6",
         "result": "failed",
@@ -5856,7 +5856,7 @@
     "categories": [
       "business"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2013-03-25-196",
         "result": "passed",
@@ -5910,7 +5910,7 @@
     "categories": [
       "business"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2010-06-08-2",
         "result": "failed",
@@ -6030,7 +6030,7 @@
     "categories": [
       "misc"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2012-01-11-420",
         "result": "failed",
@@ -6095,7 +6095,7 @@
     "categories": [
       "taxation"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2010-07-06-14",
         "result": "passed",
@@ -6270,7 +6270,7 @@
     "categories": [
       "taxation"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2010-03-30-122",
         "result": "passed",
@@ -6456,7 +6456,7 @@
     "categories": [
       "home"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2010-09-08-57",
         "result": "failed",
@@ -6532,7 +6532,7 @@
     "categories": [
       "misc"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2011-02-02-188",
         "result": "failed",
@@ -6564,7 +6564,7 @@
     "categories": [
       "welfare"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2011-10-12-365",
         "result": "failed",
@@ -6662,7 +6662,7 @@
     "categories": [
       "social"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2012-12-04-110",
         "result": "failed",
@@ -6716,7 +6716,7 @@
     "categories": [
       "misc"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2011-11-23-400",
         "result": "failed",
@@ -6781,7 +6781,7 @@
     "categories": [
       "misc"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2013-01-09-131",
         "result": "failed",
@@ -6813,7 +6813,7 @@
     "categories": [
       "foreign"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2010-03-01-89",
         "result": "failed",
@@ -6867,7 +6867,7 @@
     "categories": [
       "misc"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2011-06-29-310",
         "result": "passed",
@@ -6998,7 +6998,7 @@
     "categories": [
       "reform"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2011-03-14-222",
         "result": "failed",
@@ -7118,7 +7118,7 @@
     "categories": [
       "reform"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2011-01-27-184",
         "result": "failed",
@@ -7216,7 +7216,7 @@
     "categories": [
       "misc"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2012-10-25-87",
         "result": "passed",
@@ -7271,7 +7271,7 @@
       "social",
       "health"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-1999-05-04-164",
         "result": "failed",
@@ -7391,7 +7391,7 @@
     "categories": [
       "social"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-1998-06-22-311",
         "result": "passed",
@@ -7688,7 +7688,7 @@
       "summary",
       "reform"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2003-02-04-75",
         "result": "failed",
@@ -7841,7 +7841,7 @@
     "categories": [
       "foreignpolicy"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2003-06-04-217",
         "result": "failed",
@@ -8028,7 +8028,7 @@
       "summary",
       "foreignpolicy"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2007-03-14-77",
         "result": "failed",
@@ -8060,7 +8060,7 @@
     "categories": [
       "reform"
     ],
-    "aspects": [
+    "indicators": [
       {
         "motion_id": "pw-2007-04-20-94",
         "result": "failed",

@@ -6,34 +6,29 @@ Generate 'Stances' for Vote Data
 
 ## Background
 
-A [voteit-api server](https://github.com/tmtmtmtm/voteit-api) allows you
-to access aggregate information on how people or groups voted on
-given motions. 
+[Stancer](https://github.com/tmtmtmtm/stancer) allows you
+generate the 'stances' taken by a politician, or group of politicians,
+on an Issue.
 
-``Stancer`` lets you set up Issues as a collection of motions, apply
-weightings to each, and get an aggregate stance on the whole issue.
-
-An example of this can be seen at http://ukvotes.discomposer.com/
+This is the specific implementation of that for UK voting data.
 
 ## Status
 
-This is a work in progress. 
+This is a work in progress, with the goal of entirely removing this
+project. To do this we need to end up solely with configuration files
+that can be passed to the generic stancer, using data entirely at remote
+sources.
 
-The code currently has several hard-coded assumptions in relation to its
-use with [stance-viewer-uk](https://github.com/tmtmtmtm/stance-viewer-uk)
+## Current Usage
 
-If you want to use this elsewhere, let me know and I can help factor it
-out a little better.
+1. Install 'stancer' from https://github.com/tmtmtmtm/stancer
 
-## Usage
+2. Produce a suitable ``issues.json`` file (see for example, [voteit-data-pw](https://github.com/tmtmtmtm/voteit-data-pw))
 
-1. Produce an ``issues.json`` file — for example, by following the example 
-at [voteit-data-pw](https://github.com/tmtmtmtm/voteit-data-pw)
+3. Produce a ``motions.json`` file 
 
-2. ``ruby -Ilib/ bin/make_party_stances.rb > partystances.json``
+3. ``ruby bin/make_party_stances.rb > partystances.json``
 
-3. ``ruby -Ilib/ bin/make_mp_stances.rb > mpstances.json``
+4. ``ruby bin/make_mp_stances.rb > mpstances.json``
 
-4. Copy those JSON files to your Stance Viewer (see 
-[stance-viewer-uk](https://github.com/tmtmtmtm/stance-viewer-uk) for an
-example.)
+5. Copy those JSON files to your Stance Viewer 
