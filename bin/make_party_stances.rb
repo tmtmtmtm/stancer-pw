@@ -9,13 +9,12 @@ stancer = Stancer.new({
   sources: {
     issues:   'issues.json',  # includes indicators
     motions:  'motions.json', # includes votes
-  },
-  options: { 
-    grouping: 'group',
-    exclude:  'indicators',
   }
 })
 
-allstances = stancer.all_stances
+allstances = stancer.all_stances(
+  group_by: 'group',
+  exclude:  'indicators',
+)
 puts JSON.pretty_generate(allstances.sort_by { |s| s['id'].sub(/^PW-/, '').to_i })
 
